@@ -310,7 +310,7 @@ const App = () => {
           )} */}
 
 
-      <BrowserRouter basename="/paga-ginita">
+      <BrowserRouter basename="/pagalaprofe">
         <Routes>
           <Route path="/" element={<Targeta blogs={blogs2} />}></Route>
             <Route path="/local" element={<Local blogs={blogs2} />}></Route>
