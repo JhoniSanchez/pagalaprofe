@@ -309,6 +309,7 @@ const App = () => {
             />
           )} */}
 
+
       <BrowserRouter basename="/paga-ginita">
         <Routes>
           <Route path="/" element={<Targeta blogs={blogs2} />}></Route>
