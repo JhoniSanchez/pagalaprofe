@@ -94,6 +94,9 @@ const App = () => {
     const productoA = Number(a.precio);
     const productoB = Number(b.precio);
 
+    //         const productoA = a.producto;
+    // const productoB = b.producto;
+
     if (productoA < productoB) {
       return 1;
     }
@@ -104,8 +107,14 @@ const App = () => {
   };
 
   const compararProductosPorAB = (a, b) => {
-    const productoA = Number(a.img);
-    const productoB = Number(b.img);
+    const productoA = Number(a.producto);
+    const productoB = Number(b.producto);
+
+    //     const productoA = Number(a.precio);
+    // const productoB = Number(b.precio);
+
+    //     const productoA = a.producto;
+    // const productoB = b.producto;
 
     if (productoA < productoB) {
       return -1;

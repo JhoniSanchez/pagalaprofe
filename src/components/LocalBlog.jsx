@@ -134,7 +134,9 @@ const LocalBlog = ({ blog, dele }) => {
         ref={imgRef}
         src={
           isVisible && blog.mostrar == 1
-            ? `img/media/${blog.img}.JPG`
+            // ? `img/media/${blog.img}.JPG`
+               ? `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`
+            
             : ""
         }
         alt=""
