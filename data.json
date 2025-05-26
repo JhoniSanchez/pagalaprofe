@@ -1,6 +1,15 @@
 {
   "datos": [
     {
+        "img": "85",
+        "producto": "CAJA COFRE NE METAL",
+        "categoria": "ADORNOS",
+        "precio": "200",
+        "ubicacion": "",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
         "img": "14",
         "producto": "EXTRACTOR DE JUGOS",
         "categoria": "ELECTRODOMESTICO",
@@ -19,227 +28,11 @@
         "actualizado": "1"
     },
     {
-        "img": "54",
-        "producto": "MAQUINA DE SOPAS PHILIPS",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "1800",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "144",
-        "producto": "OLLA DE PASTAS",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "1800",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "476",
-        "producto": "BOTAS DE FRIO EN CUERO MARRON CLARO  HIDRO SHIELD 7.5",
-        "categoria": "CALZADO",
-        "precio": "1300",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "121",
-        "producto": "PEINE TENAZA ELECTRICO",
-        "categoria": "PERSONAL",
-        "precio": "1500",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "292",
-        "producto": "TERMO GUARDIA FRIO CALIENTE 25 HORAS",
-        "categoria": "PERSONAL",
-        "precio": "1500",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "502",
-        "producto": "CARTERA MAMEI BCBG MEDIO GRANDE EN PIEL",
-        "categoria": "MUJER",
-        "precio": "1500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "508",
-        "producto": "CARTERA MORADA ENZO AMGIDIM GRANDE EN PIEL DE PELO BRILLANTE",
-        "categoria": "MUJER",
-        "precio": "1500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "519",
-        "producto": "CARTERA AZUL CALVIN KLEIN PIEL GRANDE",
-        "categoria": "MUJER",
-        "precio": "1500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "522",
-        "producto": "CARTERA NEGRA TIGNANELO MEDIANA GRUESA PIEL",
-        "categoria": "MUJER",
-        "precio": "1500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "530",
-        "producto": "CARTERA ROSADA Y CREMA COACH MEDIANA  EN TELA  PIEL",
-        "categoria": "MUJER",
-        "precio": "1400",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "536",
-        "producto": "CARTERA GRIS OSCURO YANI MEDIO GRANDE ",
-        "categoria": "MUJER",
-        "precio": "1400",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "459",
-        "producto": "ZAPATOS NEGRO DE VESTIR CLIFFS 9M",
-        "categoria": "CALZADO",
-        "precio": "1300",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "482",
-        "producto": "ZAPATOS MARRON DE VESTIR CLIFFS 9M",
-        "categoria": "CALZADO",
-        "precio": "1300",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "105",
-        "producto": "JUEGO DE ADORNOS BAÑO",
-        "categoria": "HOGAR",
-        "precio": "1200",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "202",
-        "producto": "JUEGO DE COCHILLOS KITCHEN DELITE ACERO INOXIDABLE ",
-        "categoria": "COCINA",
-        "precio": "1200",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "204",
-        "producto": "BLOWER IONIC ROJO ",
-        "categoria": "PERSONAL",
-        "precio": "1200",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "407",
-        "producto": "JUEGO DE PLATOS GRUESOS 2 PRINCIPAL Y 10 SECUNDARIOS",
-        "categoria": "CRISTALES",
-        "precio": "1200",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "468",
-        "producto": "SANDALIAS MARON CLARO NAUTICA 9 USA",
-        "categoria": "CALZADO",
-        "precio": "1200",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "516",
-        "producto": "CARTERA AZUL ROSETTI MEDIANA EN PIEL",
-        "categoria": "MUJER",
-        "precio": "1200",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "529",
-        "producto": "CARTERA CREMA OSCURO LAUREN MEDIO GRANDE PIEL ",
-        "categoria": "MUJER",
-        "precio": "1200",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "531",
-        "producto": "MOCHILA MARRON AMARILLENTO GENERICA MEDIANA EN PIEL ",
-        "categoria": "MUJER",
-        "precio": "1200",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
         "img": "2",
         "producto": "JUEGO DE COCHILLOS LIMA Y TIJERAS HAMPTON 12 UNIDADES",
         "categoria": "COCINA",
         "precio": "1100",
         "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "201",
-        "producto": "MAQUINA DE AZAR BARBIKIU GRANDE",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "1100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "478",
-        "producto": "TENIS NEGROS NEW BALANCE 12 USA",
-        "categoria": "CALZADO",
-        "precio": "1100",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "487",
-        "producto": "TENIS AZUL MAMEI NIÑOS GOMA STRIDE RITE 13 USA",
-        "categoria": "CALZADO",
-        "precio": "1100",
-        "ubicacion": "CZ",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -254,10 +47,361 @@
     },
     {
         "img": "10",
-        "producto": "CUBRECAMA",
+        "producto": "FUNDA DE ALMOHADA NEGRA TIPO TOALLA",
         "categoria": "HOGAR",
-        "precio": "1000",
+        "precio": "150",
         "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "3",
+        "producto": "SET DE 11 COCHULLOS REBANADORES",
+        "categoria": "COCINA",
+        "precio": "900",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "11",
+        "producto": "MAQUINA HUMIDIFICADORA",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "500",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "27",
+        "producto": "2 COPAS DE VINO EN CAJA",
+        "categoria": "CRISTALES",
+        "precio": "500",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "39",
+        "producto": "TERMO EN METAL QUE RETIENE CALOR Y FRIO",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "40",
+        "producto": "TERMO EN METAL QUE RETIENE CALOR Y FRIO",
+        "categoria": "PERSONAL",
+        "precio": "400",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "4",
+        "producto": "CUCHILLOS",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "13",
+        "producto": "ENVASE DE MICROONDAS PALOMITAS",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "20",
+        "producto": "OLLA SARTEN HONDA",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "30",
+        "producto": "MINI PESO ELECTRONICO DE MANO",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "300",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "41",
+        "producto": "ENVASE DE LAVAR VEGETALES",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "5",
+        "producto": "FUNDAS DE ALMOHADAS",
+        "categoria": "HOGAR",
+        "precio": "250",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "7",
+        "producto": "FUNDAS DE ALMOHADAS",
+        "categoria": "HOGAR",
+        "precio": "250",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "8",
+        "producto": "FUNDAS DE ALMOHADAS",
+        "categoria": "HOGAR",
+        "precio": "250",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "22",
+        "producto": "TERMO MORADO",
+        "categoria": "PERSONAL",
+        "precio": "200",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "23",
+        "producto": "TERMO ROSADO",
+        "categoria": "PERSONAL",
+        "precio": "200",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "38",
+        "producto": "3 ENVASES DE COCINA",
+        "categoria": "COCINA",
+        "precio": "200",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "42",
+        "producto": "VALENTADOR DE PAÑOS BEBE",
+        "categoria": "PERSONAL",
+        "precio": "200",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "43",
+        "producto": "VELON AROMATICO PEQUEÑO",
+        "categoria": "ADORNOS",
+        "precio": "200",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "24",
+        "producto": "TERMO GRIS SENCILLO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "28",
+        "producto": "MANTEL DE MESA",
+        "categoria": "HOGAR",
+        "precio": "150",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "1",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "6",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "12",
+        "producto": "CUADRO FIRE PETIT",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "16",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "17",
+        "producto": "SILLA",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "18",
+        "producto": "TASA",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "19",
+        "producto": "MUÑECA",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "21",
+        "producto": "PORTARETRATO",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "25",
+        "producto": "VELON AROMATICO PEQUEÑO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "26",
+        "producto": "SOPORTES",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "31",
+        "producto": "PORTARETRATO",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "34",
+        "producto": "TERMO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "35",
+        "producto": "ADORNO ARTESANAL",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "37",
+        "producto": "TABLITA DE PICAR VEGETALES",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "29",
+        "producto": "MINI VIRGENCITA",
+        "categoria": "ADORNOS",
+        "precio": "50",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "32",
+        "producto": "LAMPARA DE FUEGO",
+        "categoria": "ADORNOS",
+        "precio": "50",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "33",
+        "producto": "PORTA LAPICES",
+        "categoria": "ADORNOS",
+        "precio": "50",
+        "ubicacion": "C1",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "36",
+        "producto": "MINI PESO ELECTRONICO DE MANO",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "0",
+        "ubicacion": "C1",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "54",
+        "producto": "MAQUINA DE SOPAS PHILIPS",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "1800",
+        "ubicacion": "C2",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -294,6 +438,159 @@
         "categoria": "ELECTRODOMESTICO",
         "precio": "1000",
         "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "57",
+        "producto": "NEVERA PLASTICA REDODA ROSADA",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "50",
+        "producto": "ENVASE DE LAVAR VEGETALES GRANDE REDONDO",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "63",
+        "producto": "CANTINA MERIEDA NIÑOS DESARMABLE",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "56",
+        "producto": "JUEGO DE VASOS EN PLASTICO 50 C/U",
+        "categoria": "COCINA",
+        "precio": "250",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "44",
+        "producto": "MINI AIRE ACONDICIONADO",
+        "categoria": "PERSONAL",
+        "precio": "200",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "45",
+        "producto": "PORTA REVISTAS",
+        "categoria": "ADORNOS",
+        "precio": "200",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "48",
+        "producto": "TENDEDOR DE ROPA INTERIOR",
+        "categoria": "PERSONAL",
+        "precio": "200",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "51",
+        "producto": "ENVASE DE LAVAR VEGETALES MEDIANO REDONDO",
+        "categoria": "COCINA",
+        "precio": "200",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "52",
+        "producto": "CASITA DE COLORES NAVIDAD",
+        "categoria": "ADORNOS",
+        "precio": "200",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "53",
+        "producto": "TERMO SENCILLO METAL VERDE",
+        "categoria": "PERSONAL",
+        "precio": "200",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "61",
+        "producto": "PORTA RETRAT",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "49",
+        "producto": "ADORNO ARTESANAL",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "62",
+        "producto": "TERMO SENCILLO GRIS NEGRO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C2",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "55",
+        "producto": "TRITURADORA",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "0",
+        "ubicacion": "C2",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "60",
+        "producto": "PLANCHA",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "0",
+        "ubicacion": "C2",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "121",
+        "producto": "PEINE TENAZA ELECTRICO",
+        "categoria": "PERSONAL",
+        "precio": "1500",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "105",
+        "producto": "JUEGO DE ADORNOS BAÑO",
+        "categoria": "HOGAR",
+        "precio": "1200",
+        "ubicacion": "C3",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -343,249 +640,6 @@
         "actualizado": "1"
     },
     {
-        "img": "145",
-        "producto": "VASO TERMO LUJO FRIO CALIENTE GRENDE",
-        "categoria": "PERSONAL",
-        "precio": "1000",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "153",
-        "producto": "JUEGO DE SOPERAS GRUESAS ROSADAS Y NEGRAS 150 C/U",
-        "categoria": "COCINA",
-        "precio": "1000",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "168",
-        "producto": "RISADOR DE PELO",
-        "categoria": "PERSONAL",
-        "precio": "1000",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "183",
-        "producto": "TENAZA DE RIZAR PELO",
-        "categoria": "PERSONAL",
-        "precio": "1000",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "269",
-        "producto": "JUEGO DE BAÑO CON TOALLA",
-        "categoria": "PERSONAL",
-        "precio": "1000",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "403",
-        "producto": "JUEGO DE PLATOS BLANCO Y NEGRO",
-        "categoria": "CRISTALES",
-        "precio": "1000",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "408",
-        "producto": "JUEGO DE PLATOS SENCILLOS BORDE AULES Y PRINCIPAL 4 SUB GRUPOS",
-        "categoria": "CRISTALES",
-        "precio": "1000",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "426",
-        "producto": "JUEGO DE COPAS VASOS GRUESAS 9 UNI",
-        "categoria": "CRISTALES",
-        "precio": "1000",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "436",
-        "producto": "JUEGO DE COPAS LARGAS 5 UNI",
-        "categoria": "CRISTALES",
-        "precio": "1000",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "472",
-        "producto": "BOTAS MARRON GOMA Y CUERO COUDWALKEWA 10W",
-        "categoria": "CALZADO",
-        "precio": "1000",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "521",
-        "producto": "CARTERA NEGRA COACH 1941 EN PIEL GRANDE ",
-        "categoria": "MUJER",
-        "precio": "1000",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "528",
-        "producto": "CARTERA CREMA COACH 1941 MEDIANA EN TELA Y PIEL",
-        "categoria": "MUJER",
-        "precio": "1000",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "533",
-        "producto": "CARTERA GRIS OSCURO DSW GRANDE EN TELA Y PIEL",
-        "categoria": "MUJER",
-        "precio": "1000",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "3",
-        "producto": "SET DE 11 COCHULLOS REBANADORES",
-        "categoria": "COCINA",
-        "precio": "900",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "456",
-        "producto": "TENIS NEGRO FRYE 8.5 USA",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "457",
-        "producto": "TENIS ABIERTOS EASYsPIRIT 8.5 USA",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "464",
-        "producto": "ZAPATOS NEGRO DR SCHOLLS 8.5 USA",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "473",
-        "producto": "TACOS PLATAFORMA CREMA MADDEN GIRL 6",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "475",
-        "producto": "BOTAS DE FRIO CRUERO MARRON BRAZIL 8B",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "479",
-        "producto": "TENIS NEGRO GRUEOSS CON METAL POR DENTRO PARA OBREROS ROEBRUCK 9 USA",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "483",
-        "producto": "TENIS BRACH NEGROS 7.5",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "485",
-        "producto": "ZAPATOS MARRON ESTY 8",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "486",
-        "producto": "TACOS AZULES PRADA 36",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "489",
-        "producto": "TENNIS VERDE CLAROS FRYE 10M",
-        "categoria": "CALZADO",
-        "precio": "900",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "494",
-        "producto": "CARTERA CREMA RACHELZOE MEDIO GRANDE EN PIEL Y TELA",
-        "categoria": "MUJER",
-        "precio": "900",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "514",
-        "producto": "CARTERA NEGRA VINCE CAMEITO GRANDE EN PIEL ",
-        "categoria": "MUJER",
-        "precio": "900",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "548",
-        "producto": "CARTERA U BULTICO 2 EN 1 ROSADO AMARILLO OLIVIA MILLIER ",
-        "categoria": "MUJER",
-        "precio": "900",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
         "img": "64",
         "producto": "CAMA INFLABLE",
         "categoria": "PERSONAL",
@@ -613,317 +667,11 @@
         "actualizado": "1"
     },
     {
-        "img": "149",
-        "producto": "BANDEJA PARA TINA DE BAÑO",
-        "categoria": "HOGAR",
-        "precio": "800",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "370",
-        "producto": "VAJILLA FINA DE LUJO TETERA, TASA Y CRISTALES",
-        "categoria": "CRISTALES",
-        "precio": "800",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "375",
-        "producto": "JUEGO PLATOS ESTAMPADOS LEOPARDO",
-        "categoria": "CRISTALES",
-        "precio": "800",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "390",
-        "producto": "JUEGO DE PLATOS GRUESOS EN MOLDE",
-        "categoria": "CRISTALES",
-        "precio": "800",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "432",
-        "producto": "JUEGO DE COPAS RAMITAS 5 UNI",
-        "categoria": "CRISTALES",
-        "precio": "800",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "438",
-        "producto": "JUEGO DE COPAS AGUA RAMITAS",
-        "categoria": "CRISTALES",
-        "precio": "800",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "448",
-        "producto": "JUEGO DE COPAS NAVIDAD",
-        "categoria": "CRISTALES",
-        "precio": "800",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "462",
-        "producto": "BOTAS DE FRIO MARRON METOO 8",
-        "categoria": "CALZADO",
-        "precio": "800",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "466",
-        "producto": "TENIS AZUL NIKE NIÑOS 3.5 USA",
-        "categoria": "CALZADO",
-        "precio": "800",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "467",
-        "producto": "BOTAS NEGRAS SONOMA 9 ",
-        "categoria": "CALZADO",
-        "precio": "800",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "474",
-        "producto": "ZAPATOS NEGROSSTACEY ADAMS 11M",
-        "categoria": "CALZADO",
-        "precio": "800",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "495",
-        "producto": "MOCHILA ZARA BASIC PEQUEÑA EN TELA GRUESA TIPO TEJIDO",
-        "categoria": "MUJER",
-        "precio": "800",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "504",
-        "producto": "CARTERA MARRON ESTAMPADO EN FLORES MEDIANA EN TELA Y PIEL ",
-        "categoria": "MUJER",
-        "precio": "800",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "505",
-        "producto": "CARTERA ROSADA SIONE MEDIO GRANDE EN PIEL",
-        "categoria": "MUJER",
-        "precio": "800",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "509",
-        "producto": "CARTERA MARRON  GENERICA GRANDE EN TELA",
-        "categoria": "MUJER",
-        "precio": "800",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "532",
-        "producto": "CARTERA NEGRA SERGIO VALENTE GRANDE EN CUERO ",
-        "categoria": "MUJER",
-        "precio": "800",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "537",
-        "producto": "CARTERA NEGRA MIZTIGNER MEDIO GRANDE ",
-        "categoria": "MUJER",
-        "precio": "800",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
         "img": "86",
         "producto": "MINI MAQUINA DE COCOER",
         "categoria": "PERSONAL",
         "precio": "700",
         "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "193",
-        "producto": "TOSTADORA",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "700",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "272",
-        "producto": "BLOWER GRIS",
-        "categoria": "PERSONAL",
-        "precio": "700",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "372",
-        "producto": "JUEGO TRES PLATOS ESTAMPADOS BOSQUE",
-        "categoria": "CRISTALES",
-        "precio": "700",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "374",
-        "producto": "JUEGO GRUESO DE PLATSO 5 ESTAMPADOS FLORES VERDES",
-        "categoria": "CRISTALES",
-        "precio": "700",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "406",
-        "producto": "JUEGO DE TASAS DE NAVIDAD ",
-        "categoria": "CRISTALES",
-        "precio": "700",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "429",
-        "producto": "JUEGO DE VASOS RAMITOS SON 5 UNI PERO EN LA FOTO HAY DOS",
-        "categoria": "CRISTALES",
-        "precio": "700",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "433",
-        "producto": "JUEGO DE COPAS MARGARITA 4 UNI",
-        "categoria": "CRISTALES",
-        "precio": "700",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "447",
-        "producto": "JUEGO DE VACITOS ESTAMPADOS PAR A PAR DISEÑOS CELEBRACIONES",
-        "categoria": "CRISTALES",
-        "precio": "700",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "461",
-        "producto": "ZAPATOS MARRON ROJIZO GUCCI 7",
-        "categoria": "CALZADO",
-        "precio": "700",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "465",
-        "producto": "TACOS NEGROS WILD DIVA 8",
-        "categoria": "CALZADO",
-        "precio": "700",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "469",
-        "producto": "ZAPATOS VERDE CLARO SPERRY 9.5",
-        "categoria": "CALZADO",
-        "precio": "700",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "471",
-        "producto": "TENIS AZULES CLARO NIKE 7.5 USA",
-        "categoria": "CALZADO",
-        "precio": "700",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "490",
-        "producto": "TENIS BLANCO Y NEGRO ADIDAS WEIGHTLIFT 11.5 USA",
-        "categoria": "CALZADO",
-        "precio": "700",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "491",
-        "producto": "ZAPATOS MARRON COLTOE 7.5",
-        "categoria": "CALZADO",
-        "precio": "700",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "506",
-        "producto": "CARTERA AMARILLA DOONEY BOURKE MEDIO GRANDE EN TEL A Y PIEL ",
-        "categoria": "MUJER",
-        "precio": "700",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "515",
-        "producto": "CARTERA MARRO ESTAMPADO COACH GRANDE EN TELA",
-        "categoria": "MUJER",
-        "precio": "700",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "540",
-        "producto": "CARTERA ROSADA COACH MEDIANA EN CUERO Y PIEL",
-        "categoria": "MUJER",
-        "precio": "700",
-        "ubicacion": "CC",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -951,213 +699,6 @@
         "categoria": "COCINA",
         "precio": "600",
         "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "147",
-        "producto": "VASO TERMO LUJO FRIO CALIENTE OVALADO PEQUEÑO",
-        "categoria": "PERSONAL",
-        "precio": "600",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "184",
-        "producto": "CUTE PINTURA DE UÑAS 100 C/U",
-        "categoria": "PERSONAL",
-        "precio": "600",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "192",
-        "producto": "HIELERAS DE NEVERA CON TAPAS GRUESAS Y RESISTENTES",
-        "categoria": "COCINA",
-        "precio": "600",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "194",
-        "producto": "JUEGO DE CANTINAS VERDES CON PLATOS LIVIANAS",
-        "categoria": "COCINA",
-        "precio": "600",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "203",
-        "producto": "KIT DE SARTEN PANCAKE Y BISCOCHO ANTIADHERENTE",
-        "categoria": "COCINA",
-        "precio": "600",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "224",
-        "producto": "BOLAS DE NAVIDAD",
-        "categoria": "ADORNOS",
-        "precio": "600",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "373",
-        "producto": "JUEGO 3 PLATOS ESTAMPADOS FRUTAS",
-        "categoria": "CRISTALES",
-        "precio": "600",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "376",
-        "producto": "JUEGO PLATOS 3 MEDIANO 3 GRADES GURESOS",
-        "categoria": "CRISTALES",
-        "precio": "600",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "378",
-        "producto": "JUEGO PLATOS ESTAMPADOS NIÑAS DEL MAR",
-        "categoria": "CRISTALES",
-        "precio": "600",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "379",
-        "producto": "JUEGO PLATOS ESTAMPADOS FRUTAS BLANCO Y RAYAS DORADAS",
-        "categoria": "CRISTALES",
-        "precio": "600",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "381",
-        "producto": "JUEGO PLATOS TIPO PORCELANA RAMITAS Y FLORES BLANCOS Y VERDE",
-        "categoria": "CRISTALES",
-        "precio": "600",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "409",
-        "producto": "JUEGO DE PLATOS FLOR MORADA",
-        "categoria": "CRISTALES",
-        "precio": "600",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "460",
-        "producto": "ZAPATOSNEGROS PAUL GREEN 8",
-        "categoria": "CALZADO",
-        "precio": "600",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "477",
-        "producto": "SANDALIAS NEGRAS AEROTHOTIC 40",
-        "categoria": "CALZADO",
-        "precio": "600",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "480",
-        "producto": "BOTAS AMARILLAS GRUESAS EN CUERO SUNVIVDBS 7.5M",
-        "categoria": "CALZADO",
-        "precio": "600",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "492",
-        "producto": "TENIS PIJAMMA CREMA 5/6",
-        "categoria": "CALZADO",
-        "precio": "600",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "496",
-        "producto": "BULTO CREMA COZY EARTHA MEIO GRANDE EN TELA Y PIEL",
-        "categoria": "MUJER",
-        "precio": "600",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "520",
-        "producto": "CARTERA BLANCO Y NEGRO ATP GRANDE EN PIEL",
-        "categoria": "MUJER",
-        "precio": "600",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "524",
-        "producto": "BULTO AZUL HAUTE SHORE MEDIANO ",
-        "categoria": "MUJER",
-        "precio": "600",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "11",
-        "producto": "MAQUINA HUMIDIFICADORA",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "500",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "27",
-        "producto": "2 COPAS DE VINO EN CAJA",
-        "categoria": "CRISTALES",
-        "precio": "500",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "39",
-        "producto": "TERMO EN METAL QUE RETIENE CALOR Y FRIO",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "57",
-        "producto": "NEVERA PLASTICA REDODA ROSADA",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C2",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -1288,267 +829,6 @@
         "actualizado": "1"
     },
     {
-        "img": "151",
-        "producto": "LUZ ULTRAVIOLETA DESINFECTANTE",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "152",
-        "producto": "LUZ ULTRAVIOLETA DESINFECTANTE",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "195",
-        "producto": "BANDEJA GRUESA GRANDE ESTILO PICNI",
-        "categoria": "COCINA",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "196",
-        "producto": "ESPEJO LAMPARA DOBE CON AUMENTO",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "197",
-        "producto": "TERMO METALICO CAFÉ",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "200",
-        "producto": "MAQUINA DE CECAR ROLOS",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "205",
-        "producto": "PASTILLERO Y MEDICAMENTOS",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "207",
-        "producto": "BANDEJA GRANDE TIPO PORCELANA",
-        "categoria": "COCINA",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "225",
-        "producto": "ESPEJO LAMPARA CON AUMENTO",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "226",
-        "producto": "MALETA PLASTICA TIPO ORGANIZADOR",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "231",
-        "producto": "MODEL 24 ESFERAS MELA ANTIADHERENTE GRIS",
-        "categoria": "COCINA",
-        "precio": "500",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "273",
-        "producto": "MASAJEADOR ELECTRICO CUELLO",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "274",
-        "producto": "ASISTENTE DE VIAJES CARRO",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "275",
-        "producto": "ANILOS DE CORTINAS 15 C/U",
-        "categoria": "HOGAR",
-        "precio": "500",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "304",
-        "producto": "JUEGO DE PIZAS QUIRIRJICAS",
-        "categoria": "PERSONAL",
-        "precio": "500",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "313",
-        "producto": "JUEGO DE CUCHILLOS 5 UNI INOXIDABLES",
-        "categoria": "COCINA",
-        "precio": "500",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "371",
-        "producto": "JUEGO DE PARES DE PLATOS",
-        "categoria": "CRISTALES",
-        "precio": "500",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "435",
-        "producto": "JUEGO DE COPAS EXOTICAS",
-        "categoria": "CRISTALES",
-        "precio": "500",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "463",
-        "producto": "ZAPATOS LEOPARDO VIONIC 7.5 USA",
-        "categoria": "CALZADO",
-        "precio": "500",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "470",
-        "producto": "TACOS MARRON 6 ",
-        "categoria": "CALZADO",
-        "precio": "500",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "481",
-        "producto": "ZAPATOS EN CUERO Y TELAVANHFUSSEN 12M",
-        "categoria": "CALZADO",
-        "precio": "500",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "484",
-        "producto": "SANDALIAS DE PIJAMMA ROJAS SUIZA VICTORIA SECRET 8",
-        "categoria": "CALZADO",
-        "precio": "500",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "488",
-        "producto": "SANDALIAS GRIS OSCURO 8.5",
-        "categoria": "CALZADO",
-        "precio": "500",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "498",
-        "producto": "BULTO CREMA GENERICO MEDIO PEQUEÑO EN TELA GRUESA",
-        "categoria": "MUJER",
-        "precio": "500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "503",
-        "producto": "CARTERA MARRON LUCKY BRAND MEDIANA EN PIEL ",
-        "categoria": "MUJER",
-        "precio": "500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "513",
-        "producto": "CARTERA NEGRA SMART BAGS MEDIANA EN TELA",
-        "categoria": "MUJER",
-        "precio": "500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "518",
-        "producto": "CARTERA GRIS VERDOSO SARNE MEDIANA EN PIEL",
-        "categoria": "MUJER",
-        "precio": "500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "538",
-        "producto": "CARTERA ROJA GENERICA EN CUERO Y TELA",
-        "categoria": "MUJER",
-        "precio": "500",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "40",
-        "producto": "TERMO EN METAL QUE RETIENE CALOR Y FRIO",
-        "categoria": "PERSONAL",
-        "precio": "400",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
         "img": "66",
         "producto": "ROLOS ELECTRICOS",
         "categoria": "PERSONAL",
@@ -1572,240 +852,6 @@
         "categoria": "PERSONAL",
         "precio": "400",
         "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "146",
-        "producto": "VASO TERMO LUJO OVALADO PEQUEÑO",
-        "categoria": "PERSONAL",
-        "precio": "400",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "229",
-        "producto": "TABLAS DE ADORNO Y BRINDIS",
-        "categoria": "ADORNOS",
-        "precio": "400",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "277",
-        "producto": "GAFAS DE SOL VERDE",
-        "categoria": "PERSONAL",
-        "precio": "400",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "306",
-        "producto": "MOLDE PASTELES 6 EN UNO",
-        "categoria": "COCINA",
-        "precio": "400",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "380",
-        "producto": "EMVASE DE CRISTAL GRUESO CON TAPA",
-        "categoria": "CRISTALES",
-        "precio": "400",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "394",
-        "producto": "JARRA DE MIEL MARRON MEDIANA",
-        "categoria": "CRISTALES",
-        "precio": "400",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "397",
-        "producto": "SOPERA CUADRADA ROJA SUIZA",
-        "categoria": "CRISTALES",
-        "precio": "400",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "401",
-        "producto": "JUEGO DE PLATOS GRUESOS CUADRADOS 3 UNI",
-        "categoria": "CRISTALES",
-        "precio": "400",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "405",
-        "producto": "TETERA Y TACITAS AZUL Y VERDE",
-        "categoria": "CRISTALES",
-        "precio": "400",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "427",
-        "producto": "JUEGO DE COPITAS PLANAS 8 UNI",
-        "categoria": "CRISTALES",
-        "precio": "400",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "443",
-        "producto": "JUEGO DE COPAS RELIGIOSAS METAL",
-        "categoria": "CRISTALES",
-        "precio": "400",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "458",
-        "producto": "SANDALIS NEGRAS AEROPOSTAL 9 USA",
-        "categoria": "CALZADO",
-        "precio": "400",
-        "ubicacion": "CZ",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "493",
-        "producto": "CARTERA BLANCA LARUE MEDINA EN PIEL",
-        "categoria": "MUJER",
-        "precio": "400",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "510",
-        "producto": "CARTERA ROSADA VIENNA EN CUERO PEQUEÑA",
-        "categoria": "MUJER",
-        "precio": "400",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "517",
-        "producto": "CARTERA NEGRA GENERICA MEDIANA TELA BODADO",
-        "categoria": "MUJER",
-        "precio": "400",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "523",
-        "producto": "MONEDERO LEOPARDO MICHAEL ROMEDESING EN PIEL",
-        "categoria": "MUJER",
-        "precio": "400",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "546",
-        "producto": "MONEDERO GRIS COACH TELA Y PIEL ",
-        "categoria": "MUJER",
-        "precio": "400",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "412",
-        "producto": "SOPERA MADRE DE PULLAS",
-        "categoria": "CRISTALES",
-        "precio": "350",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "542",
-        "producto": "MONEDERO AMARILLO FOSSIL EN PIEL PEQUEÑO",
-        "categoria": "MUJER",
-        "precio": "350",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "4",
-        "producto": "CUCHILLOS",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "13",
-        "producto": "ENVASE DE MICROONDAS PALOMITAS",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "20",
-        "producto": "OLLA SARTEN HONDA",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "30",
-        "producto": "MINI PESO ELECTRONICO DE MANO",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "300",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "41",
-        "producto": "ENVASE DE LAVAR VEGETALES",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "50",
-        "producto": "ENVASE DE LAVAR VEGETALES GRANDE REDONDO",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "63",
-        "producto": "CANTINA MERIEDA NIÑOS DESARMABLE",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C2",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -1855,735 +901,6 @@
         "actualizado": "1"
     },
     {
-        "img": "154",
-        "producto": "GAFAS 3D SAMSUM",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "167",
-        "producto": "GAFAS 3D SAMSUM",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "170",
-        "producto": "AROS SUJETADORES CORTINA BAÑO O SALA",
-        "categoria": "HOGAR",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "175",
-        "producto": "ANILLOS DE TENDER CORTINAS 300 C/PQT",
-        "categoria": "HOGAR",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "187",
-        "producto": "MOLDES METALICOS DE REPOSTERIA 50 C/U",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "188",
-        "producto": "BANDEJITAS DE PLASTICO RESISTENTE",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "214",
-        "producto": "ENVASE MULTIPLE BRINIS REPOSTERIA",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "215",
-        "producto": "ESPEJO CON BRAZO SUJETADOR EN DIFERENTES ANGULOS",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "250",
-        "producto": "BANDEJA DE HORNEAR METALICA",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "255",
-        "producto": "HUEVOS MOLDES REPOSTERIA",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "257",
-        "producto": "BANDEJA PLASTICA BRINDIS",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "258",
-        "producto": "BANDEJA ADORNO METALICA",
-        "categoria": "ADORNOS",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "276",
-        "producto": "GAFAS DE SOL AMARILLA",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "278",
-        "producto": "GAFAS DE SOL NEGRA",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "279",
-        "producto": "GAFAS DE SOL EN PASTA",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "284",
-        "producto": "CRUZ CRISTO REDENTOR TIPO PORCELANA ILUMINADOR",
-        "categoria": "ADORNOS",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "285",
-        "producto": "OLLA ESCURRIDOR METAL",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "287",
-        "producto": "BANDEJA DOBLE METAL",
-        "categoria": "ADORNOS",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "290",
-        "producto": "MALETA PLASTICA ORGANIZADOR",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "291",
-        "producto": "PORTA RETRATO",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "305",
-        "producto": "MOLDE PASTELES CONO REDONDEOS 2 EN UNO",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "310",
-        "producto": "SOPERAS ADORNO METAL GRUESO",
-        "categoria": "ADORNOS",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "314",
-        "producto": "SARTEN GRUESO DE TORTILLAS Y OMELET",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "318",
-        "producto": "TERMO ROSADO GRUESO PLASTICO",
-        "categoria": "PERSONAL",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "321",
-        "producto": "CARGADOR MULTIPLE USB 6 EN UNO",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "327",
-        "producto": "JUEGO DE CANTINAS REGRIGERADOR 6 UNIDADES RESISTENTE",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "330",
-        "producto": "MOLDES METALICOS DE REPOSTERIA 6 EN 1",
-        "categoria": "COCINA",
-        "precio": "300",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "377",
-        "producto": "JUEGO PLATOS 3 UNI",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "386",
-        "producto": "CUHCARAS DE BRINDIS ESTAMPADAS AZUL Y ROJO",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "393",
-        "producto": "TETERA COFRE Y ADORNOS",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "404",
-        "producto": "SOPERA GRANDE POSTRES BRINDIS LIMPON",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "410",
-        "producto": "BANDEJA DECORATIVA CUADRADA GRUESA",
-        "categoria": "ADORNOS",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "411",
-        "producto": "BANDEJA DECORATIVA OVALADA GRUESA",
-        "categoria": "ADORNOS",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "415",
-        "producto": "JARRA CALABERA ",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "422",
-        "producto": "JARRA GRANDE ONDULADA",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "428",
-        "producto": "JUEGO DE VASOS TASAS EN RALLADOS",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "430",
-        "producto": "JUEGO DE TASAS EN CHAP 3 UNI",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "449",
-        "producto": "TASA Y VASO EN CROQUE",
-        "categoria": "CRISTALES",
-        "precio": "300",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "507",
-        "producto": "CARTERA LÑEOPARDO VANNESA TRENDS PEQUEÑA EN PIEL",
-        "categoria": "MUJER",
-        "precio": "300",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "512",
-        "producto": "BULTO MARRON Y NEGRO HELLO WEEDEND MEDIANO EN TELA",
-        "categoria": "MUJER",
-        "precio": "300",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "527",
-        "producto": "CARTERA NEGRA GENERICA EN CUERO RIGIDA  PEQUEÑA",
-        "categoria": "MUJER",
-        "precio": "300",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "534",
-        "producto": "BULTO AZUL Y CREMA GENERICO MEDIANO TELA",
-        "categoria": "MUJER",
-        "precio": "300",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "535",
-        "producto": "CARTERA VERDE OPACO MK MEDIO GRANDE ",
-        "categoria": "MUJER",
-        "precio": "300",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "539",
-        "producto": "BULTO AMARILLO JENNIFER MORE MEDIOANO TIP ARTESANAL ",
-        "categoria": "MUJER",
-        "precio": "300",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "5",
-        "producto": "FUNDAS DE ALMOHADAS",
-        "categoria": "HOGAR",
-        "precio": "250",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "7",
-        "producto": "FUNDAS DE ALMOHADAS",
-        "categoria": "HOGAR",
-        "precio": "250",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "8",
-        "producto": "FUNDAS DE ALMOHADAS",
-        "categoria": "HOGAR",
-        "precio": "250",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "56",
-        "producto": "JUEGO DE VASOS EN PLASTICO 50 C/U",
-        "categoria": "COCINA",
-        "precio": "250",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "218",
-        "producto": "GUALLA HIELO O HELADO",
-        "categoria": "COCINA",
-        "precio": "250",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "232",
-        "producto": "MOLDE ANTIADHERENTE MARRON 12 ESFERAS",
-        "categoria": "COCINA",
-        "precio": "250",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "336",
-        "producto": "JARRON TRANSPARENTE ",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "355",
-        "producto": "JARRON PICO TRANSPARENTE ",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "356",
-        "producto": "PLATICOS DE TACITAS Y GALLETAS REDONDOS",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "357",
-        "producto": "PLATICOS DE TACITAS Y GALLETAS OVALADOS",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "382",
-        "producto": "JUEGO PLATOS DOS UNI RAMITAS MOLDES",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "383",
-        "producto": "JARRA FLOR",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "414",
-        "producto": "SOPERA TRANPARETE FLORES",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "423",
-        "producto": "JARRA LISA CINTURA",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "425",
-        "producto": "PORTAVELAS EN METAL ",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "437",
-        "producto": "JUEGO DE COPAS  AGUA",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "440",
-        "producto": "JUEGO DE TASAS LISAS TRANSP ",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "442",
-        "producto": "JUEGO DE VASOS 2 UNI",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "446",
-        "producto": "COFRE CRISTAL CREMA ROSAS",
-        "categoria": "CRISTALES",
-        "precio": "250",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "501",
-        "producto": "MONEDERO AMARILLO ESTAMPADO LPSY PEQUEÑO  EN PIEL ",
-        "categoria": "MUJER",
-        "precio": "250",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "511",
-        "producto": "MONEDERO ROJO LPSY EN PIEL PEQUEÑO",
-        "categoria": "MUJER",
-        "precio": "250",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "541",
-        "producto": "MONEDERO MULTICOLOR VERA BRANDLEY PEQUEÑO",
-        "categoria": "MUJER",
-        "precio": "250",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "543",
-        "producto": "MONEDERO AZUL CORAZONES LPSY E PIEL",
-        "categoria": "MUJER",
-        "precio": "250",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "544",
-        "producto": "MONEDERO LPSY PLATEADO  EN PIEL ",
-        "categoria": "MUJER",
-        "precio": "250",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "545",
-        "producto": "MONEDERO AZUL Y VERDE LPSY TELA",
-        "categoria": "MUJER",
-        "precio": "250",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "547",
-        "producto": "MONEDERO VERDE Y MARRON ESTAMPADO NATAL RN CUERO",
-        "categoria": "MUJER",
-        "precio": "250",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "22",
-        "producto": "TERMO MORADO",
-        "categoria": "PERSONAL",
-        "precio": "200",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "23",
-        "producto": "TERMO ROSADO",
-        "categoria": "PERSONAL",
-        "precio": "200",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "38",
-        "producto": "3 ENVASES DE COCINA",
-        "categoria": "COCINA",
-        "precio": "200",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "42",
-        "producto": "VALENTADOR DE PAÑOS BEBE",
-        "categoria": "PERSONAL",
-        "precio": "200",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "43",
-        "producto": "VELON AROMATICO PEQUEÑO",
-        "categoria": "ADORNOS",
-        "precio": "200",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "44",
-        "producto": "MINI AIRE ACONDICIONADO",
-        "categoria": "PERSONAL",
-        "precio": "200",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "45",
-        "producto": "PORTA REVISTAS",
-        "categoria": "ADORNOS",
-        "precio": "200",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "48",
-        "producto": "TENDEDOR DE ROPA INTERIOR",
-        "categoria": "PERSONAL",
-        "precio": "200",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "51",
-        "producto": "ENVASE DE LAVAR VEGETALES MEDIANO REDONDO",
-        "categoria": "COCINA",
-        "precio": "200",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "52",
-        "producto": "CASITA DE COLORES NAVIDAD",
-        "categoria": "ADORNOS",
-        "precio": "200",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "53",
-        "producto": "TERMO SENCILLO METAL VERDE",
-        "categoria": "PERSONAL",
-        "precio": "200",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
         "img": "65",
         "producto": "TABLA DE PICAR ",
         "categoria": "COCINA",
@@ -2616,15 +933,6 @@
         "categoria": "PERSONAL",
         "precio": "200",
         "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "85",
-        "producto": "CAJA COFRE NE METAL",
-        "categoria": "ADORNOS",
-        "precio": "200",
-        "ubicacion": "",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -2760,6 +1068,555 @@
         "categoria": "PERSONAL",
         "precio": "200",
         "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "68",
+        "producto": "TERMO NIÑAS METAL",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "123",
+        "producto": "JUEGO DE PORTAVELAS",
+        "categoria": "ADORNOS",
+        "precio": "150",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "70",
+        "producto": "TERMO NIÑAS SENCILLO MORADO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "81",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "83",
+        "producto": "GUEGO DE CUCHARAS DE MADERA",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "94",
+        "producto": "CAJITA DE MUSICA BEBE",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "97",
+        "producto": "PORTA VELAS",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "102",
+        "producto": "MAQUINA DE CAFÉ",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "107",
+        "producto": "MESITA SOPORTE",
+        "categoria": "HOGAR",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "110",
+        "producto": "CUCHILLA DE RASPAR REPOSTERIA",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "111",
+        "producto": "TENEDOR PULLA",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "127",
+        "producto": "SOPORTE DE COLGAR COLLARES O PRENDAS",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "128",
+        "producto": "ESCOBITA DE BRUJAS",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "136",
+        "producto": "CANASTA AZUL ARTESANAL",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "99",
+        "producto": "PORTA VELON",
+        "categoria": "ADORNOS",
+        "precio": "50",
+        "ubicacion": "C3",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "75",
+        "producto": "TASAS",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "76",
+        "producto": "COPA",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "79",
+        "producto": "MASAJEADOR PIEL",
+        "categoria": "PERSONAL",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "87",
+        "producto": "1",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "88",
+        "producto": "1",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "100",
+        "producto": "S",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "113",
+        "producto": "a",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "129",
+        "producto": "MAQUINA HUMIDIFICADORA",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "133",
+        "producto": "K",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C3",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "144",
+        "producto": "OLLA DE PASTAS",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "1800",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "202",
+        "producto": "JUEGO DE COCHILLOS KITCHEN DELITE ACERO INOXIDABLE ",
+        "categoria": "COCINA",
+        "precio": "1200",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "204",
+        "producto": "BLOWER IONIC ROJO ",
+        "categoria": "PERSONAL",
+        "precio": "1200",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "201",
+        "producto": "MAQUINA DE AZAR BARBIKIU GRANDE",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "1100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "145",
+        "producto": "VASO TERMO LUJO FRIO CALIENTE GRENDE",
+        "categoria": "PERSONAL",
+        "precio": "1000",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "153",
+        "producto": "JUEGO DE SOPERAS GRUESAS ROSADAS Y NEGRAS 150 C/U",
+        "categoria": "COCINA",
+        "precio": "1000",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "168",
+        "producto": "RISADOR DE PELO",
+        "categoria": "PERSONAL",
+        "precio": "1000",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "183",
+        "producto": "TENAZA DE RIZAR PELO",
+        "categoria": "PERSONAL",
+        "precio": "1000",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "149",
+        "producto": "BANDEJA PARA TINA DE BAÑO",
+        "categoria": "HOGAR",
+        "precio": "800",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "193",
+        "producto": "TOSTADORA",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "700",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "147",
+        "producto": "VASO TERMO LUJO FRIO CALIENTE OVALADO PEQUEÑO",
+        "categoria": "PERSONAL",
+        "precio": "600",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "184",
+        "producto": "CUTE PINTURA DE UÑAS 100 C/U",
+        "categoria": "PERSONAL",
+        "precio": "600",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "192",
+        "producto": "HIELERAS DE NEVERA CON TAPAS GRUESAS Y RESISTENTES",
+        "categoria": "COCINA",
+        "precio": "600",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "194",
+        "producto": "JUEGO DE CANTINAS VERDES CON PLATOS LIVIANAS",
+        "categoria": "COCINA",
+        "precio": "600",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "203",
+        "producto": "KIT DE SARTEN PANCAKE Y BISCOCHO ANTIADHERENTE",
+        "categoria": "COCINA",
+        "precio": "600",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "224",
+        "producto": "BOLAS DE NAVIDAD",
+        "categoria": "ADORNOS",
+        "precio": "600",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "151",
+        "producto": "LUZ ULTRAVIOLETA DESINFECTANTE",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "152",
+        "producto": "LUZ ULTRAVIOLETA DESINFECTANTE",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "195",
+        "producto": "BANDEJA GRUESA GRANDE ESTILO PICNI",
+        "categoria": "COCINA",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "196",
+        "producto": "ESPEJO LAMPARA DOBE CON AUMENTO",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "197",
+        "producto": "TERMO METALICO CAFÉ",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "200",
+        "producto": "MAQUINA DE CECAR ROLOS",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "205",
+        "producto": "PASTILLERO Y MEDICAMENTOS",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "207",
+        "producto": "BANDEJA GRANDE TIPO PORCELANA",
+        "categoria": "COCINA",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "225",
+        "producto": "ESPEJO LAMPARA CON AUMENTO",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "226",
+        "producto": "MALETA PLASTICA TIPO ORGANIZADOR",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "146",
+        "producto": "VASO TERMO LUJO OVALADO PEQUEÑO",
+        "categoria": "PERSONAL",
+        "precio": "400",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "229",
+        "producto": "TABLAS DE ADORNO Y BRINDIS",
+        "categoria": "ADORNOS",
+        "precio": "400",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "154",
+        "producto": "GAFAS 3D SAMSUM",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "167",
+        "producto": "GAFAS 3D SAMSUM",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "170",
+        "producto": "AROS SUJETADORES CORTINA BAÑO O SALA",
+        "categoria": "HOGAR",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "175",
+        "producto": "ANILLOS DE TENDER CORTINAS 300 C/PQT",
+        "categoria": "HOGAR",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "187",
+        "producto": "MOLDES METALICOS DE REPOSTERIA 50 C/U",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "188",
+        "producto": "BANDEJITAS DE PLASTICO RESISTENTE",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "214",
+        "producto": "ENVASE MULTIPLE BRINIS REPOSTERIA",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "215",
+        "producto": "ESPEJO CON BRAZO SUJETADOR EN DIFERENTES ANGULOS",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "218",
+        "producto": "GUALLA HIELO O HELADO",
+        "categoria": "COCINA",
+        "precio": "250",
+        "ubicacion": "C4",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -2949,6 +1806,546 @@
         "categoria": "ADORNOS",
         "precio": "200",
         "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "155",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "161",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "162",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "178",
+        "producto": "CHAPA DE REPOSTERIA",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "180",
+        "producto": "PORTA RETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "186",
+        "producto": "JUGO DE CUCHARAS DE MADERA",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "230",
+        "producto": "CANASTA DE ALAMBRE",
+        "categoria": "ADORNOS",
+        "precio": "150",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "156",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "157",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "158",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "159",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "160",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "163",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "164",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "165",
+        "producto": "PORTARETRATO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "166",
+        "producto": "BANDEJA MADERA",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "179",
+        "producto": "ADORNILLO DE GRADUACION",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "191",
+        "producto": "PORTARETRATO CORAZON",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "209",
+        "producto": "ADORNO PARED",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "213",
+        "producto": "HIELERA GRUESa",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "216",
+        "producto": "GUALLO SENCILLO",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "223",
+        "producto": "ESPEJO DE MANO SENCILLO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "172",
+        "producto": "SOPERA MARIPOZA VERDE",
+        "categoria": "COCINA",
+        "precio": "50",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "211",
+        "producto": "PINZAS DE HIELO",
+        "categoria": "COCINA",
+        "precio": "50",
+        "ubicacion": "C4",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "169",
+        "producto": "AROS SUJETADORES CORTINA BAÑO O SALA",
+        "categoria": "HOGAR",
+        "precio": "0",
+        "ubicacion": "C4",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "182",
+        "producto": "MANITAS LIMPIAS",
+        "categoria": "PERSONAL",
+        "precio": "0",
+        "ubicacion": "C4",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "189",
+        "producto": "1",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C4",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "210",
+        "producto": "8",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C4",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "217",
+        "producto": "1",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C4",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "292",
+        "producto": "TERMO GUARDIA FRIO CALIENTE 25 HORAS",
+        "categoria": "PERSONAL",
+        "precio": "1500",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "269",
+        "producto": "JUEGO DE BAÑO CON TOALLA",
+        "categoria": "PERSONAL",
+        "precio": "1000",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "272",
+        "producto": "BLOWER GRIS",
+        "categoria": "PERSONAL",
+        "precio": "700",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "231",
+        "producto": "MODEL 24 ESFERAS MELA ANTIADHERENTE GRIS",
+        "categoria": "COCINA",
+        "precio": "500",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "273",
+        "producto": "MASAJEADOR ELECTRICO CUELLO",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "274",
+        "producto": "ASISTENTE DE VIAJES CARRO",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "275",
+        "producto": "ANILOS DE CORTINAS 15 C/U",
+        "categoria": "HOGAR",
+        "precio": "500",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "304",
+        "producto": "JUEGO DE PIZAS QUIRIRJICAS",
+        "categoria": "PERSONAL",
+        "precio": "500",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "313",
+        "producto": "JUEGO DE CUCHILLOS 5 UNI INOXIDABLES",
+        "categoria": "COCINA",
+        "precio": "500",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "277",
+        "producto": "GAFAS DE SOL VERDE",
+        "categoria": "PERSONAL",
+        "precio": "400",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "306",
+        "producto": "MOLDE PASTELES 6 EN UNO",
+        "categoria": "COCINA",
+        "precio": "400",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "250",
+        "producto": "BANDEJA DE HORNEAR METALICA",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "255",
+        "producto": "HUEVOS MOLDES REPOSTERIA",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "257",
+        "producto": "BANDEJA PLASTICA BRINDIS",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "258",
+        "producto": "BANDEJA ADORNO METALICA",
+        "categoria": "ADORNOS",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "276",
+        "producto": "GAFAS DE SOL AMARILLA",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "278",
+        "producto": "GAFAS DE SOL NEGRA",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "279",
+        "producto": "GAFAS DE SOL EN PASTA",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "284",
+        "producto": "CRUZ CRISTO REDENTOR TIPO PORCELANA ILUMINADOR",
+        "categoria": "ADORNOS",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "285",
+        "producto": "OLLA ESCURRIDOR METAL",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "287",
+        "producto": "BANDEJA DOBLE METAL",
+        "categoria": "ADORNOS",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "290",
+        "producto": "MALETA PLASTICA ORGANIZADOR",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "291",
+        "producto": "PORTA RETRATO",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "305",
+        "producto": "MOLDE PASTELES CONO REDONDEOS 2 EN UNO",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "310",
+        "producto": "SOPERAS ADORNO METAL GRUESO",
+        "categoria": "ADORNOS",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "314",
+        "producto": "SARTEN GRUESO DE TORTILLAS Y OMELET",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "318",
+        "producto": "TERMO ROSADO GRUESO PLASTICO",
+        "categoria": "PERSONAL",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "321",
+        "producto": "CARGADOR MULTIPLE USB 6 EN UNO",
+        "categoria": "ELECTRODOMESTICO",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "327",
+        "producto": "JUEGO DE CANTINAS REGRIGERADOR 6 UNIDADES RESISTENTE",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "330",
+        "producto": "MOLDES METALICOS DE REPOSTERIA 6 EN 1",
+        "categoria": "COCINA",
+        "precio": "300",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "232",
+        "producto": "MOLDE ANTIADHERENTE MARRON 12 ESFERAS",
+        "categoria": "COCINA",
+        "precio": "250",
+        "ubicacion": "C5",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -3196,6 +2593,762 @@
         "actualizado": "1"
     },
     {
+        "img": "233",
+        "producto": "PORTA RETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "234",
+        "producto": "PORTA RETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "235",
+        "producto": "PORTA RETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "236",
+        "producto": "PORTA RETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "237",
+        "producto": "PORTA RETRATO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "242",
+        "producto": "BANDEJA DE HORNEAR ANTIADHERENTE",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "243",
+        "producto": "BANDEJA DE HORNEAR ANTIADHERENTE DESARMABLE",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "270",
+        "producto": "BELON MULTICUMPLEAÑOS",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "298",
+        "producto": "ESPATULA METAL",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "299",
+        "producto": "ESCURRIDOR DE METAL",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "300",
+        "producto": "TERMO SENCILLO AMARILLO",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "312",
+        "producto": "CUCHILLOS PERSONAL X 3",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "317",
+        "producto": "LAVADOR DE PIES",
+        "categoria": "PERSONAL",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "323",
+        "producto": "COLGADOR EN METAL GRUESO",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "329",
+        "producto": "CUCHARA DE BRINDIS",
+        "categoria": "COCINA",
+        "precio": "150",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "239",
+        "producto": "CUCHARON Y ESPETULAS PLASTICAS",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "240",
+        "producto": "ESPATULA GRUESA METAL",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "245",
+        "producto": "ORGANIZADOR  DE MADERA",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "247",
+        "producto": "PULSERAS AZULES",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "248",
+        "producto": "PORTA LAPICES",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "265",
+        "producto": "PINZAS BARBIKIU",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "266",
+        "producto": "SUJETADOR DE MARIPOSA",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "268",
+        "producto": "JUEGO DE PULSERAS AMARILLO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "271",
+        "producto": "ESTANTILLO ORGANIZADOR",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "281",
+        "producto": "PORTA VELON",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "294",
+        "producto": "JUEGO CUCHARONES Y TENEDOR PLASTICOS",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "295",
+        "producto": "CUCHARA DE MEDIR HARINA",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "307",
+        "producto": "BANDEJA BASE",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "309",
+        "producto": "PINZAS DE HIELO",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "319",
+        "producto": "TERMO ROHO SENCILLO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "322",
+        "producto": "TERMO NIÑOS VERDE SENCILLO",
+        "categoria": "PERSONAL",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "325",
+        "producto": "CENICEROS CIGARRILLOS ADORNOS",
+        "categoria": "ADORNOS",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "326",
+        "producto": "EXPRIMIDOR NARANJA SIMPLE",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "328",
+        "producto": "MEDIDOR HARINA",
+        "categoria": "COCINA",
+        "precio": "100",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "260",
+        "producto": "MANITAS LIMPIAS",
+        "categoria": "PERSONAL",
+        "precio": "50",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "264",
+        "producto": "ESPARCIDOR DE GOMA",
+        "categoria": "COCINA",
+        "precio": "50",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "282",
+        "producto": "ADORNO ARTESANAL",
+        "categoria": "ADORNOS",
+        "precio": "50",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "311",
+        "producto": "MOLDE RECTANGULAR 1 ESFERA",
+        "categoria": "COCINA",
+        "precio": "50",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "316",
+        "producto": "JUEGO DE CUCHARAS MADERA",
+        "categoria": "COCINA",
+        "precio": "50",
+        "ubicacion": "C5",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "244",
+        "producto": "1",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C5",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "262",
+        "producto": "8",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C5",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "263",
+        "producto": "8",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C5",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "301",
+        "producto": "1",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C5",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "302",
+        "producto": "1",
+        "categoria": "COCINA",
+        "precio": "0",
+        "ubicacion": "C5",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "331",
+        "producto": "1",
+        "categoria": "PERSONAL",
+        "precio": "0",
+        "ubicacion": "C5",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "407",
+        "producto": "JUEGO DE PLATOS GRUESOS 2 PRINCIPAL Y 10 SECUNDARIOS",
+        "categoria": "CRISTALES",
+        "precio": "1200",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "403",
+        "producto": "JUEGO DE PLATOS BLANCO Y NEGRO",
+        "categoria": "CRISTALES",
+        "precio": "1000",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "408",
+        "producto": "JUEGO DE PLATOS SENCILLOS BORDE AULES Y PRINCIPAL 4 SUB GRUPOS",
+        "categoria": "CRISTALES",
+        "precio": "1000",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "370",
+        "producto": "VAJILLA FINA DE LUJO TETERA, TASA Y CRISTALES",
+        "categoria": "CRISTALES",
+        "precio": "800",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "375",
+        "producto": "JUEGO PLATOS ESTAMPADOS LEOPARDO",
+        "categoria": "CRISTALES",
+        "precio": "800",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "390",
+        "producto": "JUEGO DE PLATOS GRUESOS EN MOLDE",
+        "categoria": "CRISTALES",
+        "precio": "800",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "372",
+        "producto": "JUEGO TRES PLATOS ESTAMPADOS BOSQUE",
+        "categoria": "CRISTALES",
+        "precio": "700",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "374",
+        "producto": "JUEGO GRUESO DE PLATSO 5 ESTAMPADOS FLORES VERDES",
+        "categoria": "CRISTALES",
+        "precio": "700",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "406",
+        "producto": "JUEGO DE TASAS DE NAVIDAD ",
+        "categoria": "CRISTALES",
+        "precio": "700",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "373",
+        "producto": "JUEGO 3 PLATOS ESTAMPADOS FRUTAS",
+        "categoria": "CRISTALES",
+        "precio": "600",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "376",
+        "producto": "JUEGO PLATOS 3 MEDIANO 3 GRADES GURESOS",
+        "categoria": "CRISTALES",
+        "precio": "600",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "378",
+        "producto": "JUEGO PLATOS ESTAMPADOS NIÑAS DEL MAR",
+        "categoria": "CRISTALES",
+        "precio": "600",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "379",
+        "producto": "JUEGO PLATOS ESTAMPADOS FRUTAS BLANCO Y RAYAS DORADAS",
+        "categoria": "CRISTALES",
+        "precio": "600",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "381",
+        "producto": "JUEGO PLATOS TIPO PORCELANA RAMITAS Y FLORES BLANCOS Y VERDE",
+        "categoria": "CRISTALES",
+        "precio": "600",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "409",
+        "producto": "JUEGO DE PLATOS FLOR MORADA",
+        "categoria": "CRISTALES",
+        "precio": "600",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "371",
+        "producto": "JUEGO DE PARES DE PLATOS",
+        "categoria": "CRISTALES",
+        "precio": "500",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "380",
+        "producto": "EMVASE DE CRISTAL GRUESO CON TAPA",
+        "categoria": "CRISTALES",
+        "precio": "400",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "394",
+        "producto": "JARRA DE MIEL MARRON MEDIANA",
+        "categoria": "CRISTALES",
+        "precio": "400",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "397",
+        "producto": "SOPERA CUADRADA ROJA SUIZA",
+        "categoria": "CRISTALES",
+        "precio": "400",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "401",
+        "producto": "JUEGO DE PLATOS GRUESOS CUADRADOS 3 UNI",
+        "categoria": "CRISTALES",
+        "precio": "400",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "405",
+        "producto": "TETERA Y TACITAS AZUL Y VERDE",
+        "categoria": "CRISTALES",
+        "precio": "400",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "412",
+        "producto": "SOPERA MADRE DE PULLAS",
+        "categoria": "CRISTALES",
+        "precio": "350",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "377",
+        "producto": "JUEGO PLATOS 3 UNI",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "386",
+        "producto": "CUHCARAS DE BRINDIS ESTAMPADAS AZUL Y ROJO",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "393",
+        "producto": "TETERA COFRE Y ADORNOS",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "404",
+        "producto": "SOPERA GRANDE POSTRES BRINDIS LIMPON",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "410",
+        "producto": "BANDEJA DECORATIVA CUADRADA GRUESA",
+        "categoria": "ADORNOS",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "411",
+        "producto": "BANDEJA DECORATIVA OVALADA GRUESA",
+        "categoria": "ADORNOS",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "415",
+        "producto": "JARRA CALABERA ",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "422",
+        "producto": "JARRA GRANDE ONDULADA",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "336",
+        "producto": "JARRON TRANSPARENTE ",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "355",
+        "producto": "JARRON PICO TRANSPARENTE ",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "356",
+        "producto": "PLATICOS DE TACITAS Y GALLETAS REDONDOS",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "357",
+        "producto": "PLATICOS DE TACITAS Y GALLETAS OVALADOS",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "382",
+        "producto": "JUEGO PLATOS DOS UNI RAMITAS MOLDES",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "383",
+        "producto": "JARRA FLOR",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "414",
+        "producto": "SOPERA TRANPARETE FLORES",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "423",
+        "producto": "JARRA LISA CINTURA",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "425",
+        "producto": "PORTAVELAS EN METAL ",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "C6",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
         "img": "339",
         "producto": "CASITA NIVES CRISTAL ",
         "categoria": "CRISTALES",
@@ -3385,303 +3538,6 @@
         "actualizado": "1"
     },
     {
-        "img": "431",
-        "producto": "JUEOG DE VASITOS TEQUILA 1959",
-        "categoria": "CRISTALES",
-        "precio": "200",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "434",
-        "producto": "SALERO PIMENTERO BLACOS",
-        "categoria": "CRISTALES",
-        "precio": "200",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "444",
-        "producto": "VASO DE REGALO ESFERA",
-        "categoria": "CRISTALES",
-        "precio": "200",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "499",
-        "producto": "MONEDERO ROSADO Y NEGRO CONTENTS PEQUEÑO EN PLASTICO",
-        "categoria": "MUJER",
-        "precio": "200",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "525",
-        "producto": "MONEDERO MARRON LOCCITANE ",
-        "categoria": "MUJER",
-        "precio": "200",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "526",
-        "producto": "MONEDERO NEGRO BRILLANTE GENERICO ",
-        "categoria": "MUJER",
-        "precio": "200",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "24",
-        "producto": "TERMO GRIS SENCILLO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "28",
-        "producto": "MANTEL DE MESA",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "61",
-        "producto": "PORTA RETRAT",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "68",
-        "producto": "TERMO NIÑAS METAL",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "123",
-        "producto": "JUEGO DE PORTAVELAS",
-        "categoria": "ADORNOS",
-        "precio": "150",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "155",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "161",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "162",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "178",
-        "producto": "CHAPA DE REPOSTERIA",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "180",
-        "producto": "PORTA RETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "186",
-        "producto": "JUGO DE CUCHARAS DE MADERA",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "230",
-        "producto": "CANASTA DE ALAMBRE",
-        "categoria": "ADORNOS",
-        "precio": "150",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "233",
-        "producto": "PORTA RETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "234",
-        "producto": "PORTA RETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "235",
-        "producto": "PORTA RETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "236",
-        "producto": "PORTA RETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "237",
-        "producto": "PORTA RETRATO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "242",
-        "producto": "BANDEJA DE HORNEAR ANTIADHERENTE",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "243",
-        "producto": "BANDEJA DE HORNEAR ANTIADHERENTE DESARMABLE",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "270",
-        "producto": "BELON MULTICUMPLEAÑOS",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "298",
-        "producto": "ESPATULA METAL",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "299",
-        "producto": "ESCURRIDOR DE METAL",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "300",
-        "producto": "TERMO SENCILLO AMARILLO",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "312",
-        "producto": "CUCHILLOS PERSONAL X 3",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "317",
-        "producto": "LAVADOR DE PIES",
-        "categoria": "PERSONAL",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "323",
-        "producto": "COLGADOR EN METAL GRUESO",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "329",
-        "producto": "CUCHARA DE BRINDIS",
-        "categoria": "COCINA",
-        "precio": "150",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
         "img": "343",
         "producto": "SOPERA MEDINA VERDE Y CREMA",
         "categoria": "CRISTALES",
@@ -3745,573 +3601,6 @@
         "actualizado": "1"
     },
     {
-        "img": "497",
-        "producto": "MONEDERO CREMNA ARTE PEQ CON BRILLANTES",
-        "categoria": "MUJER",
-        "precio": "150",
-        "ubicacion": "CC",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "1",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "6",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "12",
-        "producto": "CUADRO FIRE PETIT",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "16",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "17",
-        "producto": "SILLA",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "18",
-        "producto": "TASA",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "19",
-        "producto": "MUÑECA",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "21",
-        "producto": "PORTARETRATO",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "25",
-        "producto": "VELON AROMATICO PEQUEÑO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "26",
-        "producto": "SOPORTES",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "31",
-        "producto": "PORTARETRATO",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "34",
-        "producto": "TERMO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "35",
-        "producto": "ADORNO ARTESANAL",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "37",
-        "producto": "TABLITA DE PICAR VEGETALES",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "49",
-        "producto": "ADORNO ARTESANAL",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "62",
-        "producto": "TERMO SENCILLO GRIS NEGRO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C2",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "70",
-        "producto": "TERMO NIÑAS SENCILLO MORADO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "81",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "83",
-        "producto": "GUEGO DE CUCHARAS DE MADERA",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "94",
-        "producto": "CAJITA DE MUSICA BEBE",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "97",
-        "producto": "PORTA VELAS",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "102",
-        "producto": "MAQUINA DE CAFÉ",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "107",
-        "producto": "MESITA SOPORTE",
-        "categoria": "HOGAR",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "110",
-        "producto": "CUCHILLA DE RASPAR REPOSTERIA",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "111",
-        "producto": "TENEDOR PULLA",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "127",
-        "producto": "SOPORTE DE COLGAR COLLARES O PRENDAS",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "128",
-        "producto": "ESCOBITA DE BRUJAS",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "136",
-        "producto": "CANASTA AZUL ARTESANAL",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "156",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "157",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "158",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "159",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "160",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "163",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "164",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "165",
-        "producto": "PORTARETRATO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "166",
-        "producto": "BANDEJA MADERA",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "179",
-        "producto": "ADORNILLO DE GRADUACION",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "191",
-        "producto": "PORTARETRATO CORAZON",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "209",
-        "producto": "ADORNO PARED",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "213",
-        "producto": "HIELERA GRUESa",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "216",
-        "producto": "GUALLO SENCILLO",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "223",
-        "producto": "ESPEJO DE MANO SENCILLO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "239",
-        "producto": "CUCHARON Y ESPETULAS PLASTICAS",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "240",
-        "producto": "ESPATULA GRUESA METAL",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "245",
-        "producto": "ORGANIZADOR  DE MADERA",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "247",
-        "producto": "PULSERAS AZULES",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "248",
-        "producto": "PORTA LAPICES",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "265",
-        "producto": "PINZAS BARBIKIU",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "266",
-        "producto": "SUJETADOR DE MARIPOSA",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "268",
-        "producto": "JUEGO DE PULSERAS AMARILLO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "271",
-        "producto": "ESTANTILLO ORGANIZADOR",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "281",
-        "producto": "PORTA VELON",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "294",
-        "producto": "JUEGO CUCHARONES Y TENEDOR PLASTICOS",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "295",
-        "producto": "CUCHARA DE MEDIR HARINA",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "307",
-        "producto": "BANDEJA BASE",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "309",
-        "producto": "PINZAS DE HIELO",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "319",
-        "producto": "TERMO ROHO SENCILLO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "322",
-        "producto": "TERMO NIÑOS VERDE SENCILLO",
-        "categoria": "PERSONAL",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "325",
-        "producto": "CENICEROS CIGARRILLOS ADORNOS",
-        "categoria": "ADORNOS",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "326",
-        "producto": "EXPRIMIDOR NARANJA SIMPLE",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "328",
-        "producto": "MEDIDOR HARINA",
-        "categoria": "COCINA",
-        "precio": "100",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
         "img": "334",
         "producto": "TASA GATICOS",
         "categoria": "CRISTALES",
@@ -4362,132 +3651,6 @@
         "categoria": "CRISTALES",
         "precio": "100",
         "ubicacion": "C6",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "441",
-        "producto": "JUEGO DE COPAS PLASTICAS 2 UNI",
-        "categoria": "CRISTALES",
-        "precio": "100",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "445",
-        "producto": "MINI SOPERITAS SALCERAS",
-        "categoria": "CRISTALES",
-        "precio": "100",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "455",
-        "producto": "JUEGO SOPERAS PEQUEÑAS 2 UNI",
-        "categoria": "CRISTALES",
-        "precio": "100",
-        "ubicacion": "CR",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "29",
-        "producto": "MINI VIRGENCITA",
-        "categoria": "ADORNOS",
-        "precio": "50",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "32",
-        "producto": "LAMPARA DE FUEGO",
-        "categoria": "ADORNOS",
-        "precio": "50",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "33",
-        "producto": "PORTA LAPICES",
-        "categoria": "ADORNOS",
-        "precio": "50",
-        "ubicacion": "C1",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "99",
-        "producto": "PORTA VELON",
-        "categoria": "ADORNOS",
-        "precio": "50",
-        "ubicacion": "C3",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "172",
-        "producto": "SOPERA MARIPOZA VERDE",
-        "categoria": "COCINA",
-        "precio": "50",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "211",
-        "producto": "PINZAS DE HIELO",
-        "categoria": "COCINA",
-        "precio": "50",
-        "ubicacion": "C4",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "260",
-        "producto": "MANITAS LIMPIAS",
-        "categoria": "PERSONAL",
-        "precio": "50",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "264",
-        "producto": "ESPARCIDOR DE GOMA",
-        "categoria": "COCINA",
-        "precio": "50",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "282",
-        "producto": "ADORNO ARTESANAL",
-        "categoria": "ADORNOS",
-        "precio": "50",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "311",
-        "producto": "MOLDE RECTANGULAR 1 ESFERA",
-        "categoria": "COCINA",
-        "precio": "50",
-        "ubicacion": "C5",
-        "mostrar": "1",
-        "actualizado": "1"
-    },
-    {
-        "img": "316",
-        "producto": "JUEGO DE CUCHARAS MADERA",
-        "categoria": "COCINA",
-        "precio": "50",
-        "ubicacion": "C5",
         "mostrar": "1",
         "actualizado": "1"
     },
@@ -4636,6 +3799,753 @@
         "actualizado": "1"
     },
     {
+        "img": "337",
+        "producto": "1",
+        "categoria": "CRISTALES",
+        "precio": "0",
+        "ubicacion": "C6",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "342",
+        "producto": "1",
+        "categoria": "CRISTALES",
+        "precio": "0",
+        "ubicacion": "C6",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "344",
+        "producto": "1",
+        "categoria": "CRISTALES",
+        "precio": "0",
+        "ubicacion": "C6",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "502",
+        "producto": "CARTERA MAMEI BCBG MEDIO GRANDE EN PIEL",
+        "categoria": "MUJER",
+        "precio": "1500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "508",
+        "producto": "CARTERA MORADA ENZO AMGIDIM GRANDE EN PIEL DE PELO BRILLANTE",
+        "categoria": "MUJER",
+        "precio": "1500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "519",
+        "producto": "CARTERA AZUL CALVIN KLEIN PIEL GRANDE",
+        "categoria": "MUJER",
+        "precio": "1500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "522",
+        "producto": "CARTERA NEGRA TIGNANELO MEDIANA GRUESA PIEL",
+        "categoria": "MUJER",
+        "precio": "1500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "530",
+        "producto": "CARTERA ROSADA Y CREMA COACH MEDIANA  EN TELA  PIEL",
+        "categoria": "MUJER",
+        "precio": "1400",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "536",
+        "producto": "CARTERA GRIS OSCURO YANI MEDIO GRANDE ",
+        "categoria": "MUJER",
+        "precio": "1400",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "516",
+        "producto": "CARTERA AZUL ROSETTI MEDIANA EN PIEL",
+        "categoria": "MUJER",
+        "precio": "1200",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "529",
+        "producto": "CARTERA CREMA OSCURO LAUREN MEDIO GRANDE PIEL ",
+        "categoria": "MUJER",
+        "precio": "1200",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "531",
+        "producto": "MOCHILA MARRON AMARILLENTO GENERICA MEDIANA EN PIEL ",
+        "categoria": "MUJER",
+        "precio": "1200",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "521",
+        "producto": "CARTERA NEGRA COACH 1941 EN PIEL GRANDE ",
+        "categoria": "MUJER",
+        "precio": "1000",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "528",
+        "producto": "CARTERA CREMA COACH 1941 MEDIANA EN TELA Y PIEL",
+        "categoria": "MUJER",
+        "precio": "1000",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "533",
+        "producto": "CARTERA GRIS OSCURO DSW GRANDE EN TELA Y PIEL",
+        "categoria": "MUJER",
+        "precio": "1000",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "494",
+        "producto": "CARTERA CREMA RACHELZOE MEDIO GRANDE EN PIEL Y TELA",
+        "categoria": "MUJER",
+        "precio": "900",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "514",
+        "producto": "CARTERA NEGRA VINCE CAMEITO GRANDE EN PIEL ",
+        "categoria": "MUJER",
+        "precio": "900",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "548",
+        "producto": "CARTERA U BULTICO 2 EN 1 ROSADO AMARILLO OLIVIA MILLIER ",
+        "categoria": "MUJER",
+        "precio": "900",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "495",
+        "producto": "MOCHILA ZARA BASIC PEQUEÑA EN TELA GRUESA TIPO TEJIDO",
+        "categoria": "MUJER",
+        "precio": "800",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "504",
+        "producto": "CARTERA MARRON ESTAMPADO EN FLORES MEDIANA EN TELA Y PIEL ",
+        "categoria": "MUJER",
+        "precio": "800",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "505",
+        "producto": "CARTERA ROSADA SIONE MEDIO GRANDE EN PIEL",
+        "categoria": "MUJER",
+        "precio": "800",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "509",
+        "producto": "CARTERA MARRON  GENERICA GRANDE EN TELA",
+        "categoria": "MUJER",
+        "precio": "800",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "532",
+        "producto": "CARTERA NEGRA SERGIO VALENTE GRANDE EN CUERO ",
+        "categoria": "MUJER",
+        "precio": "800",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "537",
+        "producto": "CARTERA NEGRA MIZTIGNER MEDIO GRANDE ",
+        "categoria": "MUJER",
+        "precio": "800",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "506",
+        "producto": "CARTERA AMARILLA DOONEY BOURKE MEDIO GRANDE EN TEL A Y PIEL ",
+        "categoria": "MUJER",
+        "precio": "700",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "515",
+        "producto": "CARTERA MARRO ESTAMPADO COACH GRANDE EN TELA",
+        "categoria": "MUJER",
+        "precio": "700",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "540",
+        "producto": "CARTERA ROSADA COACH MEDIANA EN CUERO Y PIEL",
+        "categoria": "MUJER",
+        "precio": "700",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "496",
+        "producto": "BULTO CREMA COZY EARTHA MEIO GRANDE EN TELA Y PIEL",
+        "categoria": "MUJER",
+        "precio": "600",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "520",
+        "producto": "CARTERA BLANCO Y NEGRO ATP GRANDE EN PIEL",
+        "categoria": "MUJER",
+        "precio": "600",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "524",
+        "producto": "BULTO AZUL HAUTE SHORE MEDIANO ",
+        "categoria": "MUJER",
+        "precio": "600",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "498",
+        "producto": "BULTO CREMA GENERICO MEDIO PEQUEÑO EN TELA GRUESA",
+        "categoria": "MUJER",
+        "precio": "500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "503",
+        "producto": "CARTERA MARRON LUCKY BRAND MEDIANA EN PIEL ",
+        "categoria": "MUJER",
+        "precio": "500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "513",
+        "producto": "CARTERA NEGRA SMART BAGS MEDIANA EN TELA",
+        "categoria": "MUJER",
+        "precio": "500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "518",
+        "producto": "CARTERA GRIS VERDOSO SARNE MEDIANA EN PIEL",
+        "categoria": "MUJER",
+        "precio": "500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "538",
+        "producto": "CARTERA ROJA GENERICA EN CUERO Y TELA",
+        "categoria": "MUJER",
+        "precio": "500",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "493",
+        "producto": "CARTERA BLANCA LARUE MEDINA EN PIEL",
+        "categoria": "MUJER",
+        "precio": "400",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "510",
+        "producto": "CARTERA ROSADA VIENNA EN CUERO PEQUEÑA",
+        "categoria": "MUJER",
+        "precio": "400",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "517",
+        "producto": "CARTERA NEGRA GENERICA MEDIANA TELA BODADO",
+        "categoria": "MUJER",
+        "precio": "400",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "523",
+        "producto": "MONEDERO LEOPARDO MICHAEL ROMEDESING EN PIEL",
+        "categoria": "MUJER",
+        "precio": "400",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "546",
+        "producto": "MONEDERO GRIS COACH TELA Y PIEL ",
+        "categoria": "MUJER",
+        "precio": "400",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "542",
+        "producto": "MONEDERO AMARILLO FOSSIL EN PIEL PEQUEÑO",
+        "categoria": "MUJER",
+        "precio": "350",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "507",
+        "producto": "CARTERA LÑEOPARDO VANNESA TRENDS PEQUEÑA EN PIEL",
+        "categoria": "MUJER",
+        "precio": "300",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "512",
+        "producto": "BULTO MARRON Y NEGRO HELLO WEEDEND MEDIANO EN TELA",
+        "categoria": "MUJER",
+        "precio": "300",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "527",
+        "producto": "CARTERA NEGRA GENERICA EN CUERO RIGIDA  PEQUEÑA",
+        "categoria": "MUJER",
+        "precio": "300",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "534",
+        "producto": "BULTO AZUL Y CREMA GENERICO MEDIANO TELA",
+        "categoria": "MUJER",
+        "precio": "300",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "535",
+        "producto": "CARTERA VERDE OPACO MK MEDIO GRANDE ",
+        "categoria": "MUJER",
+        "precio": "300",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "539",
+        "producto": "BULTO AMARILLO JENNIFER MORE MEDIOANO TIP ARTESANAL ",
+        "categoria": "MUJER",
+        "precio": "300",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "501",
+        "producto": "MONEDERO AMARILLO ESTAMPADO LPSY PEQUEÑO  EN PIEL ",
+        "categoria": "MUJER",
+        "precio": "250",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "511",
+        "producto": "MONEDERO ROJO LPSY EN PIEL PEQUEÑO",
+        "categoria": "MUJER",
+        "precio": "250",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "541",
+        "producto": "MONEDERO MULTICOLOR VERA BRANDLEY PEQUEÑO",
+        "categoria": "MUJER",
+        "precio": "250",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "543",
+        "producto": "MONEDERO AZUL CORAZONES LPSY E PIEL",
+        "categoria": "MUJER",
+        "precio": "250",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "544",
+        "producto": "MONEDERO LPSY PLATEADO  EN PIEL ",
+        "categoria": "MUJER",
+        "precio": "250",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "545",
+        "producto": "MONEDERO AZUL Y VERDE LPSY TELA",
+        "categoria": "MUJER",
+        "precio": "250",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "547",
+        "producto": "MONEDERO VERDE Y MARRON ESTAMPADO NATAL RN CUERO",
+        "categoria": "MUJER",
+        "precio": "250",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "499",
+        "producto": "MONEDERO ROSADO Y NEGRO CONTENTS PEQUEÑO EN PLASTICO",
+        "categoria": "MUJER",
+        "precio": "200",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "525",
+        "producto": "MONEDERO MARRON LOCCITANE ",
+        "categoria": "MUJER",
+        "precio": "200",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "526",
+        "producto": "MONEDERO NEGRO BRILLANTE GENERICO ",
+        "categoria": "MUJER",
+        "precio": "200",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "497",
+        "producto": "MONEDERO CREMNA ARTE PEQ CON BRILLANTES",
+        "categoria": "MUJER",
+        "precio": "150",
+        "ubicacion": "CC",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "500",
+        "producto": "MONEDERO AMARILLO ESTAMPADO LPSY PEQUEÑO  EN PIEL ",
+        "categoria": "MUJER",
+        "precio": "0",
+        "ubicacion": "CC",
+        "mostrar": "0",
+        "actualizado": "1"
+    },
+    {
+        "img": "426",
+        "producto": "JUEGO DE COPAS VASOS GRUESAS 9 UNI",
+        "categoria": "CRISTALES",
+        "precio": "1000",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "436",
+        "producto": "JUEGO DE COPAS LARGAS 5 UNI",
+        "categoria": "CRISTALES",
+        "precio": "1000",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "432",
+        "producto": "JUEGO DE COPAS RAMITAS 5 UNI",
+        "categoria": "CRISTALES",
+        "precio": "800",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "438",
+        "producto": "JUEGO DE COPAS AGUA RAMITAS",
+        "categoria": "CRISTALES",
+        "precio": "800",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "448",
+        "producto": "JUEGO DE COPAS NAVIDAD",
+        "categoria": "CRISTALES",
+        "precio": "800",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "429",
+        "producto": "JUEGO DE VASOS RAMITOS SON 5 UNI PERO EN LA FOTO HAY DOS",
+        "categoria": "CRISTALES",
+        "precio": "700",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "433",
+        "producto": "JUEGO DE COPAS MARGARITA 4 UNI",
+        "categoria": "CRISTALES",
+        "precio": "700",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "447",
+        "producto": "JUEGO DE VACITOS ESTAMPADOS PAR A PAR DISEÑOS CELEBRACIONES",
+        "categoria": "CRISTALES",
+        "precio": "700",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "435",
+        "producto": "JUEGO DE COPAS EXOTICAS",
+        "categoria": "CRISTALES",
+        "precio": "500",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "427",
+        "producto": "JUEGO DE COPITAS PLANAS 8 UNI",
+        "categoria": "CRISTALES",
+        "precio": "400",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "443",
+        "producto": "JUEGO DE COPAS RELIGIOSAS METAL",
+        "categoria": "CRISTALES",
+        "precio": "400",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "428",
+        "producto": "JUEGO DE VASOS TASAS EN RALLADOS",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "430",
+        "producto": "JUEGO DE TASAS EN CHAP 3 UNI",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "449",
+        "producto": "TASA Y VASO EN CROQUE",
+        "categoria": "CRISTALES",
+        "precio": "300",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "437",
+        "producto": "JUEGO DE COPAS  AGUA",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "440",
+        "producto": "JUEGO DE TASAS LISAS TRANSP ",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "442",
+        "producto": "JUEGO DE VASOS 2 UNI",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "446",
+        "producto": "COFRE CRISTAL CREMA ROSAS",
+        "categoria": "CRISTALES",
+        "precio": "250",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "431",
+        "producto": "JUEOG DE VASITOS TEQUILA 1959",
+        "categoria": "CRISTALES",
+        "precio": "200",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "434",
+        "producto": "SALERO PIMENTERO BLACOS",
+        "categoria": "CRISTALES",
+        "precio": "200",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "444",
+        "producto": "VASO DE REGALO ESFERA",
+        "categoria": "CRISTALES",
+        "precio": "200",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "441",
+        "producto": "JUEGO DE COPAS PLASTICAS 2 UNI",
+        "categoria": "CRISTALES",
+        "precio": "100",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "445",
+        "producto": "MINI SOPERITAS SALCERAS",
+        "categoria": "CRISTALES",
+        "precio": "100",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "455",
+        "producto": "JUEGO SOPERAS PEQUEÑAS 2 UNI",
+        "categoria": "CRISTALES",
+        "precio": "100",
+        "ubicacion": "CR",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
         "img": "450",
         "producto": "CENICERO",
         "categoria": "CRISTALES",
@@ -4681,240 +4591,6 @@
         "actualizado": "1"
     },
     {
-        "img": "36",
-        "producto": "MINI PESO ELECTRONICO DE MANO",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "0",
-        "ubicacion": "C1",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "55",
-        "producto": "TRITURADORA",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "0",
-        "ubicacion": "C2",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "60",
-        "producto": "PLANCHA",
-        "categoria": "ELECTRODOMESTICO",
-        "precio": "0",
-        "ubicacion": "C2",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "75",
-        "producto": "TASAS",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "76",
-        "producto": "COPA",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "79",
-        "producto": "MASAJEADOR PIEL",
-        "categoria": "PERSONAL",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "87",
-        "producto": "1",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "88",
-        "producto": "1",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "100",
-        "producto": "S",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "113",
-        "producto": "a",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "129",
-        "producto": "MAQUINA HUMIDIFICADORA",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "133",
-        "producto": "K",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C3",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "169",
-        "producto": "AROS SUJETADORES CORTINA BAÑO O SALA",
-        "categoria": "HOGAR",
-        "precio": "0",
-        "ubicacion": "C4",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "182",
-        "producto": "MANITAS LIMPIAS",
-        "categoria": "PERSONAL",
-        "precio": "0",
-        "ubicacion": "C4",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "189",
-        "producto": "1",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C4",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "210",
-        "producto": "8",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C4",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "217",
-        "producto": "1",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C4",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "244",
-        "producto": "1",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C5",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "262",
-        "producto": "8",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C5",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "263",
-        "producto": "8",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C5",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "301",
-        "producto": "1",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C5",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "302",
-        "producto": "1",
-        "categoria": "COCINA",
-        "precio": "0",
-        "ubicacion": "C5",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "331",
-        "producto": "1",
-        "categoria": "PERSONAL",
-        "precio": "0",
-        "ubicacion": "C5",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "337",
-        "producto": "1",
-        "categoria": "CRISTALES",
-        "precio": "0",
-        "ubicacion": "C6",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "342",
-        "producto": "1",
-        "categoria": "CRISTALES",
-        "precio": "0",
-        "ubicacion": "C6",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
-        "img": "344",
-        "producto": "1",
-        "categoria": "CRISTALES",
-        "precio": "0",
-        "ubicacion": "C6",
-        "mostrar": "0",
-        "actualizado": "1"
-    },
-    {
         "img": "439",
         "producto": "1",
         "categoria": "CRISTALES",
@@ -4924,12 +4600,336 @@
         "actualizado": "1"
     },
     {
-        "img": "500",
-        "producto": "MONEDERO AMARILLO ESTAMPADO LPSY PEQUEÑO  EN PIEL ",
-        "categoria": "MUJER",
-        "precio": "0",
-        "ubicacion": "CC",
-        "mostrar": "0",
+        "img": "476",
+        "producto": "BOTAS DE FRIO EN CUERO MARRON CLARO  HIDRO SHIELD 7.5",
+        "categoria": "CALZADO",
+        "precio": "1300",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "459",
+        "producto": "ZAPATOS NEGRO DE VESTIR CLIFFS 9M",
+        "categoria": "CALZADO",
+        "precio": "1300",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "482",
+        "producto": "ZAPATOS MARRON DE VESTIR CLIFFS 9M",
+        "categoria": "CALZADO",
+        "precio": "1300",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "468",
+        "producto": "SANDALIAS MARON CLARO NAUTICA 9 USA",
+        "categoria": "CALZADO",
+        "precio": "1200",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "478",
+        "producto": "TENIS NEGROS NEW BALANCE 12 USA",
+        "categoria": "CALZADO",
+        "precio": "1100",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "487",
+        "producto": "TENIS AZUL MAMEI NIÑOS GOMA STRIDE RITE 13 USA",
+        "categoria": "CALZADO",
+        "precio": "1100",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "472",
+        "producto": "BOTAS MARRON GOMA Y CUERO COUDWALKEWA 10W",
+        "categoria": "CALZADO",
+        "precio": "1000",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "456",
+        "producto": "TENIS NEGRO FRYE 8.5 USA",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "457",
+        "producto": "TENIS ABIERTOS EASYsPIRIT 8.5 USA",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "464",
+        "producto": "ZAPATOS NEGRO DR SCHOLLS 8.5 USA",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "473",
+        "producto": "TACOS PLATAFORMA CREMA MADDEN GIRL 6",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "475",
+        "producto": "BOTAS DE FRIO CRUERO MARRON BRAZIL 8B",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "479",
+        "producto": "TENIS NEGRO GRUEOSS CON METAL POR DENTRO PARA OBREROS ROEBRUCK 9 USA",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "483",
+        "producto": "TENIS BRACH NEGROS 7.5",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "485",
+        "producto": "ZAPATOS MARRON ESTY 8",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "486",
+        "producto": "TACOS AZULES PRADA 36",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "489",
+        "producto": "TENNIS VERDE CLAROS FRYE 10M",
+        "categoria": "CALZADO",
+        "precio": "900",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "462",
+        "producto": "BOTAS DE FRIO MARRON METOO 8",
+        "categoria": "CALZADO",
+        "precio": "800",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "466",
+        "producto": "TENIS AZUL NIKE NIÑOS 3.5 USA",
+        "categoria": "CALZADO",
+        "precio": "800",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "467",
+        "producto": "BOTAS NEGRAS SONOMA 9 ",
+        "categoria": "CALZADO",
+        "precio": "800",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "474",
+        "producto": "ZAPATOS NEGROSSTACEY ADAMS 11M",
+        "categoria": "CALZADO",
+        "precio": "800",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "461",
+        "producto": "ZAPATOS MARRON ROJIZO GUCCI 7",
+        "categoria": "CALZADO",
+        "precio": "700",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "465",
+        "producto": "TACOS NEGROS WILD DIVA 8",
+        "categoria": "CALZADO",
+        "precio": "700",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "469",
+        "producto": "ZAPATOS VERDE CLARO SPERRY 9.5",
+        "categoria": "CALZADO",
+        "precio": "700",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "471",
+        "producto": "TENIS AZULES CLARO NIKE 7.5 USA",
+        "categoria": "CALZADO",
+        "precio": "700",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "490",
+        "producto": "TENIS BLANCO Y NEGRO ADIDAS WEIGHTLIFT 11.5 USA",
+        "categoria": "CALZADO",
+        "precio": "700",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "491",
+        "producto": "ZAPATOS MARRON COLTOE 7.5",
+        "categoria": "CALZADO",
+        "precio": "700",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "460",
+        "producto": "ZAPATOSNEGROS PAUL GREEN 8",
+        "categoria": "CALZADO",
+        "precio": "600",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "477",
+        "producto": "SANDALIAS NEGRAS AEROTHOTIC 40",
+        "categoria": "CALZADO",
+        "precio": "600",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "480",
+        "producto": "BOTAS AMARILLAS GRUESAS EN CUERO SUNVIVDBS 7.5M",
+        "categoria": "CALZADO",
+        "precio": "600",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "492",
+        "producto": "TENIS PIJAMMA CREMA 5/6",
+        "categoria": "CALZADO",
+        "precio": "600",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "463",
+        "producto": "ZAPATOS LEOPARDO VIONIC 7.5 USA",
+        "categoria": "CALZADO",
+        "precio": "500",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "470",
+        "producto": "TACOS MARRON 6 ",
+        "categoria": "CALZADO",
+        "precio": "500",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "481",
+        "producto": "ZAPATOS EN CUERO Y TELAVANHFUSSEN 12M",
+        "categoria": "CALZADO",
+        "precio": "500",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "484",
+        "producto": "SANDALIAS DE PIJAMMA ROJAS SUIZA VICTORIA SECRET 8",
+        "categoria": "CALZADO",
+        "precio": "500",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "488",
+        "producto": "SANDALIAS GRIS OSCURO 8.5",
+        "categoria": "CALZADO",
+        "precio": "500",
+        "ubicacion": "CZ",
+        "mostrar": "1",
+        "actualizado": "1"
+    },
+    {
+        "img": "458",
+        "producto": "SANDALIS NEGRAS AEROPOSTAL 9 USA",
+        "categoria": "CALZADO",
+        "precio": "400",
+        "ubicacion": "CZ",
+        "mostrar": "1",
         "actualizado": "1"
     }
 ]
