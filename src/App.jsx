@@ -18,7 +18,7 @@ const Targeta = ({ blogs }) => {
     <div className="cuerpo2">
       <div className="gallery">
         {blogs.map((blog) => (
-          <Blog2 key={blog.id} blog={blog} />
+          <Blog2 key={blog.img} blog={blog} />
         ))}
       </div>
     </div>
@@ -56,7 +56,7 @@ const Targeta3 = ({ blogs }) => {
 };
 
 const App = () => {
-  const [blogs, setBlogs] = useState([]);
+  const [dataprincipal, setPrincipalData] = useState([]);
 
   const [blogs2, setBlogs2] = useState([]);
   const [blogs3, setBlogs3] = useState([]);
@@ -77,8 +77,8 @@ const App = () => {
     if (result) {
       try {
         const response = await blogService.dele(id);
-        const newdata = blogs.filter((el) => el.id !== response.id);
-        setBlogs(newdata);
+        const newdata = dataprincipal.filter((el) => el.id !== response.id);
+        setPrincipalData(newdata);
 
         setmessage(`Blog Deleted ${response.title}`);
         console.log(response);
@@ -90,7 +90,7 @@ const App = () => {
     }
   };
 
-  const compararProductosPorLikes = (a, b) => {
+  const compararProductosPorPrecio = (a, b) => {
     const productoA = Number(a.precio);
     const productoB = Number(b.precio);
 
@@ -106,15 +106,15 @@ const App = () => {
     return 0;
   };
 
-  const compararProductosPorAB = (a, b) => {
-    const productoA = Number(a.producto);
-    const productoB = Number(b.producto);
+  const compararProductosPorAZ = (a, b) => {
+    // const productoA = Number(a.producto);
+    // const productoB = Number(b.producto);
 
-    //     const productoA = Number(a.precio);
-    // const productoB = Number(b.precio);
+    // //     const productoA = Number(a.precio);
+    // // const productoB = Number(b.precio);
 
-    //     const productoA = a.producto;
-    // const productoB = b.producto;
+        const productoA = a.producto;
+    const productoB = b.producto;
 
     if (productoA < productoB) {
       return -1;
@@ -124,10 +124,17 @@ const App = () => {
     }
     return 0;
   };
+
+
+
+
+
+
+
   // (a, b) => a.producto - b.producto
 
   //fue necesario dublicar las funciones por nada me funciono para que no haga referencia a memoria cuando se llama la data y asi no me afecte el metodo sort
-  const getblog = async () => {
+  const porPrecio = async () => {
     // const RESPONSE =  datos
 
     // const RESPONSE = await blogService.getAll()
@@ -137,13 +144,13 @@ const App = () => {
     setcategoria("MUJER");
     //ES NECESARIO CREAR COPIAS INDEPENDIENTES, PORQUE LA ORDENACION CON EL METODO SORT, ES POR REFERENCIA A EE, SE ESTA APUNTANDO A LA MISMA SECCION DE MEMORIA,
     //como el ... solo hace copia superficial, se hizo uso del JSONparse Stringify para poder evadir la referneica
-    const filter = datos.datos.sort(compararProductosPorLikes);
-    setBlogs(filter);
+    const filter = datos.datos.sort(compararProductosPorPrecio);
+    setPrincipalData(filter);
   };
 
-  const getblog2 = async () => {
+  const porAZ = async () => {
     // const RESPONSE = await blogService.getAll()
-    const filter3987 = datos.datos.sort(compararProductosPorAB);
+    const filter3987 = datos.datos.sort(compararProductosPorAZ);
     setBlogs3(filter3987);
   };
 
@@ -160,7 +167,7 @@ const App = () => {
         userId: "user.userId",
         User: "",
       });
-      await getblog();
+      await porPrecio();
       setmessage(`Blog Add ${title}`);
     } catch (error) {
       setmessage(`${error.code}`);
@@ -168,9 +175,21 @@ const App = () => {
     }
   };
 
+  const comparaPrecioAZ = async () => {
+    const datageneral = datos.datos
+    // const RESPONSE = await blogService.getAll()
+    const primera = datageneral.sort(compararProductosPorPrecio);
+    const segunda = primera.sort(compararProductosPorAZ);
+    // setBlogs3(segunda);
+    // setPrincipalData(segunda);
+  };
+
+  
   useEffect(() => {
-    getblog();
-    getblog2();
+   porPrecio();
+  //      porAZ();
+ comparaPrecioAZ()
+ 
     // blogService.getAll().then((blogs) => setBlogs(blogs));
     console.log("Primer render");
   }, []);
@@ -222,12 +241,17 @@ const App = () => {
   };
 
   useEffect(() => {
-    const filter3987 = blogs.sort(compararProductosPorLikes);
+    const filter3987 = dataprincipal.sort(comparaPrecioAZ);
 
     let catego = filter3987.filter((el) => el.categoria === categoria);
     let catego3 = blogs3.filter((el) => el.categoria === categoria);
+ 
 
     setBlogs2(catego);
+       if(categoria == "TODO"){
+    setBlogs2(filter3987);
+
+    }
     setBlogs4(catego3);
   }, [categoria]);
 
@@ -249,7 +273,7 @@ const App = () => {
     <div className="app">
       {/* <div className="encabezado"> */}
       <div className={`encabezado ${ruta}`}>
-        <h2>Paca La Profe Ginita</h2>
+        <h2>Paca La Profe Ginita E{ blogs2.reduce((total, item) =>  total + Number(item.precio), 0)}F</h2>
         <label className="llllll" htmlFor="">
           Categoria
         </label>
@@ -265,9 +289,10 @@ const App = () => {
 
           <option value="CRISTALES">CRISTALES...</option>
           <option value="ELECTRODOMESTICO">ELECTRO...</option>
-          <option value="NAVIDAD">NAVIDAD</option>
+          <option value="TODO">TODO</option>
         </select>{" "}
         {blogs2.length} Art.
+      
         <img
           className="mom"
           src="https://raw.githubusercontent.com/JhoniSanchez/paga-ginita/master/public/mom.jpg"
