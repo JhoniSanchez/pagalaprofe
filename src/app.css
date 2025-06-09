@@ -194,10 +194,17 @@ position: absolute;
 
 }
 .cod {
-  color: rgb(0, 0, 0);
-  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.267);
+  font-size: 0.5rem;
   font-weight: bolder;
   
+}
+
+
+.ppp {
+  display: flex;
+  justify-content: center;
+  align-items:center;
 }
 .gallery {
   display: flex;

@@ -269,13 +269,16 @@ const App = () => {
   const aa = useParams();
 
   console.log(aa);
+  let total = Number(blogs2.reduce((total, item) =>  total + Number(item.precio), 0))
+
+  
   return (
     <div className="app">
       {/* <div className="encabezado"> */}
       <div className={`encabezado ${ruta}`}>
-        <h2>Paca La Profe Ginita E{ blogs2.reduce((total, item) =>  total + Number(item.precio), 0)}F</h2>
+        <h2>PACA GINITA { total.toLocaleString('en-US')}.00</h2>
         <label className="llllll" htmlFor="">
-          Categoria
+          CATEGORIA
         </label>
         <select name="CATEGORIA" className="llllll" onChange={CARGACATEGORIA}>
           <option value="MUJER">MUJER...</option>

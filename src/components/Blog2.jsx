@@ -139,7 +139,10 @@ const Blog2 = ({ blog, dele }) => {
         loading="lazy"
         onClick={() => vert()}
       />
-      <p className="price2">RD$ {blog.precio} <span className="cod"> {blog.ubicacion}{blog.img}</span> </p>
+      <div className="ppp">
+        <div className="price2">RD$ {blog.precio}  </div><div className="cod"> {blog.ubicacion}{blog.img}</div>
+      </div>
+      
       <div className="item-details">
         <div className="ver" style={{ display: ver ? "block" : "none" }}>
           {blog.producto}
