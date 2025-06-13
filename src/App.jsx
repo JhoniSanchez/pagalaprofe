@@ -273,7 +273,7 @@ const App = () => {
 
   
   return (
-    <div className="app">
+    <div className="app"> 
       {/* <div className="encabezado"> */}
       <div className={`encabezado ${ruta}`}>
         <h2>PACA GINITA { total.toLocaleString('en-US')}.00</h2>
@@ -281,7 +281,8 @@ const App = () => {
           CATEGORIA
         </label>
         <select name="CATEGORIA" className="llllll" onChange={CARGACATEGORIA}>
-          <option value="MUJER">MUJER...</option>
+          <option value="MUJER">BOLSOS</option>  
+          <option value="NIÑOS">NIÑOS</option>
           <option value="CALZADO">CALZADOS</option>
 
           <option value="PERSONAL">PERSONAL</option>
@@ -290,9 +291,10 @@ const App = () => {
           <option value="COCINA">COCINA</option>
           <option value="HOGAR">HOGAR</option>
 
-          <option value="CRISTALES">CRISTALES...</option>
-          <option value="ELECTRODOMESTICO">ELECTRO...</option>
-          <option value="TODO">TODO</option>
+          <option value="CRISTALES">CRISTALES</option>
+          <option value="ELECTRODOMESTICO">ELECTRO</option>
+          <option value="TODO">TODOS</option>
+         
         </select>{" "}
         {blogs2.length} Art.
       
