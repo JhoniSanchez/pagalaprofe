@@ -270,7 +270,7 @@ const App = () => {
 
   console.log(aa);
   let total = Number(blogs2.reduce((total, item) =>  total + Number(item.precio), 0))
-
+const cantidadMostrando = blogs2.filter(item => item.mostrar === "1").length;
   
   return (
     <div className="app"> 
@@ -296,7 +296,9 @@ const App = () => {
           <option value="TODO">TODOS</option>
          
         </select>{" "}
-        {blogs2.length} Art.
+        {/* {blogs2.length} Art. */}
+          {cantidadMostrando} Art.
+
       
         <img
           className="mom"

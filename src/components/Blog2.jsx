@@ -111,15 +111,16 @@ const Blog2 = ({ blog, dele }) => {
     img = 200;
   } else if (Number(blog.img) < 300) {
     img = 300;
-  } else if (Number(blog.img)< 400) {
+  } else if (Number(blog.img) < 400) {
     img = 400;
   } else if (Number(blog.img) < 500) {
     img = 500;
-  } else if (Number(blog.img)< 600) {
+  } else if (Number(blog.img) < 600) {
     img = 600;
-  }
-  else if (Number(blog.img)< 700) {
+  } else if (Number(blog.img) < 700) {
     img = 700;
+  } else if (Number(blog.img) < 800) {
+    img = 800;
   }
 
   const link = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.jpg`;
@@ -129,7 +130,7 @@ const Blog2 = ({ blog, dele }) => {
     // <div className="gallery">{}
     <div
       className="gallery-item"
-      style={{ display: blog.mostrar == 1? "block" : "none" }}
+      style={{ display: blog.mostrar == 1 ? "block" : "none" }}
     >
       <img
         ref={imgRef}
@@ -143,9 +144,14 @@ const Blog2 = ({ blog, dele }) => {
         onClick={() => vert()}
       />
       <div className="ppp">
-        <div className="price2">RD$ {blog.precio}  </div><div className="cod"> {blog.ubicacion}{blog.img}</div>
+        <div className="price2">RD$ {blog.precio} </div>
+        <div className="cod">
+          {" "}
+          {blog.ubicacion}
+          {blog.img}
+        </div>
       </div>
-      
+
       <div className="item-details">
         <div className="ver" style={{ display: ver ? "block" : "none" }}>
           {blog.producto}
@@ -155,9 +161,7 @@ const Blog2 = ({ blog, dele }) => {
             <button>
               <a
                 target="_blank"
-                href={`https://api.whatsapp.com/send/?phone=18098997894&text=${link}%20Hola%20Profe,%20me%20interesa%20el%20articulo%20${
-                  blog.producto
-                }%20*codigo:%20${blog.ubicacion}-${blog.img}*`}
+                href={`https://api.whatsapp.com/send/?phone=18098997894&text=${link}%20Hola%20Profe,%20me%20interesa%20el%20articulo%20${blog.producto}%20*codigo:%20${blog.ubicacion}-${blog.img}*`}
               >
                 {blog.ubicacion}-{blog.img}{" "}
               </a>
@@ -166,9 +170,7 @@ const Blog2 = ({ blog, dele }) => {
           <button className="Wa2">
             <a
               target="_blank"
-              href={`https://api.whatsapp.com/send/?phone=18098997894&text=Hola%20Profe,%20me%20interesa%20el%20articulo%20${
-                blog.producto
-              }%20codigo:%20${blog.ubicacion}-${blog.img}%20`}
+              href={`https://api.whatsapp.com/send/?phone=18098997894&text=Hola%20Profe,%20me%20interesa%20el%20articulo%20${blog.producto}%20codigo:%20${blog.ubicacion}-${blog.img}%20`}
             >
               Preguntar por WhatsApp
             </a>
