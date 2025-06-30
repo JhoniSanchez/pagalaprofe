@@ -268,10 +268,11 @@ const App = () => {
   }
   const aa = useParams();
 
-  console.log(aa);
-  let total = Number(blogs2.reduce((total, item) =>  total + Number(item.precio), 0))
-const cantidadMostrando = blogs2.filter(item => item.mostrar === "1").length;
   
+  let total = blogs2.reduce((t, item) => t + (Number(item.precio) || 0), 0);
+
+const cantidadMostrando = blogs2.filter(item => item.mostrar == "1").length;
+  console.log(cantidadMostrando);
   return (
     <div className="app"> 
       {/* <div className="encabezado"> */}
