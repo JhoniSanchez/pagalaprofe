@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { FcLike } from "react-icons/fc";
+// import { FcLike } from "react-icons/fc";
 
 // import "../../src/app.css"
 import blogs from "../services/blogs";
@@ -121,6 +121,12 @@ const Blog2 = ({ blog, dele }) => {
     img = 700;
   } else if (Number(blog.img) < 800) {
     img = 800;
+  } else if (Number(blog.img) < 900) {
+    img = 900;
+  } else if (Number(blog.img) < 1000) {
+    img = 1000;
+  } else if (Number(blog.img) < 1100) {
+    img = 1100;
   }
 
   const link = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.jpg`;

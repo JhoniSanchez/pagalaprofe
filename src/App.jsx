@@ -18,7 +18,7 @@ const Targeta = ({ blogs }) => {
     <div className="cuerpo2">
       <div className="gallery">
         {blogs.map((blog) => (
-          <Blog2 key={blog.img} blog={blog} />
+          <Blog2 key={blog.id} blog={blog} />
         ))}
       </div>
     </div>
@@ -282,18 +282,18 @@ const cantidadMostrando = blogs2.filter(item => item.mostrar == "1").length;
           CATEGORIA
         </label>
         <select name="CATEGORIA" className="llllll" onChange={CARGACATEGORIA}>
-          <option value="MUJER">BOLSOS</option>  
-          <option value="NIÑOS">NIÑOS</option>
+          <option value="MUJER">CARTERAS</option>  
+          <option value="NIÑOS">JUGUETES</option>
           <option value="CALZADO">CALZADOS</option>
 
-          <option value="PERSONAL">PERSONAL</option>
-          <option value="ADORNOS">ADORNO</option>
+          <option value="PERSONAL">USO PERSONAL</option>
+          <option value="ADORNOS">ADORNOS</option>
 
           <option value="COCINA">COCINA</option>
-          <option value="HOGAR">HOGAR</option>
+          <option value="HOGAR">PARA EL HOGAR</option>
 
-          <option value="CRISTALES">CRISTALES</option>
-          <option value="ELECTRODOMESTICO">ELECTRO</option>
+          <option value="CRISTALES">CRISLATERIAS</option>
+          <option value="ELECTRODOMESTICO">ELECTRODOMESTICOS</option>
           <option value="TODO">TODOS</option>
          
         </select>{" "}
