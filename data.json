@@ -862,22 +862,30 @@
   {
     "id": 87,
     "img": 87,
-    "producto": 1,
-    "categoria": "COCINA",
-    "precio": 0,
-    "ubicacion": "C3",
-    "mostrar": 0,
-    "actualizado": 1
+    "producto": "TENAZA PLANCHA BLANCA",
+    "categoria": "PERSONAL",
+    "precio": 1500,
+    "ubicacion": "C4",
+    "mostrar": 1,
+    "actualizado": 1,
+    "comentario": "Al 13/07/25 1107revisando mami ordendo close, se nota que essa planchja esta en la casa, por lo que no se habia vendido. A genesis. Se reubico de C3 hacia la C4"
   },
   {
     "id": 88,
     "img": 88,
-    "producto": 1,
-    "categoria": "COCINA",
+    "producto": "TENAZA PLANCHA AZUL",
+    "categoria": "PERSONAL",
     "precio": 0,
     "ubicacion": "C3",
     "mostrar": 0,
-    "actualizado": 1
+    "actualizado": 1,
+    "fecha": 45749,
+    "estado": "SALDO",
+    "montodeventa": 1500,
+    "montofinal": 1000,
+    "cliente": "GENESIS",
+    "detallecliente": "colegio",
+    "comentario": "Al 13072025 por error se creyo que se habia vendido la plnaca blanca img 87, pero ya se arreglo el registro"
   },
   {
     "id": 89,

@@ -221,12 +221,38 @@ position: absolute;
   border-radius: 5px; /* Bordes redondeados */
   background-color: rgb(255, 255, 255); 
 }
-.gallery-item img {
+
+.gallery-item-oculto {
+  /* margin: 1rem; */
+  width: calc(33.33% - 2px); /* Ancho de cada elemento (imagen + detalles) */
+  margin-bottom: 3px; /* Espacio inferior entre elementos */
+  box-sizing: border-box; /* Incluir padding y borde en el ancho calculado */
+  border: 0px solid #fffffffa; /* Borde ligero alrededor de cada elemento */
+  border-radius: 5px; /* Bordes redondeados */
+  background-color: rgb(0, 0, 0); 
+}
+
+/* .gallery-item img {
+  width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+  /* height: 100%; */
+  /* border-top-left-radius: 5px; */
+  /* border-top-right-radius: 5px; */
+/* } */ 
+
+.imgvisible {
   width: 100%; /* La imagen ocupa todo el ancho del contenedor */
   /* height: 100%; */
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
+.imgoculto {
+  
+  width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+  /* height: 100%; */
+   filter: brightness(25%);
+  border-top-right-radius: 100px;
+}
+
 
 .gallery-item p {
   display: inline;

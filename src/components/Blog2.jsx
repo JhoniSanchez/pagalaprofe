@@ -135,22 +135,24 @@ const Blog2 = ({ blog, dele }) => {
     // <div className="blogbody">
     // <div className="gallery">{}
     <div
-      className="gallery-item"
-      style={{ display: blog.mostrar == 1 ? "block" : "none" }}
+       className={blog.mostrar === 1 ? "gallery-item" : "gallery-item-oculto"}
+      // style={{ display: blog.mostrar == 1 ? "block" : "none" }}
     >
       <img
+        className={blog.mostrar == 1 ? "imgvisible" : "imgoculto"}
         ref={imgRef}
         src={
-          isVisible && blog.mostrar == 1
-            ? `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`
-            : ""
+          // isVisible && blog.mostrar == 1
+            // ? 
+            `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`
+            // : ""
         }
         alt=""
         loading="lazy"
         onClick={() => vert()}
       />
       <div className="ppp">
-        <div className="price2">RD$ {blog.precio} </div>
+        <div className="price2">{blog.mostrar === 0? "AGOTADO" : <span>RD$ {blog.precio} </span>} </div>
         <div className="cod">
           {" "}
           {blog.ubicacion}
@@ -160,9 +162,9 @@ const Blog2 = ({ blog, dele }) => {
 
       <div className="item-details">
         <div className="ver" style={{ display: ver ? "block" : "none" }}>
-          {blog.producto}
+          {blog.mostrar === 0 ? "No disponible" : <span> {blog.producto} </span>}
 
-          <p className="price">RD$ {blog.precio} </p>
+          <p className="price">{blog.mostrar === 0 ? "No disponible" : <span>RD$ {blog.precio} </span>}</p>
           <span className="Wa">
             <button>
               <a
