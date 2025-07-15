@@ -36,6 +36,11 @@ body {
     margin-top: 80px;
 }
 
+.imgperfil {
+  width: 100%;
+  border-radius: 50%;
+}
+
 img {
   width: 70%;
 }
@@ -183,7 +188,7 @@ position: absolute;
 
 
 .cuerpo2 {
-  margin-top: 80px;
+  margin-top: 60px;
   /* font-family: Arial, sans-serif;
   display: flex;
   justify-content: center;

@@ -7,18 +7,90 @@ import Formblog from "./components/Formblog";
 import Notification from "./components/Notification";
 import "./app.css";
 import FromFilters from "./components/FromFilters";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
 import { useParams } from "react-router-dom";
 import datos from "../data.json";
 import LocalBlog from "./components/LocalBlog";
 
+const styles = {
+  container: {
+    backgroundColor: "#f5f5f5",
+    minHeight: "100vh",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    padding: "2rem 1rem",
+  },
+  header: {
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    marginBottom: "2rem",
+    width: "100%",
+    textAlign: "center",
+  },
+  title: {
+    fontSize: "2.5rem",
+    fontWeight: "bold",
+    color: "#333",
+    marginBottom: "1rem",
+  },
+  profilePlaceholder: {
+    width: "120px",
+    height: "120px",
+    borderRadius: "50%",
+    backgroundColor: "#ccc",
+    border: "2px solid #fff",
+    boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
+  },
+  buttonsGrid: {
+    display: "grid",
+    gridTemplateColumns: "1fr 1fr",
+    gap: "1rem",
+    width: "100%",
+    maxWidth: "400px",
+    marginBottom: "2rem",
+  },
+  button: {
+    padding: "1rem",
+    fontSize: "1rem",
+    fontWeight: "600",
+    color: "#000000ff",
+    backgroundColor: "#988897d8",
+    border: "none",
+    borderRadius: "10px",
+    boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+    cursor: "pointer",
+    transition: "transform 0.2s, box-shadow 0.2s",
+  },
+  todoContainer: {
+    width: "100%",
+    maxWidth: "400px",
+    display: "flex",
+    justifyContent: "center",
+  },
+  todoButton: {
+    padding: "1.2rem 3rem",
+    fontSize: "1.2rem",
+    fontWeight: "bold",
+    color: "#fff",
+    backgroundColor: "#6c7075ff",
+    border: "none",
+    borderRadius: "10px",
+    boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+    cursor: "pointer",
+    width: "100%",
+    maxWidth: "250px",
+    transition: "background-color 0.2s",
+  },
+};
 console.log(datos.datos);
-const Targeta = ({ blogs }) => {
+const Targeta = ({ blogs, categoria }) => {
   return (
     <div className="cuerpo2">
       <div className="gallery">
         {blogs.map((blog) => (
-          <Blog2 key={blog.id} blog={blog} />
+          <Blog2 key={blog.id} blog={blog} categoria={categoria} />
         ))}
       </div>
     </div>
@@ -56,8 +128,10 @@ const Targeta3 = ({ blogs }) => {
 };
 
 const App = () => {
-  const [dataprincipal, setPrincipalData] = useState([]);
+  // let displayContainer = "flex";
 
+  const [dataprincipal, setPrincipalData] = useState([]);
+  const [displayContainer, setdisplayContainer] = useState("flex");
   const [blogs2, setBlogs2] = useState([]);
   const [blogs3, setBlogs3] = useState([]);
   const [blogs4, setBlogs4] = useState([]);
@@ -71,6 +145,133 @@ const App = () => {
   const [newblogs, setnewBlogs] = useState({});
 
   const [categoria, setcategoria] = useState("");
+
+  const TodoBtn = () => {
+    setcategoria("COCINA");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+  };
+    //  <option value="MUJER">CARTERAS</option>  
+    //       <option value="NIÑOS">JUGUETES</option>
+    //       <option value="CALZADO">CALZADOS</option>
+
+    //       <option value="PERSONAL">USO PERSONAL</option>
+    //       <option value="ADORNOS">ADORNOS</option>
+
+    //       <option value="COCINA">COCINA</option>
+    //       <option value="HOGAR">PARA EL HOGAR</option>
+
+    //       <option value="CRISTALES">CRISLATERIAS</option>
+    //       <option value="ELECTRODOMESTICO">ELECTRODOMESTICOS</option>
+    //       <option value="TODO">TODOS</option>
+
+const mujerBtn = () => {
+      setcategoria("MUJER");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+  };
+
+const ninosBtn = () => {
+      setcategoria("NIÑOS");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+  };
+
+const calzadoBtn = () => {
+     setcategoria("CALZADO");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+}
+const personalBtn = () => {
+     setcategoria("PERSONAL");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+}
+const adornosBtn = () => {
+     setcategoria("ADORNOS");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+}
+const cocinaBtn = () => {
+     setcategoria("COCINA");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+}
+const hogarBtn = () => {
+     setcategoria("HOGAR");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+}
+const cristalesBtn = () => {
+     setcategoria("CRISTALES");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+}
+const electroBtn = () => {
+     setcategoria("ELECTRODOMESTICO");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex")
+    }
+    setdisplayContainer("none")
+}
+
+
+
+
+
+
+
+
+
+
+  const cerrar = () => {
+    // setcategoria("COCINA");
+    console.log(displayContainer);
+ setcategoria("");
+    if (displayContainer === "flex") {
+      return setdisplayContainer("none")
+    }
+    setdisplayContainer("flex")
+  };
+
 
   const dele = async (id, title) => {
     const result = confirm(`Seguro Eliminar: ${title}`);
@@ -113,7 +314,7 @@ const App = () => {
     // //     const productoA = Number(a.precio);
     // // const productoB = Number(b.precio);
 
-        const productoA = a.producto;
+    const productoA = a.producto;
     const productoB = b.producto;
 
     if (productoA < productoB) {
@@ -125,12 +326,6 @@ const App = () => {
     return 0;
   };
 
-
-
-
-
-
-
   // (a, b) => a.producto - b.producto
 
   //fue necesario dublicar las funciones por nada me funciono para que no haga referencia a memoria cuando se llama la data y asi no me afecte el metodo sort
@@ -141,7 +336,7 @@ const App = () => {
     // console.log(ee)
     // const catego = ee.filter(el => el.categoria === categoria)
     // console.log(catego)
-    setcategoria("MUJER");
+    setcategoria("");
     //ES NECESARIO CREAR COPIAS INDEPENDIENTES, PORQUE LA ORDENACION CON EL METODO SORT, ES POR REFERENCIA A EE, SE ESTA APUNTANDO A LA MISMA SECCION DE MEMORIA,
     //como el ... solo hace copia superficial, se hizo uso del JSONparse Stringify para poder evadir la referneica
     const filter = datos.datos.sort(compararProductosPorPrecio);
@@ -176,7 +371,7 @@ const App = () => {
   };
 
   const comparaPrecioAZ = async () => {
-    const datageneral = datos.datos
+    const datageneral = datos.datos;
     // const RESPONSE = await blogService.getAll()
     const primera = datageneral.sort(compararProductosPorPrecio);
     const segunda = primera.sort(compararProductosPorAZ);
@@ -184,19 +379,18 @@ const App = () => {
     // setPrincipalData(segunda);
   };
 
-  
   useEffect(() => {
-   porPrecio();
-  //      porAZ();
- comparaPrecioAZ()
- 
+    porPrecio();
+    //      porAZ();
+    comparaPrecioAZ();
+
     // blogService.getAll().then((blogs) => setBlogs(blogs));
     console.log("Primer render");
   }, []);
 
   useEffect(() => {
-    console.log(user);
-  }, [user]);
+    console.log(user, 123);
+  }, [user, displayContainer]);
 
   // useEffect(() => {
   //   const loggedUserJSON = window.localStorage.getItem("loggedNoteappUser")
@@ -245,12 +439,10 @@ const App = () => {
 
     let catego = filter3987.filter((el) => el.categoria === categoria);
     let catego3 = blogs3.filter((el) => el.categoria === categoria);
- 
 
     setBlogs2(catego);
-       if(categoria == "TODO"){
-    setBlogs2(filter3987);
-
+    if (categoria == "TODO") {
+      setBlogs2(filter3987);
     }
     setBlogs4(catego3);
   }, [categoria]);
@@ -268,17 +460,16 @@ const App = () => {
   }
   const aa = useParams();
 
-  
   let total = blogs2.reduce((t, item) => t + (Number(item.precio) || 0), 0);
 
-const cantidadMostrando = blogs2.filter(item => item.mostrar == "1").length;
+  const cantidadMostrando = blogs2.filter((item) => item.mostrar == "1").length;
   console.log(cantidadMostrando);
   return (
-    <div className="app"> 
+    <div className="app">
       {/* <div className="encabezado"> */}
-      <div className={`encabezado ${ruta}`}>
-        <h2>PACA GINITA { total.toLocaleString('en-US')}.00</h2>
-        <label className="llllll" htmlFor="">
+      {/* <div className={`encabezado ${ruta}`}>
+        <h2>PACA GINITA { total.toLocaleString('en-US')}.00</h2> */}
+      {/* <label className="llllll" htmlFor="">
           CATEGORIA
         </label>
         <select name="CATEGORIA" className="llllll" onChange={CARGACATEGORIA}>
@@ -296,18 +487,17 @@ const cantidadMostrando = blogs2.filter(item => item.mostrar == "1").length;
           <option value="ELECTRODOMESTICO">ELECTRODOMESTICOS</option>
           <option value="TODO">TODOS</option>
          
-        </select>{" "}
-        {/* {blogs2.length} Art. */}
-          {cantidadMostrando} Art.
-
-      
+        </select>{" "} */}
+      {/* {blogs2.length} Art. */}
+      {cantidadMostrando} Art.
+      {/*       
         <img
           className="mom"
           src="https://raw.githubusercontent.com/JhoniSanchez/paga-ginita/master/public/mom.jpg"
           alt=""
-        />
-      </div>
 
+        /> */}
+      {/* </div> */}
       {/* <FromFilters />
      
      */}
@@ -342,7 +532,6 @@ const cantidadMostrando = blogs2.filter(item => item.mostrar == "1").length;
         // <FromFilters />
         // )
       }
-
       {/* <h3 style={{ display: "inline" }}>User: {user.username}</h3>    {user && (
             <input
               type="button"
@@ -350,6 +539,83 @@ const cantidadMostrando = blogs2.filter(item => item.mostrar == "1").length;
               onClick={() => handleLoOff()}
             />
           )} */}
+      {/*Al 140720252004 descopntinuado para usar en githubpages */}
+
+
+
+
+    <button
+          style={{
+          display: displayContainer === "flex"? "none" : "flex", // Aquí pasamos la cadena 'flex' o 'none'
+          position: 'fixed',
+          top: '20px',
+          right: '20px',
+          backgroundColor: '#007bff',
+          color: 'white',
+          padding: '10px 15px',
+          border: 'none',
+          borderRadius: '5px',
+          cursor: 'pointer',
+          zIndex: 1000,
+          fontSize: '1rem',
+          boxShadow: '0 2px 5px rgba(0,0,0,0.2)',
+        }}
+      onClick={cerrar} // Un ejemplo de función al hacer clic
+    >
+Atras
+    </button>
+
+
+
+
+      <div
+        style={{
+          backgroundColor: "#fcfcfcff",
+          minHeight: "100vh",
+          display: displayContainer,
+          flexDirection: "column",
+          alignItems: "center",
+          padding: "2rem 1rem",
+        }}
+      >
+        {/* Sección del encabezado con el nombre y la foto */}
+        <div style={styles.header}>
+          <h1 style={styles.title}>Paca Ginita</h1>
+          <div style={styles.profilePlaceholder}>
+            {" "}
+            <img
+            className="imgperfil"
+              src="https://raw.githubusercontent.com/JhoniSanchez/paga-ginita/master/public/mom.jpg"
+              alt=""
+            />
+          </div>
+        </div>
+
+        {/* Sección de los botones */}
+        <div style={styles.buttonsGrid}>
+          <button style={styles.button}   onClick={mujerBtn} >MUJER</button>
+          <button style={styles.button}   onClick={ninosBtn} >NIÑOS</button>
+          <button style={styles.button}   onClick={calzadoBtn} >CALZADO</button>
+          <button style={styles.button}   onClick={personalBtn} >PERSONAL</button>
+          <button style={styles.button}   onClick={adornosBtn} >ADORNOS</button>
+          <button style={styles.button}   onClick={cocinaBtn} >COCINA</button>
+          <button style={styles.button}   onClick={hogarBtn} >HOGAR</button>
+          <button style={styles.button}   onClick={cristalesBtn} >CRISTALES</button>
+          <button style={styles.button}   onClick={electroBtn} >ELECTRODOMÉSTICO</button>
+        </div>
+
+        {/* Botón "TODO" centrado en la parte inferior */}
+        {/* <div style={styles.todoContainer}>
+          <button style={styles.todoButton} onClick={TodoBtn}>
+            TODO
+          </button>
+        </div> */}
+      </div>
+ 
+
+
+
+
 
 
       <BrowserRouter basename="/pagalaprofe">
@@ -367,12 +633,16 @@ const cantidadMostrando = blogs2.filter(item => item.mostrar == "1").length;
         </Routes>
       </BrowserRouter>
 
+
+
+
+
+
       {/* <div className="cuerpo">
         {blogs2.map((blog) => (
           <Blog key={blog.id} blog={blog} dele={dele} />
         ))}
       </div> */}
-
       {/* </div> */}
       {/* ) */}
       {/* } */}
