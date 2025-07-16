@@ -3,11 +3,11 @@
   {
     "id": 1,
     "img": 1,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C1",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -52,11 +52,11 @@
   {
     "id": 6,
     "img": 6,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C1",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -148,7 +148,7 @@
   {
     "id": 16,
     "img": 16,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "C1",
@@ -198,11 +198,11 @@
   {
     "id": 21,
     "img": 21,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C1",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -297,11 +297,11 @@
   {
     "id": 31,
     "img": 31,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C1",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -336,10 +336,10 @@
   },
   {
     "id": 35,
-    "img": 35,
-    "producto": "ADORNO ARTESANAL",
+    "img": 49,
+    "producto": "UN ADORNO ARTESANAL SOLUCION EN GRANOS CONSERVAS",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 150,
     "ubicacion": "C1",
     "mostrar": 1,
     "actualizado": 1
@@ -477,9 +477,9 @@
   {
     "id": 49,
     "img": 49,
-    "producto": "ADORNO ARTESANAL",
+    "producto": "UN ADORNO ARTESANAL SOLUCION EN GRANOS CONSERVAS",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 150,
     "ubicacion": "C2",
     "mostrar": 1,
     "actualizado": 1
@@ -602,7 +602,7 @@
   {
     "id": 61,
     "img": 61,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 150,
     "ubicacion": "C2",
@@ -802,11 +802,11 @@
   {
     "id": 81,
     "img": 81,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C3",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -1562,17 +1562,17 @@
   {
     "id": 155,
     "img": 155,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 150,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 156,
     "img": 156,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "C4",
@@ -1582,47 +1582,47 @@
   {
     "id": 157,
     "img": 157,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 158,
     "img": 158,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 159,
     "img": 159,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 160,
     "img": 160,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 161,
     "img": 161,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 150,
     "ubicacion": "C4",
@@ -1632,7 +1632,7 @@
   {
     "id": 162,
     "img": 162,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 150,
     "ubicacion": "C4",
@@ -1642,31 +1642,31 @@
   {
     "id": 163,
     "img": 163,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 164,
     "img": 164,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 165,
     "img": 165,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 100,
+    "precio": 0,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -1812,7 +1812,7 @@
   {
     "id": 180,
     "img": 180,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 150,
     "ubicacion": "C4",
@@ -1922,7 +1922,7 @@
   {
     "id": 191,
     "img": 191,
-    "producto": "PORTA RETRATO CORAZON",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "C4",
@@ -2343,61 +2343,61 @@
   {
     "id": 233,
     "img": 233,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 150,
+    "precio": 0,
     "ubicacion": "C5",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 234,
     "img": 234,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 150,
+    "precio": 0,
     "ubicacion": "C5",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 235,
     "img": 235,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 150,
+    "precio": 0,
     "ubicacion": "C5",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 236,
     "img": 236,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 150,
+    "precio": 0,
     "ubicacion": "C5",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 237,
     "img": 237,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 150,
+    "precio": 0,
     "ubicacion": "C5",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
     "id": 238,
     "img": 238,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 200,
+    "precio": 0,
     "ubicacion": "C5",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -2503,7 +2503,7 @@
   {
     "id": 249,
     "img": 249,
-    "producto": "PORTA RETRATO HERRADURA",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 200,
     "ubicacion": "C5",
@@ -2833,9 +2833,9 @@
   {
     "id": 282,
     "img": 282,
-    "producto": "ADORNO ARTESANAL",
+    "producto": "UN ADORNO ARTESANAL SOLUCION EN GRANOS CONSERVAS",
     "categoria": "ADORNOS",
-    "precio": 50,
+    "precio": 150,
     "ubicacion": "C5",
     "mostrar": 1,
     "actualizado": 1
@@ -2903,11 +2903,11 @@
   {
     "id": 289,
     "img": 289,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
-    "precio": 200,
+    "precio": 0,
     "ubicacion": "C5",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -2923,7 +2923,7 @@
   {
     "id": 291,
     "img": 291,
-    "producto": "PORTA RETRATO",
+    "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 0,
     "ubicacion": "C5",
@@ -7274,9 +7274,9 @@
   {
     "id": 723,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7284,9 +7284,9 @@
   {
     "id": 724,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7294,9 +7294,9 @@
   {
     "id": 725,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7304,9 +7304,9 @@
   {
     "id": 726,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7314,9 +7314,9 @@
   {
     "id": 727,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7324,9 +7324,9 @@
   {
     "id": 728,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7334,9 +7334,9 @@
   {
     "id": 729,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7344,9 +7344,9 @@
   {
     "id": 730,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7354,9 +7354,9 @@
   {
     "id": 731,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
@@ -7364,15 +7364,105 @@
   {
     "id": 732,
     "img": 723,
-    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS",
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
     "categoria": "NIÑOS",
-    "precio": 250,
+    "precio": 200,
     "ubicacion": "CJP",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 733,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 734,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 735,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS PEQUEÑO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 736,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 737,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 738,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 739,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 740,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 741,
+    "img": 723,
+    "producto": "JUEGO ROMPECABEZAS KNEX UN PAQ DE PIEZAS MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 742,
     "img": 724,
     "producto": "COJIN DE CAPEZA PARA CARROS GRIS ZIRAKI GRIS",
     "categoria": "PERSONAL",
@@ -7382,99 +7472,9 @@
     "actualizado": 1
   },
   {
-    "id": 734,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 735,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 736,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 737,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 738,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 739,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 740,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 741,
-    "img": 725,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 742,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CJP",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
     "id": 743,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7483,8 +7483,8 @@
   },
   {
     "id": 744,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7493,8 +7493,8 @@
   },
   {
     "id": 745,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7503,8 +7503,8 @@
   },
   {
     "id": 746,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7513,8 +7513,8 @@
   },
   {
     "id": 747,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7523,8 +7523,8 @@
   },
   {
     "id": 748,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7533,8 +7533,8 @@
   },
   {
     "id": 749,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7543,8 +7543,8 @@
   },
   {
     "id": 750,
-    "img": 726,
-    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJP",
@@ -7553,7 +7553,7 @@
   },
   {
     "id": 751,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7563,7 +7563,7 @@
   },
   {
     "id": 752,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7573,7 +7573,7 @@
   },
   {
     "id": 753,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7583,7 +7583,7 @@
   },
   {
     "id": 754,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7593,7 +7593,7 @@
   },
   {
     "id": 755,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7603,7 +7603,7 @@
   },
   {
     "id": 756,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7613,7 +7613,7 @@
   },
   {
     "id": 757,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7623,7 +7623,7 @@
   },
   {
     "id": 758,
-    "img": 727,
+    "img": 726,
     "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
     "categoria": "NIÑOS",
     "precio": 100,
@@ -7633,6 +7633,96 @@
   },
   {
     "id": 759,
+    "img": 726,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 760,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 761,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 762,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 763,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 764,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 765,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 766,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 767,
+    "img": 727,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 20CM  CON  8 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "CJP",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 768,
     "img": 728,
     "producto": "ASPIRADORA DIRT DEVIL AZUL ",
     "categoria": "ELECTRODOMESTICO",
@@ -7642,7 +7732,7 @@
     "actualizado": 1
   },
   {
-    "id": 760,
+    "id": 769,
     "img": 729,
     "producto": "JUEGO TOY STORY SET 5 PERSONAJES",
     "categoria": "NIÑOS",
@@ -7652,7 +7742,7 @@
     "actualizado": 1
   },
   {
-    "id": 761,
+    "id": 770,
     "img": 730,
     "producto": "JUEGO CAMION ROJO LADER COMPAÑY NO 55",
     "categoria": "NIÑOS",
@@ -7662,7 +7752,7 @@
     "actualizado": 1
   },
   {
-    "id": 762,
+    "id": 771,
     "img": 731,
     "producto": "JUEGO TREN ELECTRONICO CON LUCES QUE CORRE SOLO",
     "categoria": "NIÑOS",
@@ -7672,7 +7762,7 @@
     "actualizado": 1
   },
   {
-    "id": 763,
+    "id": 772,
     "img": 732,
     "producto": "JUEGO AVION AEROBICO FOAM FLYER GRIS",
     "categoria": "NIÑOS",
@@ -7682,7 +7772,7 @@
     "actualizado": 1
   },
   {
-    "id": 764,
+    "id": 773,
     "img": 733,
     "producto": "JUEGO MARACAS BEBE SET DE 3 UNIDADES",
     "categoria": "NIÑOS",
@@ -7692,7 +7782,7 @@
     "actualizado": 1
   },
   {
-    "id": 765,
+    "id": 774,
     "img": 734,
     "producto": "JUEGO SILVIDO GRADUAL CON 3 BOLITAS",
     "categoria": "NIÑOS",
@@ -7702,7 +7792,7 @@
     "actualizado": 1
   },
   {
-    "id": 766,
+    "id": 775,
     "img": 735,
     "producto": "JUEGO PAPITOS DE AGUA Y CACTUS",
     "categoria": "NIÑOS",
@@ -7712,7 +7802,7 @@
     "actualizado": 1
   },
   {
-    "id": 767,
+    "id": 776,
     "img": 736,
     "producto": "JUEGO LIQUIDO DE BULBUJAS 59ML  CON MARTILLO DE GOMA",
     "categoria": "NIÑOS",
@@ -7722,7 +7812,7 @@
     "actualizado": 1
   },
   {
-    "id": 768,
+    "id": 777,
     "img": 737,
     "producto": "JUEGO ROMPECABEZAS DE BLOQUES VARIOS COLORES +120 PIEZAS",
     "categoria": "NIÑOS",
@@ -7732,7 +7822,7 @@
     "actualizado": 1
   },
   {
-    "id": 769,
+    "id": 778,
     "img": 738,
     "producto": "JUEGO  SET DE PERSONAJES DE CARICATURA",
     "categoria": "NIÑOS",
@@ -7742,7 +7832,7 @@
     "actualizado": 1
   },
   {
-    "id": 770,
+    "id": 779,
     "img": 739,
     "producto": "JUEGO  SET DE PERSONAJES DE CARICATURA",
     "categoria": "NIÑOS",
@@ -7752,7 +7842,7 @@
     "actualizado": 1
   },
   {
-    "id": 771,
+    "id": 780,
     "img": 740,
     "producto": "JUEGO  SET DE PERSONAJES DE CARICATURA",
     "categoria": "NIÑOS",
@@ -7762,7 +7852,7 @@
     "actualizado": 1
   },
   {
-    "id": 772,
+    "id": 781,
     "img": 741,
     "producto": "JUEGO  SET DE PERSONAJES DE CARICATURA",
     "categoria": "NIÑOS",
@@ -7772,7 +7862,7 @@
     "actualizado": 1
   },
   {
-    "id": 773,
+    "id": 782,
     "img": 742,
     "producto": "JUEGO  SET DE PERSONAJES DE CARICATURA",
     "categoria": "NIÑOS",
@@ -7782,7 +7872,7 @@
     "actualizado": 1
   },
   {
-    "id": 774,
+    "id": 783,
     "img": 744,
     "producto": "JUEGO CARRO DE CUERDA CON TOY STORY VERDE",
     "categoria": "NIÑOS",
@@ -7792,7 +7882,7 @@
     "actualizado": 1
   },
   {
-    "id": 775,
+    "id": 784,
     "img": 745,
     "producto": "JUEGO CARRO DE CUERDA CON JOHYS DE SUPER MARIO VERDE",
     "categoria": "NIÑOS",
@@ -7802,7 +7892,7 @@
     "actualizado": 1
   },
   {
-    "id": 776,
+    "id": 785,
     "img": 746,
     "producto": "JUEGO CARRO DE CUERDA MINIBUS SCHOOL AMARILLO",
     "categoria": "NIÑOS",
@@ -7812,7 +7902,7 @@
     "actualizado": 1
   },
   {
-    "id": 777,
+    "id": 786,
     "img": 747,
     "producto": "JUEGO CARRO DE CUERDA TRACTOR VERDE",
     "categoria": "NIÑOS",
@@ -7822,7 +7912,7 @@
     "actualizado": 1
   },
   {
-    "id": 778,
+    "id": 787,
     "img": 748,
     "producto": "JUEGO CARRO DE CUERDA SERIE ANIMADA CARS",
     "categoria": "NIÑOS",
@@ -7832,7 +7922,7 @@
     "actualizado": 1
   },
   {
-    "id": 779,
+    "id": 788,
     "img": 749,
     "producto": "JUEGO CARRO DE CUERDA POLICE DE NEW YORK ",
     "categoria": "NIÑOS",
@@ -7842,98 +7932,8 @@
     "actualizado": 1
   },
   {
-    "id": 780,
-    "img": 751,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 781,
-    "img": 751,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 782,
-    "img": 751,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 783,
-    "img": 751,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 784,
-    "img": 751,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 785,
-    "img": 752,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 786,
-    "img": 752,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 787,
-    "img": 752,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 788,
-    "img": 752,
-    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
-    "categoria": "NIÑOS",
-    "precio": 50,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
     "id": 789,
-    "img": 752,
+    "img": 751,
     "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
     "categoria": "NIÑOS",
     "precio": 50,
@@ -7943,7 +7943,7 @@
   },
   {
     "id": 790,
-    "img": 753,
+    "img": 751,
     "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
     "categoria": "NIÑOS",
     "precio": 50,
@@ -7953,7 +7953,7 @@
   },
   {
     "id": 791,
-    "img": 753,
+    "img": 751,
     "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
     "categoria": "NIÑOS",
     "precio": 50,
@@ -7963,7 +7963,7 @@
   },
   {
     "id": 792,
-    "img": 753,
+    "img": 751,
     "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
     "categoria": "NIÑOS",
     "precio": 50,
@@ -7973,7 +7973,7 @@
   },
   {
     "id": 793,
-    "img": 753,
+    "img": 751,
     "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
     "categoria": "NIÑOS",
     "precio": 50,
@@ -7983,6 +7983,96 @@
   },
   {
     "id": 794,
+    "img": 752,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 795,
+    "img": 752,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 796,
+    "img": 752,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 797,
+    "img": 752,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 798,
+    "img": 752,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 799,
+    "img": 753,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 800,
+    "img": 753,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 801,
+    "img": 753,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 802,
+    "img": 753,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 803,
     "img": 755,
     "producto": "JUEGO MINI SOLDADOS ROJOS",
     "categoria": "NIÑOS",
@@ -7992,7 +8082,7 @@
     "actualizado": 1
   },
   {
-    "id": 795,
+    "id": 804,
     "img": 757,
     "producto": "JUEGO MINIGOMA SET 2 BUHOS",
     "categoria": "NIÑOS",
@@ -8002,7 +8092,7 @@
     "actualizado": 1
   },
   {
-    "id": 796,
+    "id": 805,
     "img": 758,
     "producto": "JUEGO MINIGOMA SET DRAGON PIO Y RATA",
     "categoria": "NIÑOS",
@@ -8012,7 +8102,7 @@
     "actualizado": 1
   },
   {
-    "id": 797,
+    "id": 806,
     "img": 759,
     "producto": "JUEGO MINIGOMA SET 2 OSITO VERDE CORAZON BEBE",
     "categoria": "NIÑOS",
@@ -8022,7 +8112,7 @@
     "actualizado": 1
   },
   {
-    "id": 798,
+    "id": 807,
     "img": 760,
     "producto": "JUEGO MINIGOMA SET 3 UNICORNIOS ",
     "categoria": "NIÑOS",
@@ -8032,7 +8122,7 @@
     "actualizado": 1
   },
   {
-    "id": 799,
+    "id": 808,
     "img": 761,
     "producto": "JUEGO MINIGOMA SET 6 NEMO TIBURON Y DEMAS",
     "categoria": "NIÑOS",
@@ -8042,7 +8132,7 @@
     "actualizado": 1
   },
   {
-    "id": 800,
+    "id": 809,
     "img": 762,
     "producto": "JUEGO MINIGOMA SET PAW TROL  WINNIE Y M INIOS Y MAS",
     "categoria": "NIÑOS",
@@ -8052,7 +8142,7 @@
     "actualizado": 1
   },
   {
-    "id": 801,
+    "id": 810,
     "img": 765,
     "producto": "JUEGO SET 3 PERSONAJES DE TOY STORY",
     "categoria": "NIÑOS",
@@ -8062,7 +8152,7 @@
     "actualizado": 1
   },
   {
-    "id": 802,
+    "id": 811,
     "img": 766,
     "producto": "JUEGO SET 5 PERSONAJES DE PEPA",
     "categoria": "NIÑOS",
@@ -8072,7 +8162,7 @@
     "actualizado": 1
   },
   {
-    "id": 803,
+    "id": 812,
     "img": 767,
     "producto": "JUEGO SET 5 PERSONAJES DE BOB ESPONJA",
     "categoria": "NIÑOS",
@@ -8082,7 +8172,7 @@
     "actualizado": 1
   },
   {
-    "id": 804,
+    "id": 813,
     "img": 768,
     "producto": "JUEGO SET 4 PERSONAJES DE Scooby-Doo",
     "categoria": "NIÑOS",
@@ -8092,7 +8182,7 @@
     "actualizado": 1
   },
   {
-    "id": 805,
+    "id": 814,
     "img": 770,
     "producto": "JUEGO CARRO DE CUERDAS SPACE RANGER",
     "categoria": "NIÑOS",
@@ -8102,7 +8192,7 @@
     "actualizado": 1
   },
   {
-    "id": 806,
+    "id": 815,
     "img": 771,
     "producto": "JUEGO TOY STORY 1 PERSONAJES",
     "categoria": "NIÑOS",
@@ -8112,7 +8202,7 @@
     "actualizado": 1
   },
   {
-    "id": 807,
+    "id": 816,
     "img": 772,
     "producto": "JUEGO TOY STORY 1 PERSONAJES VERSION INFANTIL",
     "categoria": "NIÑOS",
@@ -8122,7 +8212,7 @@
     "actualizado": 1
   },
   {
-    "id": 808,
+    "id": 817,
     "img": 773,
     "producto": "JUEGO ROMPECABEZAS DE BLOQUES VARIOS COLORES +15 PIEZAS",
     "categoria": "NIÑOS",
@@ -8132,7 +8222,7 @@
     "actualizado": 1
   },
   {
-    "id": 809,
+    "id": 818,
     "img": 774,
     "producto": "JUEGO CARRO Hulk Smash XPV de Avengers ",
     "categoria": "NIÑOS",
@@ -8143,7 +8233,7 @@
     "comentario": "NO TIENE CONTROL REMOTO, PERO USA PILAS"
   },
   {
-    "id": 810,
+    "id": 819,
     "img": 775,
     "producto": "JUEGO BILLAR DE MESA",
     "categoria": "NIÑOS",
@@ -8153,7 +8243,7 @@
     "actualizado": 1
   },
   {
-    "id": 811,
+    "id": 820,
     "img": 776,
     "producto": "JUEGO MINI PING PONG ",
     "categoria": "NIÑOS",
@@ -8163,7 +8253,7 @@
     "actualizado": 1
   },
   {
-    "id": 812,
+    "id": 821,
     "img": 777,
     "producto": "JUEGO MINI ZAFACON AZUL",
     "categoria": "NIÑOS",
@@ -8173,7 +8263,7 @@
     "actualizado": 1
   },
   {
-    "id": 813,
+    "id": 822,
     "img": 778,
     "producto": "JUEGO WOKY TOKI, SOLO UNA RADIO",
     "categoria": "NIÑOS",
@@ -8183,7 +8273,7 @@
     "actualizado": 1
   },
   {
-    "id": 814,
+    "id": 823,
     "img": 780,
     "producto": "JUEGO PERSONAJE Snoopy ",
     "categoria": "NIÑOS",
@@ -8193,7 +8283,7 @@
     "actualizado": 1
   },
   {
-    "id": 815,
+    "id": 824,
     "img": 781,
     "producto": "JUEGO PERSONAJE PATO DONALD",
     "categoria": "NIÑOS",
@@ -8203,7 +8293,7 @@
     "actualizado": 1
   },
   {
-    "id": 816,
+    "id": 825,
     "img": 782,
     "producto": "JUEGO PERSONAJES SET 2   jugador de béisbol de los Boston Red Sox",
     "categoria": "NIÑOS",
@@ -8213,7 +8303,7 @@
     "actualizado": 1
   },
   {
-    "id": 817,
+    "id": 826,
     "img": 783,
     "producto": "JUEGO PERSONAJE Pata Daisy ",
     "categoria": "NIÑOS",
@@ -8223,7 +8313,7 @@
     "actualizado": 1
   },
   {
-    "id": 818,
+    "id": 827,
     "img": 784,
     "producto": "JUEGO PERSONAJE Rocky PAW Patrol",
     "categoria": "NIÑOS",
@@ -8233,7 +8323,7 @@
     "actualizado": 1
   },
   {
-    "id": 819,
+    "id": 828,
     "img": 785,
     "producto": "JUEGO PERSONAJE LEGO DUPLO Y NIÑA RUBIA",
     "categoria": "NIÑOS",
@@ -8243,7 +8333,7 @@
     "actualizado": 1
   },
   {
-    "id": 820,
+    "id": 829,
     "img": 786,
     "producto": "JUEGO PERSONAJE CABALLO Pile Poil Toy Story",
     "categoria": "NIÑOS",
@@ -8253,7 +8343,7 @@
     "actualizado": 1
   },
   {
-    "id": 821,
+    "id": 830,
     "img": 789,
     "producto": "JUEGO ANIMALES REALISTAS VACAS 4 UNI",
     "categoria": "NIÑOS",
@@ -8263,7 +8353,7 @@
     "actualizado": 1
   },
   {
-    "id": 822,
+    "id": 831,
     "img": 790,
     "producto": "JUEGO ANIMALES REALISTAS VACAS 2 UNI",
     "categoria": "NIÑOS",
@@ -8273,7 +8363,7 @@
     "actualizado": 1
   },
   {
-    "id": 823,
+    "id": 832,
     "img": 791,
     "producto": "JUEGO ANIMALES REALISTAS  SET CABRA CABALLO CERDOS",
     "categoria": "NIÑOS",
@@ -8283,7 +8373,7 @@
     "actualizado": 1
   },
   {
-    "id": 824,
+    "id": 833,
     "img": 792,
     "producto": "JUEGO ANIMALES REALISTAS  DELFIN",
     "categoria": "NIÑOS",
@@ -8293,7 +8383,7 @@
     "actualizado": 1
   },
   {
-    "id": 825,
+    "id": 834,
     "img": 793,
     "producto": "JUEGO ANIMALES REALISTAS  PREHISTORIA DINASAURIO MARRON",
     "categoria": "NIÑOS",
@@ -8303,7 +8393,7 @@
     "actualizado": 1
   },
   {
-    "id": 826,
+    "id": 835,
     "img": 794,
     "producto": "JUEGO PERSONAJE REX DE TOY STORY",
     "categoria": "NIÑOS",
@@ -8313,7 +8403,7 @@
     "actualizado": 1
   },
   {
-    "id": 827,
+    "id": 836,
     "img": 795,
     "producto": "JUEGO ANIMALES REALISTAS  PREHISTORIA DINASAURIO VERDE CLARO",
     "categoria": "NIÑOS",
@@ -8323,7 +8413,7 @@
     "actualizado": 1
   },
   {
-    "id": 828,
+    "id": 837,
     "img": 796,
     "producto": "JUEGO ANIMALES REALISTAS  PREHISTORIA Apatosaurus DINASAURIO MARRON",
     "categoria": "NIÑOS",
@@ -8333,7 +8423,7 @@
     "actualizado": 1
   },
   {
-    "id": 829,
+    "id": 838,
     "img": 797,
     "producto": "JUEGO ANIMALES REALISTAS  PREHISTORIA  DINASAURIO MARRON OSCURO",
     "categoria": "NIÑOS",
@@ -8343,7 +8433,7 @@
     "actualizado": 1
   },
   {
-    "id": 830,
+    "id": 839,
     "img": 798,
     "producto": "JUEGO ANIMALES REALISTAS  PREHISTORIA  DRAGON AZUL",
     "categoria": "NIÑOS",
@@ -8353,7 +8443,7 @@
     "actualizado": 1
   },
   {
-    "id": 831,
+    "id": 840,
     "img": 799,
     "producto": "JUEGO ANIMALES REALISTAS  PREHISTORIA  Triceratops",
     "categoria": "NIÑOS",
@@ -8363,7 +8453,7 @@
     "actualizado": 1
   },
   {
-    "id": 832,
+    "id": 841,
     "img": 800,
     "producto": "JUEGO ANIMALES REALISTAS  CABALLOS SET 4 UNI",
     "categoria": "NIÑOS",
@@ -8373,7 +8463,7 @@
     "actualizado": 1
   },
   {
-    "id": 833,
+    "id": 842,
     "img": 801,
     "producto": "JUEGO ANIMALES REALISTAS  ELEFANTE",
     "categoria": "NIÑOS",
@@ -8383,7 +8473,7 @@
     "actualizado": 1
   },
   {
-    "id": 834,
+    "id": 843,
     "img": 802,
     "producto": "JUEGO ANIMALES REALISTAS  CHIVOS SET 3 UNI",
     "categoria": "NIÑOS",
@@ -8393,7 +8483,7 @@
     "actualizado": 1
   },
   {
-    "id": 835,
+    "id": 844,
     "img": 805,
     "producto": "JUEGO PERSONAJES PAW PATROL PERRO CHASE 2 UNI",
     "categoria": "NIÑOS",
@@ -8403,7 +8493,7 @@
     "actualizado": 1
   },
   {
-    "id": 836,
+    "id": 845,
     "img": 806,
     "producto": "JUEGO PERSONAJES PAW PATROL PERRO CHASE 4 UNI",
     "categoria": "NIÑOS",
@@ -8413,7 +8503,7 @@
     "actualizado": 1
   },
   {
-    "id": 837,
+    "id": 846,
     "img": 807,
     "producto": "JUEGO PERSONAJES PAW PATROL PERRO Marshall 2 UNI",
     "categoria": "NIÑOS",
@@ -8423,7 +8513,7 @@
     "actualizado": 1
   },
   {
-    "id": 838,
+    "id": 847,
     "img": 808,
     "producto": "JUEGO PERSONAJE Little People de Fisher-Price 2 UNI",
     "categoria": "NIÑOS",
@@ -8433,7 +8523,7 @@
     "actualizado": 1
   },
   {
-    "id": 839,
+    "id": 848,
     "img": 809,
     "producto": "JUEGO PERSONAJE Little People de Fisher-Price BOMBERO 2 UNI",
     "categoria": "NIÑOS",
@@ -8443,7 +8533,7 @@
     "actualizado": 1
   },
   {
-    "id": 840,
+    "id": 849,
     "img": 810,
     "producto": "JUEGO PERSONAJE LEGO Duplo oficial de policía 4 UNI +1",
     "categoria": "NIÑOS",
@@ -8453,7 +8543,7 @@
     "actualizado": 1
   },
   {
-    "id": 841,
+    "id": 850,
     "img": 813,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 6 UNIDADES",
     "categoria": "NIÑOS",
@@ -8463,7 +8553,7 @@
     "actualizado": 1
   },
   {
-    "id": 842,
+    "id": 851,
     "img": 814,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 5 UNIDADES",
     "categoria": "NIÑOS",
@@ -8473,7 +8563,7 @@
     "actualizado": 1
   },
   {
-    "id": 843,
+    "id": 852,
     "img": 815,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 3 UNIDADES",
     "categoria": "NIÑOS",
@@ -8483,7 +8573,7 @@
     "actualizado": 1
   },
   {
-    "id": 844,
+    "id": 853,
     "img": 816,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 2 UNIDADES",
     "categoria": "NIÑOS",
@@ -8493,7 +8583,7 @@
     "actualizado": 1
   },
   {
-    "id": 845,
+    "id": 854,
     "img": 817,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  HELICOTEROS SET 2 UNIDADES",
     "categoria": "NIÑOS",
@@ -8503,7 +8593,7 @@
     "actualizado": 1
   },
   {
-    "id": 846,
+    "id": 855,
     "img": 818,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 4 UNIDADES",
     "categoria": "NIÑOS",
@@ -8513,7 +8603,7 @@
     "actualizado": 1
   },
   {
-    "id": 847,
+    "id": 856,
     "img": 819,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 4 UNIDADES",
     "categoria": "NIÑOS",
@@ -8523,7 +8613,7 @@
     "actualizado": 1
   },
   {
-    "id": 848,
+    "id": 857,
     "img": 821,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
     "categoria": "NIÑOS",
@@ -8533,7 +8623,7 @@
     "actualizado": 1
   },
   {
-    "id": 849,
+    "id": 858,
     "img": 822,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
     "categoria": "NIÑOS",
@@ -8543,7 +8633,7 @@
     "actualizado": 1
   },
   {
-    "id": 850,
+    "id": 859,
     "img": 823,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 2 UNIDADES",
     "categoria": "NIÑOS",
@@ -8553,7 +8643,7 @@
     "actualizado": 1
   },
   {
-    "id": 851,
+    "id": 860,
     "img": 824,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 2 UNIDADES",
     "categoria": "NIÑOS",
@@ -8563,7 +8653,7 @@
     "actualizado": 1
   },
   {
-    "id": 852,
+    "id": 861,
     "img": 825,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
     "categoria": "NIÑOS",
@@ -8573,7 +8663,7 @@
     "actualizado": 1
   },
   {
-    "id": 853,
+    "id": 862,
     "img": 826,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
     "categoria": "NIÑOS",
@@ -8583,7 +8673,7 @@
     "actualizado": 1
   },
   {
-    "id": 854,
+    "id": 863,
     "img": 827,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
     "categoria": "NIÑOS",
@@ -8593,227 +8683,227 @@
     "actualizado": 1
   },
   {
-    "id": 855,
+    "id": 864,
     "img": 829,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
     "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 856,
-    "img": 830,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MORADO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 857,
-    "img": 831,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 858,
-    "img": 832,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
-    "precio": 125,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 859,
-    "img": 833,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 860,
-    "img": 834,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 861,
-    "img": 835,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 862,
-    "img": 836,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE OLIVO",
-    "categoria": "NIÑOS",
-    "precio": 125,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 863,
-    "img": 837,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
-    "precio": 135,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 864,
-    "img": 838,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MORADO",
-    "categoria": "NIÑOS",
-    "precio": 100,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 865,
-    "img": 839,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
+    "img": 830,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MORADO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 866,
-    "img": 840,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MAMEI",
+    "img": 831,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
     "categoria": "NIÑOS",
-    "precio": 135,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 867,
-    "img": 841,
+    "img": 832,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 868,
-    "img": 842,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
+    "img": 833,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 869,
-    "img": 843,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "img": 834,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
     "categoria": "NIÑOS",
-    "precio": 135,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 870,
-    "img": 844,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
+    "img": 835,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
     "categoria": "NIÑOS",
-    "precio": 135,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 871,
-    "img": 845,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "img": 836,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE OLIVO",
     "categoria": "NIÑOS",
-    "precio": 125,
+    "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 872,
-    "img": 846,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
+    "img": 837,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
     "categoria": "NIÑOS",
-    "precio": 135,
+    "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 873,
-    "img": 847,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE OLIVO",
+    "img": 838,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MORADO",
     "categoria": "NIÑOS",
-    "precio": 100,
+    "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 874,
-    "img": 848,
+    "img": 839,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 875,
-    "img": 849,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
+    "img": 840,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MAMEI",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 876,
-    "img": 850,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "img": 841,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 877,
+    "img": 842,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 878,
+    "img": 843,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 879,
+    "img": 844,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 880,
+    "img": 845,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 120,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 881,
+    "img": 846,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 882,
+    "img": 847,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE OLIVO",
+    "categoria": "NIÑOS",
+    "precio": 75,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 883,
+    "img": 848,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 884,
+    "img": 849,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 885,
+    "img": 850,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 886,
     "img": 851,
     "producto": "JUEGO CARROS METAL Johnny Lightning Dragsters USA AZUL",
     "categoria": "NIÑOS",
@@ -8823,7 +8913,7 @@
     "actualizado": 1
   },
   {
-    "id": 878,
+    "id": 887,
     "img": 852,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI ABRE PUERTAS ROJO",
     "categoria": "NIÑOS",
@@ -8833,137 +8923,137 @@
     "actualizado": 1
   },
   {
-    "id": 879,
+    "id": 888,
     "img": 853,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 880,
-    "img": 854,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 881,
-    "img": 855,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 882,
-    "img": 856,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 883,
-    "img": 857,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 884,
-    "img": 858,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
-    "precio": 135,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 885,
-    "img": 859,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 886,
-    "img": 860,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 887,
-    "img": 861,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 135,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 888,
-    "img": 862,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 889,
-    "img": 863,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
+    "img": 854,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 890,
-    "img": 864,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
+    "img": 855,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 891,
-    "img": 865,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
+    "img": 856,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
     "categoria": "NIÑOS",
-    "precio": 135,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 892,
+    "img": 857,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 893,
+    "img": 858,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 894,
+    "img": 859,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 75,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 895,
+    "img": 860,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 896,
+    "img": 861,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 897,
+    "img": 862,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 898,
+    "img": 863,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 899,
+    "img": 864,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 900,
+    "img": 865,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 901,
     "img": 866,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
@@ -8973,127 +9063,127 @@
     "actualizado": 1
   },
   {
-    "id": 893,
+    "id": 902,
     "img": 867,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 894,
-    "img": 868,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 895,
-    "img": 869,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 896,
-    "img": 870,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 897,
-    "img": 871,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 898,
-    "img": 872,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 899,
-    "img": 873,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 100,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 900,
-    "img": 874,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
-    "precio": 135,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 901,
-    "img": 875,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
-    "precio": 125,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 902,
-    "img": 876,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 903,
-    "img": 877,
+    "img": 868,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 135,
+    "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 904,
-    "img": 878,
-    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "img": 869,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 905,
+    "img": 870,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 906,
+    "img": 871,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 907,
+    "img": 872,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
+    "categoria": "NIÑOS",
+    "precio": 75,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 908,
+    "img": 873,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 75,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 909,
+    "img": 874,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 910,
+    "img": 875,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
+    "categoria": "NIÑOS",
+    "precio": 120,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 911,
+    "img": 876,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 912,
+    "img": 877,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 130,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 913,
+    "img": 878,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 914,
     "img": 880,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9103,7 +9193,7 @@
     "actualizado": 1
   },
   {
-    "id": 906,
+    "id": 915,
     "img": 881,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9113,7 +9203,7 @@
     "actualizado": 1
   },
   {
-    "id": 907,
+    "id": 916,
     "img": 882,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
@@ -9123,7 +9213,7 @@
     "actualizado": 1
   },
   {
-    "id": 908,
+    "id": 917,
     "img": 883,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9133,7 +9223,7 @@
     "actualizado": 1
   },
   {
-    "id": 909,
+    "id": 918,
     "img": 884,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9143,7 +9233,7 @@
     "actualizado": 1
   },
   {
-    "id": 910,
+    "id": 919,
     "img": 885,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9153,7 +9243,7 @@
     "actualizado": 1
   },
   {
-    "id": 911,
+    "id": 920,
     "img": 887,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
     "categoria": "NIÑOS",
@@ -9163,7 +9253,7 @@
     "actualizado": 1
   },
   {
-    "id": 912,
+    "id": 921,
     "img": 888,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
     "categoria": "NIÑOS",
@@ -9173,7 +9263,7 @@
     "actualizado": 1
   },
   {
-    "id": 913,
+    "id": 922,
     "img": 889,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS MAMEI",
     "categoria": "NIÑOS",
@@ -9183,7 +9273,7 @@
     "actualizado": 1
   },
   {
-    "id": 914,
+    "id": 923,
     "img": 890,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS MAMEI",
     "categoria": "NIÑOS",
@@ -9193,7 +9283,7 @@
     "actualizado": 1
   },
   {
-    "id": 915,
+    "id": 924,
     "img": 891,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS ROJO",
     "categoria": "NIÑOS",
@@ -9203,7 +9293,7 @@
     "actualizado": 1
   },
   {
-    "id": 916,
+    "id": 925,
     "img": 892,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
     "categoria": "NIÑOS",
@@ -9213,7 +9303,7 @@
     "actualizado": 1
   },
   {
-    "id": 917,
+    "id": 926,
     "img": 893,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
     "categoria": "NIÑOS",
@@ -9223,7 +9313,7 @@
     "actualizado": 1
   },
   {
-    "id": 918,
+    "id": 927,
     "img": 894,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
     "categoria": "NIÑOS",
@@ -9233,7 +9323,7 @@
     "actualizado": 1
   },
   {
-    "id": 919,
+    "id": 928,
     "img": 895,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
     "categoria": "NIÑOS",
@@ -9243,7 +9333,7 @@
     "actualizado": 1
   },
   {
-    "id": 920,
+    "id": 929,
     "img": 896,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
     "categoria": "NIÑOS",
@@ -9253,7 +9343,7 @@
     "actualizado": 1
   },
   {
-    "id": 921,
+    "id": 930,
     "img": 897,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
     "categoria": "NIÑOS",
@@ -9263,7 +9353,7 @@
     "actualizado": 1
   },
   {
-    "id": 922,
+    "id": 931,
     "img": 898,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
     "categoria": "NIÑOS",
@@ -9273,7 +9363,7 @@
     "actualizado": 1
   },
   {
-    "id": 923,
+    "id": 932,
     "img": 899,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
     "categoria": "NIÑOS",
@@ -9283,7 +9373,7 @@
     "actualizado": 1
   },
   {
-    "id": 924,
+    "id": 933,
     "img": 900,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
     "categoria": "NIÑOS",
@@ -9293,7 +9383,7 @@
     "actualizado": 1
   },
   {
-    "id": 925,
+    "id": 934,
     "img": 901,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS ROJO",
     "categoria": "NIÑOS",
@@ -9303,7 +9393,7 @@
     "actualizado": 1
   },
   {
-    "id": 926,
+    "id": 935,
     "img": 902,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
     "categoria": "NIÑOS",
@@ -9313,7 +9403,7 @@
     "actualizado": 1
   },
   {
-    "id": 927,
+    "id": 936,
     "img": 903,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
     "categoria": "NIÑOS",
@@ -9323,7 +9413,7 @@
     "actualizado": 1
   },
   {
-    "id": 928,
+    "id": 937,
     "img": 904,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
     "categoria": "NIÑOS",
@@ -9333,7 +9423,7 @@
     "actualizado": 1
   },
   {
-    "id": 929,
+    "id": 938,
     "img": 905,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
     "categoria": "NIÑOS",
@@ -9343,7 +9433,7 @@
     "actualizado": 1
   },
   {
-    "id": 930,
+    "id": 939,
     "img": 906,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
     "categoria": "NIÑOS",
@@ -9353,7 +9443,7 @@
     "actualizado": 1
   },
   {
-    "id": 931,
+    "id": 940,
     "img": 907,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
     "categoria": "NIÑOS",
@@ -9363,7 +9453,7 @@
     "actualizado": 1
   },
   {
-    "id": 932,
+    "id": 941,
     "img": 908,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO ",
     "categoria": "NIÑOS",
@@ -9373,7 +9463,7 @@
     "actualizado": 1
   },
   {
-    "id": 933,
+    "id": 942,
     "img": 909,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
     "categoria": "NIÑOS",
@@ -9383,7 +9473,7 @@
     "actualizado": 1
   },
   {
-    "id": 934,
+    "id": 943,
     "img": 910,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
     "categoria": "NIÑOS",
@@ -9393,7 +9483,7 @@
     "actualizado": 1
   },
   {
-    "id": 935,
+    "id": 944,
     "img": 911,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS ROJO",
     "categoria": "NIÑOS",
@@ -9403,7 +9493,7 @@
     "actualizado": 1
   },
   {
-    "id": 936,
+    "id": 945,
     "img": 912,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
     "categoria": "NIÑOS",
@@ -9413,7 +9503,7 @@
     "actualizado": 1
   },
   {
-    "id": 937,
+    "id": 946,
     "img": 913,
     "producto": "JUEGO POCKET BOLA ELECTRONICA ",
     "categoria": "NIÑOS",
@@ -9423,7 +9513,7 @@
     "actualizado": 1
   },
   {
-    "id": 938,
+    "id": 947,
     "img": 915,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
@@ -9433,7 +9523,7 @@
     "actualizado": 1
   },
   {
-    "id": 939,
+    "id": 948,
     "img": 916,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  BLANCO",
     "categoria": "NIÑOS",
@@ -9443,7 +9533,7 @@
     "actualizado": 1
   },
   {
-    "id": 940,
+    "id": 949,
     "img": 917,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9453,7 +9543,7 @@
     "actualizado": 1
   },
   {
-    "id": 941,
+    "id": 950,
     "img": 918,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
@@ -9463,7 +9553,7 @@
     "actualizado": 1
   },
   {
-    "id": 942,
+    "id": 951,
     "img": 919,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  BLANCO",
     "categoria": "NIÑOS",
@@ -9473,7 +9563,7 @@
     "actualizado": 1
   },
   {
-    "id": 943,
+    "id": 952,
     "img": 920,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  GRIS",
     "categoria": "NIÑOS",
@@ -9483,7 +9573,7 @@
     "actualizado": 1
   },
   {
-    "id": 944,
+    "id": 953,
     "img": 921,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9493,7 +9583,7 @@
     "actualizado": 1
   },
   {
-    "id": 945,
+    "id": 954,
     "img": 922,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  VERDE",
     "categoria": "NIÑOS",
@@ -9503,7 +9593,7 @@
     "actualizado": 1
   },
   {
-    "id": 946,
+    "id": 955,
     "img": 923,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  MAMEI",
     "categoria": "NIÑOS",
@@ -9513,7 +9603,7 @@
     "actualizado": 1
   },
   {
-    "id": 947,
+    "id": 956,
     "img": 924,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  GRIS",
     "categoria": "NIÑOS",
@@ -9523,7 +9613,7 @@
     "actualizado": 1
   },
   {
-    "id": 948,
+    "id": 957,
     "img": 926,
     "producto": "JUEGO CARROS METAL RACING CHAMPINIOS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
@@ -9533,7 +9623,7 @@
     "actualizado": 1
   },
   {
-    "id": 949,
+    "id": 958,
     "img": 927,
     "producto": "JUEGO CARROS METAL RACING CHAMPINIOS 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9543,7 +9633,7 @@
     "actualizado": 1
   },
   {
-    "id": 950,
+    "id": 959,
     "img": 929,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  BLANCO",
     "categoria": "NIÑOS",
@@ -9553,7 +9643,7 @@
     "actualizado": 1
   },
   {
-    "id": 951,
+    "id": 960,
     "img": 930,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9563,7 +9653,7 @@
     "actualizado": 1
   },
   {
-    "id": 952,
+    "id": 961,
     "img": 931,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
@@ -9573,7 +9663,7 @@
     "actualizado": 1
   },
   {
-    "id": 953,
+    "id": 962,
     "img": 932,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  VERDE",
     "categoria": "NIÑOS",
@@ -9583,7 +9673,7 @@
     "actualizado": 1
   },
   {
-    "id": 954,
+    "id": 963,
     "img": 933,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  GRIS",
     "categoria": "NIÑOS",
@@ -9593,7 +9683,7 @@
     "actualizado": 1
   },
   {
-    "id": 955,
+    "id": 964,
     "img": 934,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  VERDE",
     "categoria": "NIÑOS",
@@ -9603,7 +9693,7 @@
     "actualizado": 1
   },
   {
-    "id": 956,
+    "id": 965,
     "img": 935,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9613,7 +9703,7 @@
     "actualizado": 1
   },
   {
-    "id": 957,
+    "id": 966,
     "img": 936,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9623,7 +9713,7 @@
     "actualizado": 1
   },
   {
-    "id": 958,
+    "id": 967,
     "img": 938,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9633,7 +9723,7 @@
     "actualizado": 1
   },
   {
-    "id": 959,
+    "id": 968,
     "img": 939,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9643,7 +9733,7 @@
     "actualizado": 1
   },
   {
-    "id": 960,
+    "id": 969,
     "img": 940,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -9653,7 +9743,7 @@
     "actualizado": 1
   },
   {
-    "id": 961,
+    "id": 970,
     "img": 941,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  NEGRO",
     "categoria": "NIÑOS",
@@ -9663,7 +9753,7 @@
     "actualizado": 1
   },
   {
-    "id": 962,
+    "id": 971,
     "img": 942,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  NEGRO",
     "categoria": "NIÑOS",
@@ -9673,7 +9763,7 @@
     "actualizado": 1
   },
   {
-    "id": 963,
+    "id": 972,
     "img": 943,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  GRIS",
     "categoria": "NIÑOS",
@@ -9683,7 +9773,7 @@
     "actualizado": 1
   },
   {
-    "id": 964,
+    "id": 973,
     "img": 944,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  GRIS",
     "categoria": "NIÑOS",
@@ -9693,7 +9783,7 @@
     "actualizado": 1
   },
   {
-    "id": 965,
+    "id": 974,
     "img": 945,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9703,7 +9793,7 @@
     "actualizado": 1
   },
   {
-    "id": 966,
+    "id": 975,
     "img": 946,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9713,7 +9803,7 @@
     "actualizado": 1
   },
   {
-    "id": 967,
+    "id": 976,
     "img": 947,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9723,7 +9813,7 @@
     "actualizado": 1
   },
   {
-    "id": 968,
+    "id": 977,
     "img": 948,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
     "categoria": "NIÑOS",
@@ -9733,7 +9823,7 @@
     "actualizado": 1
   },
   {
-    "id": 969,
+    "id": 978,
     "img": 950,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
     "categoria": "NIÑOS",
@@ -9743,7 +9833,7 @@
     "actualizado": 1
   },
   {
-    "id": 970,
+    "id": 979,
     "img": 951,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
     "categoria": "NIÑOS",
@@ -9753,7 +9843,7 @@
     "actualizado": 1
   },
   {
-    "id": 971,
+    "id": 980,
     "img": 952,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
     "categoria": "NIÑOS",
@@ -9763,7 +9853,7 @@
     "actualizado": 1
   },
   {
-    "id": 972,
+    "id": 981,
     "img": 953,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  MORADO",
     "categoria": "NIÑOS",
@@ -9773,267 +9863,267 @@
     "actualizado": 1
   },
   {
-    "id": 973,
+    "id": 982,
     "img": 955,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULADO",
     "categoria": "NIÑOS",
-    "precio": 150,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 974,
-    "img": 957,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 975,
-    "img": 958,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 976,
-    "img": 959,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 977,
-    "img": 960,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 978,
-    "img": 961,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 979,
-    "img": 962,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 980,
-    "img": 963,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 981,
-    "img": 964,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 25,
-    "ubicacion": "CPJ",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 982,
-    "img": 965,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 983,
-    "img": 966,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
+    "img": 957,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 984,
-    "img": 967,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
+    "img": 958,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 985,
-    "img": 968,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
+    "img": 959,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AZUL",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 986,
-    "img": 969,
+    "img": 960,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 987,
-    "img": 970,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  VERDE",
+    "img": 961,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 988,
-    "img": 971,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
+    "img": 962,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 989,
-    "img": 972,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
+    "img": 963,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 990,
-    "img": 973,
-    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  NEGRO",
+    "img": 964,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 25,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 991,
-    "img": 975,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
+    "img": 965,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 992,
-    "img": 976,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
+    "img": 966,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 993,
-    "img": 977,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
+    "img": 967,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 994,
-    "img": 978,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
+    "img": 968,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 995,
-    "img": 979,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
+    "img": 969,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 996,
-    "img": 980,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
+    "img": 970,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  VERDE",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 997,
-    "img": 981,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE AZULADO",
+    "img": 971,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 998,
-    "img": 982,
-    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
+    "img": 972,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 999,
+    "img": 973,
+    "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  NEGRO",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1000,
+    "img": 975,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1001,
+    "img": 976,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1002,
+    "img": 977,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1003,
+    "img": 978,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1004,
+    "img": 979,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1005,
+    "img": 980,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1006,
+    "img": 981,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE AZULADO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1007,
+    "img": 982,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 140,
+    "ubicacion": "CPJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1008,
     "img": 983,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE AZULADO",
     "categoria": "NIÑOS",
@@ -10043,17 +10133,17 @@
     "actualizado": 1
   },
   {
-    "id": 1000,
+    "id": 1009,
     "img": 984,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1001,
+    "id": 1010,
     "img": 985,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
@@ -10063,97 +10153,97 @@
     "actualizado": 1
   },
   {
-    "id": 1002,
+    "id": 1011,
     "img": 986,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1003,
+    "id": 1012,
     "img": 987,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1004,
+    "id": 1013,
     "img": 988,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 135,
+    "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1005,
+    "id": 1014,
     "img": 989,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1006,
+    "id": 1015,
     "img": 990,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE OLIVO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1007,
+    "id": 1016,
     "img": 991,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1008,
+    "id": 1017,
     "img": 992,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1009,
+    "id": 1018,
     "img": 993,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
     "categoria": "NIÑOS",
-    "precio": 100,
+    "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1010,
+    "id": 1019,
     "img": 994,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
     "categoria": "NIÑOS",
-    "precio": 175,
+    "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1011,
+    "id": 1020,
     "img": 995,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
     "categoria": "NIÑOS",
@@ -10163,17 +10253,17 @@
     "actualizado": 1
   },
   {
-    "id": 1012,
+    "id": 1021,
     "img": 996,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE",
     "categoria": "NIÑOS",
-    "precio": 175,
+    "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1013,
+    "id": 1022,
     "img": 997,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
     "categoria": "NIÑOS",
@@ -10183,7 +10273,7 @@
     "actualizado": 1
   },
   {
-    "id": 1014,
+    "id": 1023,
     "img": 998,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
     "categoria": "NIÑOS",
@@ -10193,7 +10283,7 @@
     "actualizado": 1
   },
   {
-    "id": 1015,
+    "id": 1024,
     "img": 999,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE",
     "categoria": "NIÑOS",
@@ -10203,27 +10293,27 @@
     "actualizado": 1
   },
   {
-    "id": 1016,
+    "id": 1025,
     "img": 1000,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  NEGRO",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1017,
+    "id": 1026,
     "img": 1001,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE",
     "categoria": "NIÑOS",
-    "precio": 150,
+    "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
     "actualizado": 1
   },
   {
-    "id": 1018,
+    "id": 1027,
     "img": 1003,
     "producto": "JUEGO CARRO RC DE TOY STORY, MUEVE OJOS MIENTRAS CORRE",
     "categoria": "NIÑOS",
@@ -10233,7 +10323,7 @@
     "actualizado": 1
   },
   {
-    "id": 1019,
+    "id": 1028,
     "img": 1004,
     "producto": "JUEGO CARROS DISNEY GRIS",
     "categoria": "NIÑOS",
@@ -10243,7 +10333,7 @@
     "actualizado": 1
   },
   {
-    "id": 1020,
+    "id": 1029,
     "img": 1005,
     "producto": "JUEGO CARROS DISNEY PAW PATROL VERDE",
     "categoria": "NIÑOS",
@@ -10253,7 +10343,7 @@
     "actualizado": 1
   },
   {
-    "id": 1021,
+    "id": 1030,
     "img": 1006,
     "producto": "JUEGO CARROS DISNEY PAW PATROL MAMEI",
     "categoria": "NIÑOS",
@@ -10263,7 +10353,7 @@
     "actualizado": 1
   },
   {
-    "id": 1022,
+    "id": 1031,
     "img": 1008,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
     "categoria": "NIÑOS",
@@ -10273,7 +10363,7 @@
     "actualizado": 1
   },
   {
-    "id": 1023,
+    "id": 1032,
     "img": 1009,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
     "categoria": "NIÑOS",
@@ -10283,7 +10373,7 @@
     "actualizado": 1
   },
   {
-    "id": 1024,
+    "id": 1033,
     "img": 1010,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
     "categoria": "NIÑOS",
@@ -10293,7 +10383,7 @@
     "actualizado": 1
   },
   {
-    "id": 1025,
+    "id": 1034,
     "img": 1011,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
     "categoria": "NIÑOS",
@@ -10303,7 +10393,7 @@
     "actualizado": 1
   },
   {
-    "id": 1026,
+    "id": 1035,
     "img": 1012,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
     "categoria": "NIÑOS",
@@ -10313,7 +10403,7 @@
     "actualizado": 1
   },
   {
-    "id": 1027,
+    "id": 1036,
     "img": 1013,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
     "categoria": "NIÑOS",
@@ -10323,7 +10413,7 @@
     "actualizado": 1
   },
   {
-    "id": 1028,
+    "id": 1037,
     "img": 1014,
     "producto": "JUEGO CARROS JOHN DEERE BLANCO",
     "categoria": "NIÑOS",
@@ -10333,99 +10423,9 @@
     "actualizado": 1
   },
   {
-    "id": 1029,
-    "img": 1015,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1030,
-    "img": 1016,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1031,
-    "img": 1018,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1032,
-    "img": 1019,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1033,
-    "img": 1021,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1034,
-    "img": 1022,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1035,
-    "img": 1024,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1036,
-    "img": 1025,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
-    "id": 1037,
-    "img": 1026,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
-    "categoria": "ADORNOS",
-    "precio": 300,
-    "ubicacion": "U-ORIG",
-    "mostrar": 1,
-    "actualizado": 1
-  },
-  {
     "id": 1038,
-    "img": 1027,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1015,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10434,8 +10434,8 @@
   },
   {
     "id": 1039,
-    "img": 1030,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1016,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10444,8 +10444,8 @@
   },
   {
     "id": 1040,
-    "img": 1031,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1018,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10454,8 +10454,8 @@
   },
   {
     "id": 1041,
-    "img": 1032,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1019,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10464,8 +10464,8 @@
   },
   {
     "id": 1042,
-    "img": 1035,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1021,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10474,8 +10474,8 @@
   },
   {
     "id": 1043,
-    "img": 1036,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1022,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10484,8 +10484,8 @@
   },
   {
     "id": 1044,
-    "img": 1037,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1024,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10494,8 +10494,8 @@
   },
   {
     "id": 1045,
-    "img": 1038,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1025,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10504,8 +10504,8 @@
   },
   {
     "id": 1046,
-    "img": 1039,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1026,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10514,8 +10514,8 @@
   },
   {
     "id": 1047,
-    "img": 1040,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1027,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10524,8 +10524,8 @@
   },
   {
     "id": 1048,
-    "img": 1041,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1030,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
@@ -10534,13 +10534,1537 @@
   },
   {
     "id": 1049,
-    "img": 1042,
-    "producto": "PORTA RETRATOS MODELO CON FONDOS",
+    "img": 1031,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 300,
     "ubicacion": "U-ORIG",
     "mostrar": 1,
     "actualizado": 1
+  },
+  {
+    "id": 1050,
+    "img": 1032,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1051,
+    "img": 1035,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1052,
+    "img": 1036,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1053,
+    "img": 1037,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1054,
+    "img": 1038,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1055,
+    "img": 1039,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1056,
+    "img": 1040,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1057,
+    "img": 1041,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 300,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1058,
+    "img": 1042,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 350,
+    "ubicacion": "U-ORIG",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1059,
+    "img": 1043,
+    "producto": "TENANZA SECADOR Y RIZADOR EN UNO ROJO REVLON NUEVO EN CAJA",
+    "categoria": "PERSONAL",
+    "precio": 2300,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1060,
+    "img": 1044,
+    "producto": "MASAJEADOR AUTOMATICO EXPERTO NUEVO EN CAJA",
+    "categoria": "PERSONAL",
+    "precio": 2000,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1061,
+    "img": 1045,
+    "producto": "JUEGO ROMPECABEZA SPIDERMAN PEQUENO USADO",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1062,
+    "img": 1046,
+    "producto": "JUEGO ROMPECABEZA UP TO NO GOOD PEQUENO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1063,
+    "img": 1047,
+    "producto": "JUEGO ROMPECABEZA SPIDERMAN  PEQUENO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1064,
+    "img": 1048,
+    "producto": "JUEGO ROMPECABEZA HULK OUT PEQUENO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1065,
+    "img": 1049,
+    "producto": "JUEGO ROMPECABEZA CAPITAN AMERICA PEQUENO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1066,
+    "img": 1050,
+    "producto": "JUEGO ROMPECABEZA UP HIGH PEQUENO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1067,
+    "img": 1051,
+    "producto": "JUEGO ROMPECABEZA IRON MAN PEQUENO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1068,
+    "img": 1052,
+    "producto": "JUEGO ROMPECABEZA SPIDERMAN Y MAS  PEQUENO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1069,
+    "img": 1053,
+    "producto": "JUEGO ROMPECABEZA SUPER HEROES SPIDERMAN VARIADOS MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1070,
+    "img": 1054,
+    "producto": "JUEGO ROMPECABEZA SUPER HEROES SPIDERMAN VARIADOS 2  MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1071,
+    "img": 1055,
+    "producto": "JUEGO ROMPECABEZA JOJO SIWA BLANCO MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1072,
+    "img": 1056,
+    "producto": "JUEGO ROMPECABEZA JOJO SIWA MORADO MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1073,
+    "img": 1057,
+    "producto": "JUEGO ROMPECABEZA JOJO SIWA BLANCO GRANDE ",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1074,
+    "img": 1058,
+    "producto": "JUEGO ROMPECABEZA MINNIE MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1075,
+    "img": 1059,
+    "producto": "JUEGO ROMPECABEZA JOJO SIWA BLANCO VARIADO GRANDE ",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1076,
+    "img": 1060,
+    "producto": "JUEGO ROMPECABEZA SUPER HEROESVAQUERO MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CJ",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1077,
+    "img": 1019,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 0,
+    "ubicacion": "U-ORIG",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1078,
+    "img": 1026,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 0,
+    "ubicacion": "U-ORIG",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1079,
+    "img": 1036,
+    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "categoria": "ADORNOS",
+    "precio": 0,
+    "ubicacion": "U-ORIG",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1080,
+    "img": 462,
+    "producto": "BOTAS DE FRIO MARRON METOO 8",
+    "categoria": "CALZADO",
+    "precio": 0,
+    "ubicacion": "CZ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1081,
+    "img": 469,
+    "producto": "ZAPATOS VERDE CLARO SPERRY 9.5",
+    "categoria": "CALZADO",
+    "precio": 0,
+    "ubicacion": "CZ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1082,
+    "img": 477,
+    "producto": "SANDALIAS NEGRAS AEROTHOTIC 40",
+    "categoria": "CALZADO",
+    "precio": 0,
+    "ubicacion": "CZ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1083,
+    "img": 483,
+    "producto": "TENIS BRACH NEGROS 7.5",
+    "categoria": "CALZADO",
+    "precio": 0,
+    "ubicacion": "CZ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1084,
+    "img": 487,
+    "producto": "TENIS AZUL MAMEI NIÑOS GOMA STRIDE RITE 13 USA",
+    "categoria": "CALZADO",
+    "precio": 0,
+    "ubicacion": "CZ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1085,
+    "img": 492,
+    "producto": "TENIS PIJAMMA CREMA 5/6",
+    "categoria": "CALZADO",
+    "precio": 0,
+    "ubicacion": "CZ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1086,
+    "img": 83,
+    "producto": "JUEGO DE CUCHARAS DE MADERA",
+    "categoria": "COCINA",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1087,
+    "img": 153,
+    "producto": "JUEGO DE SOPERAS GRUESAS ROSADAS Y NEGRAS 150 C/U",
+    "categoria": "COCINA",
+    "precio": 0,
+    "ubicacion": "C4",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1088,
+    "img": 188,
+    "producto": "BANDEJITAS DE PLASTICO RESISTENTE",
+    "categoria": "COCINA",
+    "precio": 0,
+    "ubicacion": "C4",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1089,
+    "img": 202,
+    "producto": "JUEGO DE CUCHILLOS KITCHEN DELITE ACERO INOXIDABLE ",
+    "categoria": "COCINA",
+    "precio": 0,
+    "ubicacion": "C4",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1090,
+    "img": 207,
+    "producto": "BANDEJA GRANDE TIPO PORCELANA",
+    "categoria": "COCINA",
+    "precio": 0,
+    "ubicacion": "C4",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1091,
+    "img": 250,
+    "producto": "BANDEJA DE HORNEAR METALICA",
+    "categoria": "COCINA",
+    "precio": 0,
+    "ubicacion": "C5",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1092,
+    "img": 288,
+    "producto": "MOLDE 6 ESFERAS METAL ",
+    "categoria": "COCINA",
+    "precio": 0,
+    "ubicacion": "C5",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1093,
+    "img": 344,
+    "producto": 1,
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1094,
+    "img": 339,
+    "producto": "CASITA NIVES CRISTAL ",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1095,
+    "img": 343,
+    "producto": "SOPERA MEDINA VERDE Y CREMA",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1096,
+    "img": 348,
+    "producto": "MINI JARRONCITO",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1097,
+    "img": 354,
+    "producto": "PORTALAPICES",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1098,
+    "img": 358,
+    "producto": "TASA RAYAS ROJAS",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1099,
+    "img": 364,
+    "producto": "TASA COLLEGE",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1100,
+    "img": 366,
+    "producto": "TASA YOU ARE",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1101,
+    "img": 375,
+    "producto": "JUEGO PLATOS ESTAMPADOS LEOPARDO",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1102,
+    "img": 385,
+    "producto": "PLATO MARIPOSA ONDULADO",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1103,
+    "img": 390,
+    "producto": "JUEGO DE PLATOS GRUESOS EN MOLDE",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1104,
+    "img": 400,
+    "producto": "ADORNO PARA FLORES",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1105,
+    "img": 413,
+    "producto": "SOPERA MEDIANA",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1106,
+    "img": 425,
+    "producto": "PORTA VELAS EN METAL ",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "C6",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1107,
+    "img": 433,
+    "producto": "JUEGO DE COPAS MARGARITA 4 UNI",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "CR",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1108,
+    "img": 445,
+    "producto": "MINI SOPERITAS SALCERAS",
+    "categoria": "CRISTALES",
+    "precio": 0,
+    "ubicacion": "CR",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1109,
+    "img": 14,
+    "producto": "EXTRACTOR DE JUGOS",
+    "categoria": "ELECTRODOMESTICO",
+    "precio": 0,
+    "ubicacion": "C1",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1110,
+    "img": 59,
+    "producto": "LAMPARA DE MESA VERDE 2",
+    "categoria": "ELECTRODOMESTICO",
+    "precio": 0,
+    "ubicacion": "C2",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1111,
+    "img": 102,
+    "producto": "MAQUINA DE CAFÉ",
+    "categoria": "ELECTRODOMESTICO",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1112,
+    "img": 140,
+    "producto": "ASPIRADORA DE VEHICULOS SENCILLA",
+    "categoria": "ELECTRODOMESTICO",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1113,
+    "img": 10,
+    "producto": "FUNDA DE ALMOHADA NEGRA TIPO TOALLA",
+    "categoria": "HOGAR",
+    "precio": 0,
+    "ubicacion": "C1",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1114,
+    "img": 175,
+    "producto": "ANILLOS DE TENDER CORTINAS 150 C/PQT",
+    "categoria": "HOGAR",
+    "precio": 0,
+    "ubicacion": "C4",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1115,
+    "img": 551,
+    "producto": "TOALLA GRIS ROOM ESSENTIALS",
+    "categoria": "HOGAR",
+    "precio": 0,
+    "ubicacion": "CT",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1116,
+    "img": 554,
+    "producto": "TOALLA BLANCA HOME DESING",
+    "categoria": "HOGAR",
+    "precio": 0,
+    "ubicacion": "CT",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1117,
+    "img": 556,
+    "producto": "ALFOMBRA DE BAÑO BLANCA PERI HOME",
+    "categoria": "HOGAR",
+    "precio": 0,
+    "ubicacion": "CT",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1118,
+    "img": 572,
+    "producto": "MANTEL PLASTICO GRUESO MESA TRSNAPARENTE",
+    "categoria": "HOGAR",
+    "precio": 0,
+    "ubicacion": "CT",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1119,
+    "img": 496,
+    "producto": "BULTO CREMA COZY EARTHA MEIO GRANDE EN TELA Y PIEL",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1120,
+    "img": 502,
+    "producto": "CARTERA MAMEI BCBG MEDIO GRANDE EN PIEL",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1121,
+    "img": 515,
+    "producto": "CARTERA MARRO ESTAMPADO COACH GRANDE EN TELA",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1122,
+    "img": 520,
+    "producto": "CARTERA BLANCO Y NEGRO ATP GRANDE EN PIEL",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1123,
+    "img": 530,
+    "producto": "CARTERA ROSADA Y CREMA COACH MEDIANA  EN TELA  PIEL",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1124,
+    "img": 534,
+    "producto": "BULTO AZUL Y CREMA GENERICO MEDIANO TELA",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1125,
+    "img": 544,
+    "producto": "MONEDERO LPSY PLATEADO  EN PIEL ",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1126,
+    "img": 547,
+    "producto": "MONEDERO VERDE Y MARRON ESTAMPADO NATAL RN CUERO",
+    "categoria": "MUJER",
+    "precio": 0,
+    "ubicacion": "CC",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1127,
+    "img": 579,
+    "producto": "PAÑUELO DE CAMA DE BEBE RATON",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1128,
+    "img": 586,
+    "producto": "PELUCHA MIKIE MOUSE GRENDE",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1129,
+    "img": 592,
+    "producto": "PELUCHE PERRO GRIS OJOS AZULES",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1130,
+    "img": 600,
+    "producto": "PELUCHE OSITA AMARILLO Y ROJO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1131,
+    "img": 608,
+    "producto": "PELUCHE OSO AMARILLO SENCILLO ",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1132,
+    "img": 615,
+    "producto": "PELUCHE DELFIN",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1133,
+    "img": 622,
+    "producto": "PELUCHE PIO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1134,
+    "img": 627,
+    "producto": "PELUCHE OSITO BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1135,
+    "img": 631,
+    "producto": "PELUCHE FOCA BLANCA",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1136,
+    "img": 642,
+    "producto": "JUEGO MOTOCIERRA ELECTRICA CON SONIDO Y MOVIMIENTO VERDE",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1137,
+    "img": 649,
+    "producto": "JUEGO PISTOLA SENCILLA DE AIRE VERDE MAMI AZUL",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1138,
+    "img": 653,
+    "producto": "JUEGO GUANTE DISPARADOR DE  DARDOS HOMBRE ARAÑA GRANDE",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1139,
+    "img": 658,
+    "producto": "JUEGO MASCARA TRUEC VERDE GOMA ",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1140,
+    "img": 667,
+    "producto": "JUEGO MASCARILLA BATMAN",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1141,
+    "img": 674,
+    "producto": "JUEGO DINASAURIO SIMPLE",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1142,
+    "img": 678,
+    "producto": "JUEGO HOMBRE ARAÑA ARTICULADO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1143,
+    "img": 707,
+    "producto": "JUEGO MUÑECO TOY STORY MEDIANO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1144,
+    "img": 718,
+    "producto": "JUEGO RATONES QUE HABLAN Y CORREN MARRON",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1145,
+    "img": 725,
+    "producto": "JUEGO PULSERAS BRILLANTES PACK DE 55CM  CON  4 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CJP",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1146,
+    "img": 749,
+    "producto": "JUEGO CARRO DE CUERDA POLICE DE NEW YORK ",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1147,
+    "img": 753,
+    "producto": "JUEGO MINI ROMPECABEZAS DE WORLD MINIFIGUERES SOLDADO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1148,
+    "img": 762,
+    "producto": "JUEGO MINIGOMA SET PAW TROL  WINNIE Y M INIOS Y MAS",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1149,
+    "img": 783,
+    "producto": "JUEGO PERSONAJE Pata Daisy ",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1150,
+    "img": 797,
+    "producto": "JUEGO ANIMALES REALISTAS  PREHISTORIA  DINASAURIO MARRON OSCURO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1151,
+    "img": 806,
+    "producto": "JUEGO PERSONAJES PAW PATROL PERRO CHASE 4 UNI",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1152,
+    "img": 813,
+    "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 6 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1153,
+    "img": 818,
+    "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 4 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1154,
+    "img": 824,
+    "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 2 UNIDADES",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1155,
+    "img": 837,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1156,
+    "img": 844,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1157,
+    "img": 850,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1158,
+    "img": 856,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1159,
+    "img": 859,
+    "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1160,
+    "img": 888,
+    "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1161,
+    "img": 895,
+    "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1162,
+    "img": 904,
+    "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1163,
+    "img": 909,
+    "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1164,
+    "img": 916,
+    "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1165,
+    "img": 922,
+    "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  VERDE",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1166,
+    "img": 945,
+    "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1167,
+    "img": 951,
+    "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1168,
+    "img": 982,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1169,
+    "img": 986,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1170,
+    "img": 989,
+    "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
+    "categoria": "NIÑOS",
+    "precio": 0,
+    "ubicacion": "CPJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1171,
+    "img": 24,
+    "producto": "TERMO GRIS SENCILLO",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C1",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1172,
+    "img": 39,
+    "producto": "TERMO EN METAL QUE RETIENE CALOR Y FRIO",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C1",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1173,
+    "img": 57,
+    "producto": "NEVERA PLASTICA REDODA ROSADA",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C2",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1174,
+    "img": 68,
+    "producto": "TERMO NIÑAS METAL",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1175,
+    "img": 74,
+    "producto": "VASO TERMO SIRENITA MORADO",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1176,
+    "img": 127,
+    "producto": "SOPORTE DE COLGAR COLLARES O PRENDAS",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1177,
+    "img": 130,
+    "producto": "GAFAS DE BUCEAR",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1178,
+    "img": 131,
+    "producto": "MINI BLOWER 1600WATTS",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1179,
+    "img": 134,
+    "producto": "TERMO METAL BLANCO RETIENE TEMPERATURA",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C3",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1180,
+    "img": 168,
+    "producto": "TENAZA RISADOR DE PELO",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C4",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1181,
+    "img": 252,
+    "producto": "CONTENEDOR DE PAÑOS HUMEDOS BEBE",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C5",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1182,
+    "img": 253,
+    "producto": "CONTENEDOR DE PAÑOS HUMEDOS BEBE",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C5",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1183,
+    "img": 269,
+    "producto": "JUEGO DE BAÑO CON TOALLA",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C5",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1184,
+    "img": 278,
+    "producto": "GAFAS DE SOL NEGRA",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C5",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1185,
+    "img": 319,
+    "producto": "TERMO ROHO SENCILLO",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "C5",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1186,
+    "img": 569,
+    "producto": "CARGADOR DE PERROS ENROLLABLE Y CON FRENO ROJO",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "CT",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1187,
+    "img": 693,
+    "producto": "GAFAS DE NIÑOS AZUL CLARO",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1188,
+    "img": 712,
+    "producto": "GAFAS DE BUCEAR MIX ",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1189,
+    "img": 724,
+    "producto": "COJIN DE CAPEZA PARA CARROS GRIS ZIRAKI GRIS",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "CT",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
+  },
+  {
+    "id": 1190,
+    "img": 1043,
+    "producto": "TENANZA SECADOR Y RIZADOR EN UNO ROJO REVLON NUEVO EN CAJA",
+    "categoria": "PERSONAL",
+    "precio": 0,
+    "ubicacion": "CJ",
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "IMG FALSA"
   }
 ]
 }

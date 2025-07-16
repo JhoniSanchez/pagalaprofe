@@ -31,8 +31,8 @@ const styles = {
   },
   title: {
     fontSize: "2.5rem",
-    fontWeight: "bold",
-    color: "#333",
+    fontWeight: "bolder",
+    color: "#000",
     marginBottom: "1rem",
   },
   profilePlaceholder: {
@@ -55,9 +55,33 @@ const styles = {
     padding: "1rem",
     fontSize: "1rem",
     fontWeight: "600",
-    color: "#000000ff",
-    backgroundColor: "#988897d8",
-    border: "none",
+    color: "#ffffffff",
+    backgroundColor: "#00445fff",
+    border: "3px solid #999",
+    borderRadius: "10px",
+    boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+    cursor: "pointer",
+    transition: "transform 0.2s, box-shadow 0.2s",
+  },
+    button2: {
+    padding: "1rem",
+    fontSize: "1rem",
+    fontWeight: "600",
+    color: "#ffffffff",
+    backgroundColor: "#08658aff",
+    border: "3px solid #999",
+    borderRadius: "10px",
+    boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+    cursor: "pointer",
+    transition: "transform 0.2s, box-shadow 0.2s",
+  },
+    button3: {
+    padding: "1rem",
+    fontSize: "1rem",
+    fontWeight: "600",
+    color: "#ffffffff",
+    backgroundColor: "#034079ff",
+    border: "3px solid #999",
     borderRadius: "10px",
     boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
     cursor: "pointer",
@@ -548,21 +572,26 @@ const electroBtn = () => {
           style={{
           display: displayContainer === "flex"? "none" : "flex", // Aquí pasamos la cadena 'flex' o 'none'
           position: 'fixed',
-          top: '20px',
-          right: '20px',
-          backgroundColor: '#007bff',
+          top: '10px',
+          right: '0px',
+          backgroundColor: '#6d0000ff',
           color: 'white',
           padding: '10px 15px',
           border: 'none',
           borderRadius: '5px',
           cursor: 'pointer',
           zIndex: 1000,
-          fontSize: '1rem',
+          fontSize: '1.5rem',
+          width:"80%",
+          margin: "0 10%",
+          textAlign: "center",
+              justifyContent: "center",     // ⬅ centra horizontalmente
+    alignItems: "center",         // ⬅ centra verticalmente
           boxShadow: '0 2px 5px rgba(0,0,0,0.2)',
         }}
       onClick={cerrar} // Un ejemplo de función al hacer clic
     >
-Atras
+VOLVER AL MENU
     </button>
 
 
@@ -580,7 +609,7 @@ Atras
       >
         {/* Sección del encabezado con el nombre y la foto */}
         <div style={styles.header}>
-          <h1 style={styles.title}>Paca Ginita</h1>
+          <h1 style={styles.title}>PACA GINITA</h1>
           <div style={styles.profilePlaceholder}>
             {" "}
             <img
@@ -593,15 +622,16 @@ Atras
 
         {/* Sección de los botones */}
         <div style={styles.buttonsGrid}>
-          <button style={styles.button}   onClick={mujerBtn} >MUJER</button>
-          <button style={styles.button}   onClick={ninosBtn} >NIÑOS</button>
+          <button style={styles.button}   onClick={mujerBtn} >CARTERAS</button>
           <button style={styles.button}   onClick={calzadoBtn} >CALZADO</button>
-          <button style={styles.button}   onClick={personalBtn} >PERSONAL</button>
-          <button style={styles.button}   onClick={adornosBtn} >ADORNOS</button>
-          <button style={styles.button}   onClick={cocinaBtn} >COCINA</button>
-          <button style={styles.button}   onClick={hogarBtn} >HOGAR</button>
-          <button style={styles.button}   onClick={cristalesBtn} >CRISTALES</button>
-          <button style={styles.button}   onClick={electroBtn} >ELECTRODOMÉSTICO</button>
+          <button style={styles.button}   onClick={personalBtn} >USO PERSONAL</button>
+          <button style={styles.button2}   onClick={adornosBtn} >ADORNOS</button>
+          <button style={styles.button2}   onClick={cristalesBtn} >CRISTALERIA</button>
+          <button style={styles.button2}   onClick={cocinaBtn} >COCINA</button>
+          <button style={styles.button2}   onClick={hogarBtn} >DEL HOGAR</button>
+          <button style={styles.button3}   onClick={electroBtn} >ELECTRODOMÉS...</button>
+          <button style={styles.button3}   onClick={ninosBtn} >JUGUETES</button>
+          <button style={styles.button3}    >PROXIMAMENTE</button>
         </div>
 
         {/* Botón "TODO" centrado en la parte inferior */}
