@@ -108,7 +108,7 @@ const styles = {
     transition: "background-color 0.2s",
   },
 };
-console.log(datos.datos);
+// console.log(datos.datos);
 const Targeta = ({ blogs, categoria }) => {
   return (
     <div className="cuerpo2">
@@ -297,23 +297,23 @@ const electroBtn = () => {
   };
 
 
-  const dele = async (id, title) => {
-    const result = confirm(`Seguro Eliminar: ${title}`);
-    if (result) {
-      try {
-        const response = await blogService.dele(id);
-        const newdata = dataprincipal.filter((el) => el.id !== response.id);
-        setPrincipalData(newdata);
+  // const dele = async (id, title) => {
+  //   const result = confirm(`Seguro Eliminar: ${title}`);
+  //   if (result) {
+  //     try {
+  //       const response = await blogService.dele(id);
+  //       const newdata = dataprincipal.filter((el) => el.id !== response.id);
+  //       setPrincipalData(newdata);
 
-        setmessage(`Blog Deleted ${response.title}`);
-        console.log(response);
-        console.log(newdata);
-      } catch (error) {
-        console.log(error);
-        setmessage(error.response.data.message);
-      }
-    }
-  };
+  //       setmessage(`Blog Deleted ${response.title}`);
+  //       console.log(response);
+  //       console.log(newdata);
+  //     } catch (error) {
+  //       console.log(error);
+  //       setmessage(error.response.data.message);
+  //     }
+  //   }
+  // };
 
   const compararProductosPorPrecio = (a, b) => {
     const productoA = Number(a.precio);
@@ -397,6 +397,11 @@ const electroBtn = () => {
   const comparaPrecioAZ = async () => {
     const datageneral = datos.datos;
     // const RESPONSE = await blogService.getAll()
+
+
+
+
+    
     const primera = datageneral.sort(compararProductosPorPrecio);
     const segunda = primera.sort(compararProductosPorAZ);
     // setBlogs3(segunda);

@@ -254,7 +254,10 @@ position: absolute;
   
   width: 100%; /* La imagen ocupa todo el ancho del contenedor */
   /* height: 100%; */
-   filter: brightness(25%);
+   filter: brightness(65%) blur(2px) grayscale(100%);
+   /* filter: ; */
+    /* filter:; */
+
   border-top-right-radius: 100px;
 }
 
