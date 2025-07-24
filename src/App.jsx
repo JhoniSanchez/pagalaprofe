@@ -63,7 +63,7 @@ const styles = {
     cursor: "pointer",
     transition: "transform 0.2s, box-shadow 0.2s",
   },
-    button2: {
+  button2: {
     padding: "1rem",
     fontSize: "1rem",
     fontWeight: "600",
@@ -75,12 +75,36 @@ const styles = {
     cursor: "pointer",
     transition: "transform 0.2s, box-shadow 0.2s",
   },
-    button3: {
+  button3: {
     padding: "1rem",
     fontSize: "1rem",
     fontWeight: "600",
     color: "#ffffffff",
     backgroundColor: "#034079ff",
+    border: "3px solid #999",
+    borderRadius: "10px",
+    boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+    cursor: "pointer",
+    transition: "transform 0.2s, box-shadow 0.2s",
+  },
+  button4: {
+    padding: "1rem",
+    fontSize: "1rem",
+    fontWeight: "600",
+    color: "#ffffffff",
+    backgroundColor: "#3f67d6ff",
+    border: "3px solid #999",
+    borderRadius: "10px",
+    boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+    cursor: "pointer",
+    transition: "transform 0.2s, box-shadow 0.2s",
+  },
+  button5: {
+    padding: "1rem",
+    fontSize: "1rem",
+    fontWeight: "600",
+    color: "#ffffffff",
+    backgroundColor: "#214abbff",
     border: "3px solid #999",
     borderRadius: "10px",
     boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
@@ -175,127 +199,127 @@ const App = () => {
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
+    setdisplayContainer("none");
   };
-    //  <option value="MUJER">CARTERAS</option>  
-    //       <option value="NIÑOS">JUGUETES</option>
-    //       <option value="CALZADO">CALZADOS</option>
+  //  <option value="MUJER">CARTERAS</option>
+  //       <option value="NIÑOS">JUGUETES</option>
+  //       <option value="CALZADO">CALZADOS</option>
 
-    //       <option value="PERSONAL">USO PERSONAL</option>
-    //       <option value="ADORNOS">ADORNOS</option>
+  //       <option value="PERSONAL">USO PERSONAL</option>
+  //       <option value="ADORNOS">ADORNOS</option>
 
-    //       <option value="COCINA">COCINA</option>
-    //       <option value="HOGAR">PARA EL HOGAR</option>
+  //       <option value="COCINA">COCINA</option>
+  //       <option value="HOGAR">PARA EL HOGAR</option>
 
-    //       <option value="CRISTALES">CRISLATERIAS</option>
-    //       <option value="ELECTRODOMESTICO">ELECTRODOMESTICOS</option>
-    //       <option value="TODO">TODOS</option>
+  //       <option value="CRISTALES">CRISLATERIAS</option>
+  //       <option value="ELECTRODOMESTICO">ELECTRODOMESTICOS</option>
+  //       <option value="TODO">TODOS</option>
 
-const mujerBtn = () => {
-      setcategoria("MUJER");
+  const mujerBtn = () => {
+    setcategoria("MUJER");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-  };
-
-const ninosBtn = () => {
-      setcategoria("NIÑOS");
-    console.log(displayContainer);
-
-    if (displayContainer === "none") {
-      return setdisplayContainer("flex")
-    }
-    setdisplayContainer("none")
+    setdisplayContainer("none");
   };
 
-const calzadoBtn = () => {
-     setcategoria("CALZADO");
+  const ninosBtn1 = () => {
+    setcategoria("NIÑOS");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-}
-const personalBtn = () => {
-     setcategoria("PERSONAL");
+    setdisplayContainer("none");
+  };
+
+  const ninosBtn2 = () => {
+    setcategoria("NIÑOS2");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-}
-const adornosBtn = () => {
-     setcategoria("ADORNOS");
+    setdisplayContainer("none");
+  };
+
+  const calzadoBtn = () => {
+    setcategoria("CALZADO");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-}
-const cocinaBtn = () => {
-     setcategoria("COCINA");
+    setdisplayContainer("none");
+  };
+  const personalBtn = () => {
+    setcategoria("PERSONAL");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-}
-const hogarBtn = () => {
-     setcategoria("HOGAR");
+    setdisplayContainer("none");
+  };
+  const adornosBtn = () => {
+    setcategoria("ADORNOS");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-}
-const cristalesBtn = () => {
-     setcategoria("CRISTALES");
+    setdisplayContainer("none");
+  };
+  const cocinaBtn = () => {
+    setcategoria("COCINA");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-}
-const electroBtn = () => {
-     setcategoria("ELECTRODOMESTICO");
+    setdisplayContainer("none");
+  };
+  const hogarBtn = () => {
+    setcategoria("HOGAR");
     console.log(displayContainer);
 
     if (displayContainer === "none") {
-      return setdisplayContainer("flex")
+      return setdisplayContainer("flex");
     }
-    setdisplayContainer("none")
-}
+    setdisplayContainer("none");
+  };
+  const cristalesBtn = () => {
+    setcategoria("CRISTALES");
+    console.log(displayContainer);
 
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex");
+    }
+    setdisplayContainer("none");
+  };
+  const electroBtn = () => {
+    setcategoria("ELECTRODOMESTICO");
+    console.log(displayContainer);
 
-
-
-
-
-
-
-
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex");
+    }
+    setdisplayContainer("none");
+  };
 
   const cerrar = () => {
     // setcategoria("COCINA");
     console.log(displayContainer);
- setcategoria("");
+    setcategoria("");
     if (displayContainer === "flex") {
-      return setdisplayContainer("none")
+      return setdisplayContainer("none");
     }
-    setdisplayContainer("flex")
+    setdisplayContainer("flex");
   };
-
 
   // const dele = async (id, title) => {
   //   const result = confirm(`Seguro Eliminar: ${title}`);
@@ -398,10 +422,6 @@ const electroBtn = () => {
     const datageneral = datos.datos;
     // const RESPONSE = await blogService.getAll()
 
-
-
-
-    
     const primera = datageneral.sort(compararProductosPorPrecio);
     const segunda = primera.sort(compararProductosPorAZ);
     // setBlogs3(segunda);
@@ -569,39 +589,31 @@ const electroBtn = () => {
             />
           )} */}
       {/*Al 140720252004 descopntinuado para usar en githubpages */}
-
-
-
-
-    <button
-          style={{
-          display: displayContainer === "flex"? "none" : "flex", // Aquí pasamos la cadena 'flex' o 'none'
-          position: 'fixed',
-          top: '10px',
-          right: '0px',
-          backgroundColor: '#6d0000ff',
-          color: 'white',
-          padding: '10px 15px',
-          border: 'none',
-          borderRadius: '5px',
-          cursor: 'pointer',
+      <button
+        style={{
+          display: displayContainer === "flex" ? "none" : "flex", // Aquí pasamos la cadena 'flex' o 'none'
+          position: "fixed",
+          top: "10px",
+          right: "0px",
+          backgroundColor: "#ff0000bd",
+          color: "white",
+          padding: "10px 15px",
+          border: "none",
+          borderRadius: "5px",
+          cursor: "pointer",
           zIndex: 1000,
-          fontSize: '1.5rem',
-          width:"80%",
+          fontSize: "1.5rem",
+          width: "80%",
           margin: "0 10%",
           textAlign: "center",
-              justifyContent: "center",     // ⬅ centra horizontalmente
-    alignItems: "center",         // ⬅ centra verticalmente
-          boxShadow: '0 2px 5px rgba(0,0,0,0.2)',
+          justifyContent: "center", // ⬅ centra horizontalmente
+          alignItems: "center", // ⬅ centra verticalmente
+          boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
         }}
-      onClick={cerrar} // Un ejemplo de función al hacer clic
-    >
-VOLVER AL MENU
-    </button>
-
-
-
-
+        onClick={cerrar} // Un ejemplo de función al hacer clic
+      >
+        VOLVER AL MENU
+      </button>
       <div
         style={{
           backgroundColor: "#fcfcfcff",
@@ -618,7 +630,7 @@ VOLVER AL MENU
           <div style={styles.profilePlaceholder}>
             {" "}
             <img
-            className="imgperfil"
+              className="imgperfil"
               src="https://raw.githubusercontent.com/JhoniSanchez/paga-ginita/master/public/mom.jpg"
               alt=""
             />
@@ -627,16 +639,37 @@ VOLVER AL MENU
 
         {/* Sección de los botones */}
         <div style={styles.buttonsGrid}>
-          <button style={styles.button}   onClick={mujerBtn} >CARTERAS</button>
-          <button style={styles.button}   onClick={calzadoBtn} >CALZADO</button>
-          <button style={styles.button}   onClick={personalBtn} >USO PERSONAL</button>
-          <button style={styles.button2}   onClick={adornosBtn} >ADORNOS</button>
-          <button style={styles.button2}   onClick={cristalesBtn} >CRISTALERIA</button>
-          <button style={styles.button2}   onClick={cocinaBtn} >COCINA</button>
-          <button style={styles.button2}   onClick={hogarBtn} >DEL HOGAR</button>
-          <button style={styles.button3}   onClick={electroBtn} >ELECTRODOMÉS...</button>
-          <button style={styles.button3}   onClick={ninosBtn} >JUGUETES</button>
-          <button style={styles.button3}    >PROXIMAMENTE</button>
+          <button style={styles.button} onClick={mujerBtn}>
+            CARTERAS
+          </button>
+          <button style={styles.button} onClick={calzadoBtn}>
+            CALZADO
+          </button>
+          <button style={styles.button} onClick={personalBtn}>
+            USO PERSONAL
+          </button>
+          <button style={styles.button2} onClick={adornosBtn}>
+            ADORNOS
+          </button>
+          <button style={styles.button2} onClick={cristalesBtn}>
+            CRISTALERIA
+          </button>
+          <button style={styles.button2} onClick={cocinaBtn}>
+            COCINA
+          </button>
+          <button style={styles.button2} onClick={hogarBtn}>
+            DEL HOGAR
+          </button>
+          <button style={styles.button3} onClick={electroBtn}>
+            ELECTRODOMÉS...
+          </button>
+          <button style={styles.button4} onClick={ninosBtn1}>
+            JUGUETES
+          </button>
+          <button style={styles.button5} onClick={ninosBtn2}>
+            CARROS
+          </button>
+          <button style={styles.button3}>PROXIMAMENTE</button>
         </div>
 
         {/* Botón "TODO" centrado en la parte inferior */}
@@ -646,17 +679,10 @@ VOLVER AL MENU
           </button>
         </div> */}
       </div>
- 
-
-
-
-
-
-
       <BrowserRouter basename="/pagalaprofe">
         <Routes>
           <Route path="/" element={<Targeta blogs={blogs2} />}></Route>
-            <Route path="/local" element={<Local blogs={blogs2} />}></Route>
+          <Route path="/local" element={<Local blogs={blogs2} />}></Route>
           <Route
             path="/administracion14152024"
             element={<Targeta2 blogs={blogs2} />}
@@ -667,12 +693,6 @@ VOLVER AL MENU
           ></Route>
         </Routes>
       </BrowserRouter>
-
-
-
-
-
-
       {/* <div className="cuerpo">
         {blogs2.map((blog) => (
           <Blog key={blog.id} blog={blog} dele={dele} />

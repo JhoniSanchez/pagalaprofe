@@ -3,7 +3,7 @@
   {
     "id": 1,
     "img": 1,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "F ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 500,
     "ubicacion": "C1",
@@ -53,7 +53,7 @@
   {
     "id": 6,
     "img": 6,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "gADORNO DE PORTA RETRATO m",
     "categoria": "ADORNOS",
     "precio": 2000,
     "ubicacion": "C1",
@@ -125,7 +125,7 @@
     "img": 13,
     "producto": "ENVASE DE MICROONDAS PALOMITAS",
     "categoria": "COCINA",
-    "precio": 300,
+    "precio": 400,
     "ubicacion": "C1",
     "mostrar": 1,
     "actualizado": 1
@@ -135,7 +135,7 @@
     "img": 14,
     "producto": "EXTRACTOR DE JUGOS",
     "categoria": "ELECTRODOMESTICO",
-    "precio": 2500,
+    "precio": 3200,
     "ubicacion": "C1",
     "mostrar": 1,
     "actualizado": 1
@@ -195,7 +195,7 @@
     "img": 20,
     "producto": "OLLA SARTEN HONDA",
     "categoria": "COCINA",
-    "precio": 300,
+    "precio": 400,
     "ubicacion": "C1",
     "mostrar": 1,
     "actualizado": 1
@@ -203,7 +203,7 @@
   {
     "id": 21,
     "img": 21,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "P ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 1500,
     "ubicacion": "C1",
@@ -303,7 +303,7 @@
   {
     "id": 31,
     "img": 31,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "B ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "C1",
@@ -565,7 +565,7 @@
     "img": 57,
     "producto": "NEVERA PLASTICA REDODA ROSADA",
     "categoria": "PERSONAL",
-    "precio": 500,
+    "precio": 900,
     "ubicacion": "C2",
     "mostrar": 1,
     "actualizado": 1
@@ -808,7 +808,7 @@
   {
     "id": 81,
     "img": 81,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "C ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 2000,
     "ubicacion": "C3",
@@ -820,7 +820,7 @@
     "img": 82,
     "producto": "OLLA HONDA",
     "categoria": "COCINA",
-    "precio": 500,
+    "precio": 700,
     "ubicacion": "C3",
     "mostrar": 1,
     "actualizado": 1
@@ -840,7 +840,7 @@
     "img": 84,
     "producto": "OLLA SATERN MEDIANA",
     "categoria": "COCINA",
-    "precio": 300,
+    "precio": 400,
     "ubicacion": "C3",
     "mostrar": 1,
     "actualizado": 1
@@ -938,7 +938,7 @@
     "img": 93,
     "producto": "OLLA HONDA ALUMINIO",
     "categoria": "COCINA",
-    "precio": 600,
+    "precio": 800,
     "ubicacion": "C3",
     "mostrar": 1,
     "actualizado": 1
@@ -1068,7 +1068,7 @@
     "img": 106,
     "producto": "OLLA HONDA TIPO SARTEN ALUMINIO",
     "categoria": "COCINA",
-    "precio": 500,
+    "precio": 600,
     "ubicacion": "C3",
     "mostrar": 1,
     "actualizado": 1
@@ -1390,7 +1390,7 @@
     "img": 137,
     "producto": "OLLA METAL CREMA",
     "categoria": "COCINA",
-    "precio": 300,
+    "precio": 500,
     "ubicacion": "C3",
     "mostrar": 1,
     "actualizado": 1
@@ -1568,7 +1568,7 @@
   {
     "id": 155,
     "img": 155,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "l ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 500,
     "ubicacion": "C4",
@@ -1588,7 +1588,7 @@
   {
     "id": 157,
     "img": 157,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "dADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 2000,
     "ubicacion": "C4",
@@ -1598,7 +1598,7 @@
   {
     "id": 158,
     "img": 158,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "Q ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 1500,
     "ubicacion": "C4",
@@ -1608,7 +1608,7 @@
   {
     "id": 159,
     "img": 159,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "G ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "C4",
@@ -1618,7 +1618,7 @@
   {
     "id": 160,
     "img": 160,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "B ADORNO DE PORTA RETRATO m",
     "categoria": "ADORNOS",
     "precio": 500,
     "ubicacion": "C4",
@@ -1648,7 +1648,7 @@
   {
     "id": 163,
     "img": 163,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "hADORNO DE PORTA RETRATO m",
     "categoria": "ADORNOS",
     "precio": 2000,
     "ubicacion": "C4",
@@ -1658,7 +1658,7 @@
   {
     "id": 164,
     "img": 164,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "R ADORNO DE PORTA RETRATO m",
     "categoria": "ADORNOS",
     "precio": 1500,
     "ubicacion": "C4",
@@ -1668,7 +1668,7 @@
   {
     "id": 165,
     "img": 165,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "m ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "C4",
@@ -2301,7 +2301,7 @@
     "img": 228,
     "producto": "SOPORTES DE PARED ORGANIZADORES",
     "categoria": "ADORNOS",
-    "precio": 200,
+    "precio": 400,
     "ubicacion": "C4",
     "mostrar": 1,
     "actualizado": 1
@@ -2349,7 +2349,7 @@
   {
     "id": 233,
     "img": 233,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "fADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 2000,
     "ubicacion": "C5",
@@ -2359,7 +2359,7 @@
   {
     "id": 234,
     "img": 234,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "S ADORNO DE PORTA RETRATO m",
     "categoria": "ADORNOS",
     "precio": 1500,
     "ubicacion": "C5",
@@ -2369,7 +2369,7 @@
   {
     "id": 235,
     "img": 235,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "Z ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "C5",
@@ -2379,7 +2379,7 @@
   {
     "id": 236,
     "img": 236,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "n ADORNO DE PORTA RETRATO m",
     "categoria": "ADORNOS",
     "precio": 500,
     "ubicacion": "C5",
@@ -2389,7 +2389,7 @@
   {
     "id": 237,
     "img": 237,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "D ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 2000,
     "ubicacion": "C5",
@@ -2399,7 +2399,7 @@
   {
     "id": 238,
     "img": 238,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "T ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 1500,
     "ubicacion": "C5",
@@ -2851,7 +2851,7 @@
     "img": 283,
     "producto": "PORTA VELAS 3 ESPACIO",
     "categoria": "ADORNOS",
-    "precio": 200,
+    "precio": 400,
     "ubicacion": "C5",
     "mostrar": 1,
     "actualizado": 1
@@ -2871,7 +2871,7 @@
     "img": 285,
     "producto": "OLLA ESCURRIDOR METAL",
     "categoria": "COCINA",
-    "precio": 300,
+    "precio": 400,
     "ubicacion": "C5",
     "mostrar": 1,
     "actualizado": 1
@@ -2909,7 +2909,7 @@
   {
     "id": 289,
     "img": 289,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "U ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 1500,
     "ubicacion": "C5",
@@ -2929,7 +2929,7 @@
   {
     "id": 291,
     "img": 291,
-    "producto": "ADORNO DE PORTA RETRATO",
+    "producto": "dADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "precio": 1000,
     "ubicacion": "C5",
@@ -2992,7 +2992,7 @@
     "img": 296,
     "producto": "JUEGO DE CUCHILLO DE PAN REVANADOR ULTRA AFILADO SOLO QUEDA 1",
     "categoria": "COCINA",
-    "precio": 200,
+    "precio": 400,
     "ubicacion": "C5",
     "mostrar": 1,
     "actualizado": 1
@@ -3423,7 +3423,7 @@
     "img": 339,
     "producto": "CASITA NIVES CRISTAL ",
     "categoria": "CRISTALES",
-    "precio": 200,
+    "precio": 500,
     "ubicacion": "C6",
     "mostrar": 1,
     "actualizado": 1
@@ -4063,7 +4063,7 @@
     "img": 403,
     "producto": "JUEGO DE PLATOS BLANCO Y NEGRO",
     "categoria": "CRISTALES",
-    "precio": 1000,
+    "precio": 1500,
     "ubicacion": "C6",
     "mostrar": 1,
     "actualizado": 1
@@ -6522,7 +6522,7 @@
     "img": 647,
     "producto": "JUEGO PISTOLA DISPARADORA DE  DARDOS VERDE AZUL GRANDE",
     "categoria": "NIÑOS",
-    "precio": 500,
+    "precio": 300,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -6532,7 +6532,7 @@
     "img": 648,
     "producto": "JUEGO PISTOLA DISPARADORA DE  DARDOS AZUL CON BLANCO V1 GRANDE",
     "categoria": "NIÑOS",
-    "precio": 500,
+    "precio": 300,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -6540,7 +6540,7 @@
   {
     "id": 649,
     "img": 649,
-    "producto": "JUEGO PISTOLA SENCILLA DE AIRE VERDE MAMI AZUL",
+    "producto": "JUEGO PISTOLA SENCILLA DE AGUA VERDE MAMEI AZUL",
     "categoria": "NIÑOS",
     "precio": 250,
     "ubicacion": "CJ",
@@ -6552,7 +6552,7 @@
     "img": 650,
     "producto": "JUEGO PISTOLA DISPARADORA DE  DARDOS AZUL CON BLANCO V2 GRANDE",
     "categoria": "NIÑOS",
-    "precio": 500,
+    "precio": 300,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -6562,7 +6562,7 @@
     "img": 651,
     "producto": "JUEGO PISTOLA DISPARADORA DE  DARDOS ROJA PEQUEÑA",
     "categoria": "NIÑOS",
-    "precio": 350,
+    "precio": 200,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -6572,7 +6572,7 @@
     "img": 652,
     "producto": "JUEGO PISTOLA DISPARADORA DE  DARDOS MORADA Y AZUL PEQUEÑA",
     "categoria": "NIÑOS",
-    "precio": 350,
+    "precio": 200,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -6592,7 +6592,7 @@
     "img": 654,
     "producto": "JUEGO PISTOLA DISPARADORA DE  DARDOS ROJA AZUL PEQUEÑA",
     "categoria": "NIÑOS",
-    "precio": 350,
+    "precio": 200,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -6602,7 +6602,7 @@
     "img": 655,
     "producto": "JUEGO PISTOLA DISPARADORA DE  DARDOS BLANCA AZUL LARGA Y GRANDE",
     "categoria": "NIÑOS",
-    "precio": 500,
+    "precio": 300,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -7152,7 +7152,7 @@
     "img": 710,
     "producto": "JUEGO BEBE CARACOL",
     "categoria": "NIÑOS",
-    "precio": 300,
+    "precio": 500,
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
@@ -7881,61 +7881,61 @@
     "id": 783,
     "img": 744,
     "producto": "JUEGO CARRO DE CUERDA CON TOY STORY VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 400,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1
+    "actualizado": 5
   },
   {
     "id": 784,
     "img": 745,
     "producto": "JUEGO CARRO DE CUERDA CON JOHYS DE SUPER MARIO VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 400,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1
+    "actualizado": 5
   },
   {
     "id": 785,
     "img": 746,
     "producto": "JUEGO CARRO DE CUERDA MINIBUS SCHOOL AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1
+    "actualizado": 5
   },
   {
     "id": 786,
     "img": 747,
     "producto": "JUEGO CARRO DE CUERDA TRACTOR VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1
+    "actualizado": 5
   },
   {
     "id": 787,
     "img": 748,
     "producto": "JUEGO CARRO DE CUERDA SERIE ANIMADA CARS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1
+    "actualizado": 5
   },
   {
     "id": 788,
     "img": 749,
     "producto": "JUEGO CARRO DE CUERDA POLICE DE NEW YORK ",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1
+    "actualizado": 5
   },
   {
     "id": 789,
@@ -8191,11 +8191,11 @@
     "id": 814,
     "img": 770,
     "producto": "JUEGO CARRO DE CUERDAS SPACE RANGER",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1
+    "actualizado": 5
   },
   {
     "id": 815,
@@ -8231,11 +8231,11 @@
     "id": 818,
     "img": 774,
     "producto": "JUEGO CARRO Hulk Smash XPV de Avengers ",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 500,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "NO TIENE CONTROL REMOTO, PERO USA PILAS"
   },
   {
@@ -8552,961 +8552,961 @@
     "id": 850,
     "img": 813,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 6 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 851,
     "img": 814,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 5 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 852,
     "img": 815,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 3 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 853,
     "img": 816,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 2 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 854,
     "img": 817,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  HELICOTEROS SET 2 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 855,
     "img": 818,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 4 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 856,
     "img": 819,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 4 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 857,
     "img": 821,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 858,
     "img": 822,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 859,
     "img": 823,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 2 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 860,
     "img": 824,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 2 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 861,
     "img": 825,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 862,
     "img": 826,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 863,
     "img": 827,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 3 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 864,
     "img": 829,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 865,
     "img": 830,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MORADO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 866,
     "img": 831,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 867,
     "img": 832,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 868,
     "img": 833,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 869,
     "img": 834,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 870,
     "img": 835,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 871,
     "img": 836,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE OLIVO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 872,
     "img": 837,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 873,
     "img": 838,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MORADO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 874,
     "img": 839,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 875,
     "img": 840,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  MAMEI",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 876,
     "img": 841,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 877,
     "img": 842,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 878,
     "img": 843,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 879,
     "img": 844,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 880,
     "img": 845,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 881,
     "img": 846,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 882,
     "img": 847,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE OLIVO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 883,
     "img": 848,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 884,
     "img": 849,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 885,
     "img": 850,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 886,
     "img": 851,
     "producto": "JUEGO CARROS METAL Johnny Lightning Dragsters USA AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 400,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 887,
     "img": 852,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI ABRE PUERTAS ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 888,
     "img": 853,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 889,
     "img": 854,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 890,
     "img": 855,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 891,
     "img": 856,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 892,
     "img": 857,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 893,
     "img": 858,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 894,
     "img": 859,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 895,
     "img": 860,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 896,
     "img": 861,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 897,
     "img": 862,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 898,
     "img": 863,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 899,
     "img": 864,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 900,
     "img": 865,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 901,
     "img": 866,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 902,
     "img": 867,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 903,
     "img": 868,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 904,
     "img": 869,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 905,
     "img": 870,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 906,
     "img": 871,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 907,
     "img": 872,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 908,
     "img": 873,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 909,
     "img": 874,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 910,
     "img": 875,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 120,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 911,
     "img": 876,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 912,
     "img": 877,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 913,
     "img": 878,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 914,
     "img": 880,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 915,
     "img": 881,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 916,
     "img": 882,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 917,
     "img": 883,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 918,
     "img": 884,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 919,
     "img": 885,
     "producto": "JUEGO CARROS METAL MC TOY 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 920,
     "img": 887,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 921,
     "img": 888,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 922,
     "img": 889,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS MAMEI",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 923,
     "img": 890,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS MAMEI",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 924,
     "img": 891,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 925,
     "img": 892,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 926,
     "img": 893,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 927,
     "img": 894,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 928,
     "img": 895,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 929,
     "img": 896,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 930,
     "img": 897,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 931,
     "img": 898,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 932,
     "img": 899,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 933,
     "img": 900,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 934,
     "img": 901,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 935,
     "img": 902,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 936,
     "img": 903,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 937,
     "img": 904,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 938,
     "img": 905,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 939,
     "img": 906,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 940,
     "img": 907,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 941,
     "img": 908,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO ",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 942,
     "img": 909,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 943,
     "img": 910,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 944,
     "img": 911,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 945,
     "img": 912,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 946,
@@ -9522,911 +9522,911 @@
     "id": 947,
     "img": 915,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 948,
     "img": 916,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 949,
     "img": 917,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 950,
     "img": 918,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 951,
     "img": 919,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 952,
     "img": 920,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 953,
     "img": 921,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 954,
     "img": 922,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 955,
     "img": 923,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  MAMEI",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 956,
     "img": 924,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 957,
     "img": 926,
     "producto": "JUEGO CARROS METAL RACING CHAMPINIOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 958,
     "img": 927,
     "producto": "JUEGO CARROS METAL RACING CHAMPINIOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 959,
     "img": 929,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 960,
     "img": 930,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 961,
     "img": 931,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 962,
     "img": 932,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 963,
     "img": 933,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 964,
     "img": 934,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 965,
     "img": 935,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 125,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 966,
     "img": 936,
     "producto": "JUEGO CARROS METAL MAISTO 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 967,
     "img": 938,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 350,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 968,
     "img": 939,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 969,
     "img": 940,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 970,
     "img": 941,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 971,
     "img": 942,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 972,
     "img": 943,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 973,
     "img": 944,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 974,
     "img": 945,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 975,
     "img": 946,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 976,
     "img": 947,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 977,
     "img": 948,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 978,
     "img": 950,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 979,
     "img": 951,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 980,
     "img": 952,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 981,
     "img": 953,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  MORADO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 982,
     "img": 955,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULADO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 983,
     "img": 957,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 984,
     "img": 958,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 985,
     "img": 959,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 986,
     "img": 960,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 987,
     "img": 961,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 988,
     "img": 962,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 989,
     "img": 963,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 990,
     "img": 964,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 991,
     "img": 965,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 992,
     "img": 966,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 993,
     "img": 967,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 994,
     "img": 968,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 995,
     "img": 969,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 996,
     "img": 970,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 997,
     "img": 971,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 998,
     "img": 972,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 999,
     "img": 973,
     "producto": "JUEGO CARROS MINI MINI GENERICOS PLASTICOS 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 50,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1000,
     "img": 975,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1001,
     "img": 976,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1002,
     "img": 977,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1003,
     "img": 978,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1004,
     "img": 979,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1005,
     "img": 980,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1006,
     "img": 981,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE AZULADO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1007,
     "img": 982,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1008,
     "img": 983,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE AZULADO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1009,
     "img": 984,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1010,
     "img": 985,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1011,
     "img": 986,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1012,
     "img": 987,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1013,
     "img": 988,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 130,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1014,
     "img": 989,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1015,
     "img": 990,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE OLIVO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1016,
     "img": 991,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1017,
     "img": 992,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1018,
     "img": 993,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 75,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1019,
     "img": 994,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1020,
     "img": 995,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1021,
     "img": 996,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1022,
     "img": 997,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1023,
     "img": 998,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1024,
     "img": 999,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 200,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1025,
     "img": 1000,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1026,
     "img": 1001,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 140,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1027,
     "img": 1003,
     "producto": "JUEGO CARRO RC DE TOY STORY, MUEVE OJOS MIENTRAS CORRE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 400,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1028,
     "img": 1004,
     "producto": "JUEGO CARROS DISNEY GRIS",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 150,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1029,
     "img": 1005,
     "producto": "JUEGO CARROS DISNEY PAW PATROL VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1030,
     "img": 1006,
     "producto": "JUEGO CARROS DISNEY PAW PATROL MAMEI",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 350,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1031,
     "img": 1008,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1032,
     "img": 1009,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1033,
     "img": 1010,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1034,
     "img": 1011,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 300,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1035,
     "img": 1012,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1036,
     "img": 1013,
     "producto": "JUEGO CARROS JOHN DEERE VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1037,
     "img": 1014,
     "producto": "JUEGO CARROS JOHN DEERE BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 250,
     "ubicacion": "CPJ",
     "mostrar": 1,
-    "actualizado": 3
+    "actualizado": 5
   },
   {
     "id": 1038,
@@ -10821,7 +10821,7 @@
   {
     "id": 1077,
     "img": 1019,
-    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "producto": "hADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 100,
     "ubicacion": "U-ORIG",
@@ -10832,7 +10832,7 @@
   {
     "id": 1078,
     "img": 1026,
-    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "producto": "o ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 500,
     "ubicacion": "U-ORIG",
@@ -10843,7 +10843,7 @@
   {
     "id": 1079,
     "img": 1036,
-    "producto": "ADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
+    "producto": "bADORNO DE PORTA RETRATOS MODELO CON FONDOS ARTIFICIAL",
     "categoria": "ADORNOS",
     "precio": 2000,
     "ubicacion": "U-ORIG",
@@ -11481,7 +11481,7 @@
   {
     "id": 1137,
     "img": 649,
-    "producto": "JUEGO PISTOLA SENCILLA DE AIRE VERDE MAMI AZUL",
+    "producto": "JUEGO PISTOLA SENCILLA DE AGUA VERDE MAMEI AZUL",
     "categoria": "NIÑOS",
     "precio": 100,
     "ubicacion": "CJ",
@@ -11581,11 +11581,11 @@
     "id": 1146,
     "img": 749,
     "producto": "JUEGO CARRO DE CUERDA POLICE DE NEW YORK ",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
@@ -11647,209 +11647,209 @@
     "id": 1152,
     "img": 813,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 6 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 1500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1153,
     "img": 818,
     "producto": "JUEGO CARROS DE METAL SENCILLOS GENERICOS  SET 4 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1154,
     "img": 824,
     "producto": "JUEGO CARROS DE PLASTICOS SENCILLOS GENERICOS  SET 2 UNIDADES",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1155,
     "img": 837,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 2000,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1156,
     "img": 844,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  VERDE AZULOSO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 1500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1157,
     "img": 850,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1158,
     "img": 856,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1159,
     "img": 859,
     "producto": "JUEGO CARROS METAL HOT WHEELS 1 UNI  AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 2000,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1160,
     "img": 888,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS AMARILLO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 1500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1161,
     "img": 895,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS NEGRO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1162,
     "img": 904,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1163,
     "img": 909,
     "producto": "JUEGO CARROS PLASTICOS GENERICOS CON CUERDAS VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 2000,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1164,
     "img": 916,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 1500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1165,
     "img": 922,
     "producto": "JUEGO CARROS METAL HOT WHEELS Monster Trucks 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1166,
     "img": 945,
     "producto": "JUEGO CARROS METAL KINSMART CON CUERDAS 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1167,
     "img": 951,
     "producto": "JUEGO CARROS PLASTICO SPORT CON CUERDAS 1 UNI  VERDE",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 2000,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1168,
     "img": 982,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  BLANCO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 1500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1169,
     "img": 986,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  AZUL",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 100,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {
     "id": 1170,
     "img": 989,
     "producto": "JUEGO CARROS MATCHBOX METAL 1 UNI  ROJO",
-    "categoria": "NIÑOS",
+    "categoria": "NIÑOS2",
     "precio": 500,
     "ubicacion": "CPJ",
     "mostrar": 0,
-    "actualizado": 1,
+    "actualizado": 5,
     "comentario": "IMG FALSA"
   },
   {

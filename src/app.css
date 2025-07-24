@@ -252,9 +252,9 @@ position: absolute;
 }
 .imgoculto {
   
-  width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+  width: 75%; /* La imagen ocupa todo el ancho del contenedor */
   /* height: 100%; */
-   filter: brightness(65%) blur(2px) grayscale(100%);
+   filter: brightness(65%) blur(1px) grayscale(100%);
    /* filter: ; */
     /* filter:; */
 
