@@ -423,7 +423,7 @@ const App = () => {
     // const RESPONSE = await blogService.getAll()
 
     const primera = datageneral.sort(compararProductosPorPrecio);
-    const segunda = primera.sort(compararProductosPorAZ);
+    // const segunda = primera.sort(compararProductosPorAZ);
     // setBlogs3(segunda);
     // setPrincipalData(segunda);
   };
