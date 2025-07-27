@@ -199,10 +199,9 @@ position: absolute;
 
 }
 .cod {
-  color: rgba(0, 0, 0, 0.267);
-  font-size: 0.5rem;
-  font-weight: bolder;
-  
+  color: rgb(0, 0, 0);
+  font-size: 0.8rem;
+ font-weight:100;  
 }
 
 
@@ -283,6 +282,7 @@ color: #ffd900;
   top: -0rem;
   /* left: ; */
   background-color: #00000000!important;
-  color: #d33100 !important; 
+  color: #ca0000 !important; 
   font-size: 1rem !important;
+  font-weight: bolder;
 }

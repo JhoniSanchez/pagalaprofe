@@ -154,8 +154,8 @@ const Blog2 = ({ blog, dele }) => {
       <div className="ppp">
         <div className="price2">{blog.mostrar == 0? "NO DISPONIBLE" : <span>RD$ {blog.precio} </span>} </div>
         <div className="cod">
-          {" "}
-          {blog.ubicacion}
+          {<p> </p>} {<p> </p>} 
+          { blog.ubicacion}
           {blog.img}
         </div>
       </div>
