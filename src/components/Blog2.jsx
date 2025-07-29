@@ -129,6 +129,13 @@ const Blog2 = ({ blog, dele }) => {
     img = 1100;
   }
 
+
+const imageUrl = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`;
+
+const mensaje = `Me interesa el articulo ${blog.producto} *codigo: ${blog.ubicacion}-${blog.img}, precio: RD$ ${blog.precio}* ${imageUrl}`;
+const whatsappUrl = `https://api.whatsapp.com/send/?phone=18098997894&text=${encodeURIComponent(mensaje)}`;
+
+
   const link = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.jpg`;
   const link2 = `.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20https://github.com/JhoniSanchez/img2/blob/master/${img}/${blog.img}.jpg?raw=true`;
   return (
@@ -176,12 +183,16 @@ const Blog2 = ({ blog, dele }) => {
             </button>
           </span>
           <button className="Wa2">
-            <a
+
+            <a target="_blank" href={whatsappUrl}>
+  Enviar mensaje por WhatsApp
+</a>
+            {/* <a
               target="_blank"
               href={`https://api.whatsapp.com/send/?phone=18098997894&text=Hola%20Profe,%20me%20interesa%20el%20articulo%20${blog.producto}%20codigo:%20${blog.ubicacion}-${blog.img}%20`}
             >
               Preguntar por WhatsApp
-            </a>
+            </a> */}
           </button>
         </div>
       </div>

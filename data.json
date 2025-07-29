@@ -239,8 +239,9 @@
     "categoria": "PERSONAL",
     "precio": 200,
     "ubicacion": "C1",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "estado": "APARTADO"
   },
   {
     "id": 23,
@@ -437,8 +438,9 @@
     "categoria": "PERSONAL",
     "precio": 400,
     "ubicacion": "C1",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "estado": "APARTADO"
   },
   {
     "id": 41,
@@ -1000,8 +1002,9 @@
     "categoria": "PERSONAL",
     "precio": 200,
     "ubicacion": "C3",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "estado": "APARTADO"
   },
   {
     "id": 92,
@@ -1892,8 +1895,9 @@
     "categoria": "PERSONAL",
     "precio": 200,
     "ubicacion": "C4",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "estado": "APARTADO"
   },
   {
     "id": 172,
@@ -2993,8 +2997,9 @@
     "categoria": "PERSONAL",
     "precio": 100,
     "ubicacion": "C5",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "estado": "APARTADO"
   },
   {
     "id": 272,
@@ -4200,7 +4205,7 @@
     "id": 380,
     "img": 380,
     "CANT": 1,
-    "producto": "EMVASE DE CRISTAL GRUESO CON TAPA",
+    "producto": "EMVASE DE CRISTAL GRUESO CON TAPA, TAMANO PLATO NORMAL 30CM APX",
     "categoria": "CRISTALES",
     "precio": 500,
     "ubicacion": "C6",
@@ -4336,8 +4341,11 @@
     "categoria": "CRISTALES",
     "precio": 200,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": "28-7-25",
+    "estado": "DANADO",
+    "cliente": "ROMPIO"
   },
   {
     "id": 393,
@@ -4466,7 +4474,7 @@
     "CANT": 1,
     "producto": "SOPERA GRANDE POSTRES BRINDIS LIMPON",
     "categoria": "CRISTALES",
-    "precio": 300,
+    "precio": 500,
     "ubicacion": "C6",
     "mostrar": 1,
     "actualizado": 1
@@ -4479,8 +4487,14 @@
     "categoria": "CRISTALES",
     "precio": 400,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": "29-7-25",
+    "estado": "CREDITO",
+    "montodeventa": 400,
+    "montofinal": 400,
+    "cliente": "GISELLE",
+    "detallecliente": "JOSE LUIS"
   },
   {
     "id": 406,
@@ -4512,8 +4526,14 @@
     "categoria": "CRISTALES",
     "precio": 1000,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": "29-7-25",
+    "estado": "CREDITO",
+    "montodeventa": 1000,
+    "montofinal": 1000,
+    "cliente": "GISELLE",
+    "detallecliente": "JOSE LUIS"
   },
   {
     "id": 409,
