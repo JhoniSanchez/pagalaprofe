@@ -1089,8 +1089,11 @@
     "COD": "C389",
     "precio": 1000,
     "ubicacion": "C3",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "estado": "CONTADO",
+    "cliente": "DEISI CESAR",
+    "comentario": "HIZO PAGO EL SABADO DE 500 Y EL 19 EN LA NOCHE 500 MAS. A MAMI Y LO OTRO 500 YO LOS GUARDE."
   },
   {
     "id": 90,
@@ -1101,7 +1104,7 @@
     "COD": "C390",
     "precio": 1000,
     "ubicacion": "C3",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1,
     "fecha": 45880,
     "estado": "APARTADO",
@@ -1120,7 +1123,8 @@
     "actualizado": 1,
     "fecha": 45866,
     "estado": "APARTADO",
-    "cliente": "MARIELI"
+    "cliente": "MARIELI",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 92,
@@ -2098,7 +2102,8 @@
     "actualizado": 1,
     "fecha": 45866,
     "estado": "APARTADO",
-    "cliente": "MARIELI"
+    "cliente": "MARIELI",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 172,
@@ -2409,11 +2414,10 @@
     "COD": "C4197",
     "precio": 500,
     "ubicacion": "C4",
-    "mostrar": 0,
+    "mostrar": 1,
     "actualizado": 1,
-    "fecha": 45880,
-    "estado": "APARTADO",
-    "cliente": "YESICA"
+    "cliente": "YESICA",
+    "comentario": "11/8/25 APARTADO A YESICA, NO LE GUSTO."
   },
   {
     "id": 198,
@@ -3316,7 +3320,8 @@
     "actualizado": 1,
     "fecha": 45866,
     "estado": "APARTADO",
-    "cliente": "MARIELI"
+    "cliente": "MARIELI",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 272,
@@ -12436,6 +12441,18 @@
     "ubicacion": "CJ",
     "mostrar": 1,
     "actualizado": 1
+  },
+  {
+    "id": 1077,
+    "img": 1061,
+    "CANT": 1,
+    "producto": "TRITURADORA NUTRIBULLET COMO NUEVA",
+    "categoria": "ELECTRODOMESTICO",
+    "COD": "C3-CTA",
+    "precio": 1600,
+    "ubicacion": "C3",
+    "mostrar": 1,
+    "fecha": 1
   }
 ]
 }

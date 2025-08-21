@@ -143,7 +143,7 @@ const whatsappUrl = `https://api.whatsapp.com/send/?phone=18098997894&text=${enc
     // <div className="gallery">{}
     <div
        className={blog.mostrar === 1 ? "gallery-item" : "gallery-item-oculto"}
-      // style={{ display: blog.mostrar == 1 ? "block" : "none" }}
+      style={{ display: blog.mostrar == 1 ? "block" : "none" }}
     >
       <img
         className={blog.mostrar == 1 ? "imgvisible" : "imgoculto"}
