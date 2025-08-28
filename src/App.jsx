@@ -111,6 +111,18 @@ const styles = {
     cursor: "pointer",
     transition: "transform 0.2s, box-shadow 0.2s",
   },
+    button6: {
+    padding: "1rem",
+    fontSize: "1rem",
+    fontWeight: "600",
+    color: "#ffffffff",
+    backgroundColor: "#2b21bbff",
+    border: "3px solid #999",
+    borderRadius: "10px",
+    boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
+    cursor: "pointer",
+    transition: "transform 0.2s, box-shadow 0.2s",
+  },
   todoContainer: {
     width: "100%",
     maxWidth: "400px",
@@ -310,6 +322,15 @@ const App = () => {
     }
     setdisplayContainer("none");
   };
+  const ropabtn = () => {
+    setcategoria("ROPA");
+    console.log(displayContainer);
+
+    if (displayContainer === "none") {
+      return setdisplayContainer("flex");
+    }
+    setdisplayContainer("none");
+  };
 
   const cerrar = () => {
     // setcategoria("COCINA");
@@ -423,7 +444,7 @@ const App = () => {
     // const RESPONSE = await blogService.getAll()
 
     const primera = datageneral.sort(compararProductosPorPrecio);
-    // const segunda = primera.sort(compararProductosPorAZ);
+    const segunda = primera.sort(compararProductosPorAZ);
     // setBlogs3(segunda);
     // setPrincipalData(segunda);
   };
@@ -668,6 +689,9 @@ const App = () => {
           </button>
           <button style={styles.button5} onClick={ninosBtn2}>
             CARROS
+          </button>
+                <button style={styles.button6} onClick={ropabtn}>
+            ROPA
           </button>
           <button style={styles.button3}>PROXIMAMENTE</button>
         </div>

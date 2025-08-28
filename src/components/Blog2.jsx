@@ -128,6 +128,12 @@ const Blog2 = ({ blog, dele }) => {
   } else if (Number(blog.img) < 1100) {
     img = 1100;
   }
+   else if (Number(blog.img) < 1500) {
+    img = 1500;
+  
+  } else if (Number(blog.img) < 1600) {
+    img = 1600;
+  }
 
 
 const imageUrl = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`;
