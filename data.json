@@ -482,7 +482,7 @@
     "id": 40,
     "img": 40,
     "CANT": 1,
-    "producto": "TERMO EN METAL QUE RETIENE CALOR Y FRIO",
+    "producto": "TERMO BLANCO CABALLITO DE MAR Y RAMITAS  EN METAL QUE RETIENE CALOR Y FRIO",
     "categoria": "PERSONAL",
     "COD": "C140",
     "precio": 400,
@@ -774,8 +774,12 @@
     "COD": "C364",
     "precio": 800,
     "ubicacion": "C3",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45890,
+    "estado": "credito",
+    "cliente": "maria disla",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 65,
@@ -1021,7 +1025,7 @@
     "mostrar": 0,
     "actualizado": 1,
     "fecha": 45880,
-    "estado": "APARTADO",
+    "estado": "credito",
     "cliente": "DEWIKLA"
   },
   {
@@ -1091,6 +1095,7 @@
     "ubicacion": "C3",
     "mostrar": 0,
     "actualizado": 1,
+    "fecha": 45888,
     "estado": "CONTADO",
     "cliente": "DEISI CESAR",
     "comentario": "HIZO PAGO EL SABADO DE 500 Y EL 19 EN LA NOCHE 500 MAS. A MAMI Y LO OTRO 500 YO LOS GUARDE."
@@ -1122,8 +1127,8 @@
     "mostrar": 0,
     "actualizado": 1,
     "fecha": 45866,
-    "estado": "APARTADO",
-    "cliente": "MARIELI",
+    "estado": "credito",
+    "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
   {
@@ -1811,7 +1816,8 @@
     "actualizado": 1,
     "fecha": 45880,
     "estado": "CREDITO",
-    "cliente": "YESICA"
+    "cliente": "yesica",
+    "detallecliente": "colegio"
   },
   {
     "id": 148,
@@ -2101,8 +2107,8 @@
     "mostrar": 0,
     "actualizado": 1,
     "fecha": 45866,
-    "estado": "APARTADO",
-    "cliente": "MARIELI",
+    "estado": "credito",
+    "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
   {
@@ -3318,8 +3324,8 @@
     "mostrar": 0,
     "actualizado": 1,
     "fecha": 45866,
-    "estado": "APARTADO",
-    "cliente": "MARIELI",
+    "estado": "credito",
+    "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
   {
@@ -3666,8 +3672,11 @@
     "COD": "C5299",
     "precio": 150,
     "ubicacion": "C5",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45893,
+    "estado": "credito",
+    "cliente": "elva santos"
   },
   {
     "id": 300,
@@ -3853,7 +3862,7 @@
     "mostrar": 0,
     "actualizado": 1,
     "fecha": 45880,
-    "estado": "APARTADO",
+    "estado": "credito",
     "cliente": "DEWILKA"
   },
   {
@@ -4118,8 +4127,12 @@
     "COD": "C6336",
     "precio": 250,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45890,
+    "estado": "credito",
+    "cliente": "maria disla",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 337,
@@ -4661,7 +4674,7 @@
     "mostrar": 0,
     "actualizado": 1,
     "fecha": 45880,
-    "estado": "APARTADO",
+    "estado": "credito",
     "cliente": "PURA",
     "detallecliente": "COLEGIO"
   },
@@ -4722,8 +4735,12 @@
     "COD": "C6386",
     "precio": 300,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45897,
+    "estado": "credito",
+    "cliente": "MARIELYS",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 387,
@@ -4796,7 +4813,7 @@
     "ubicacion": "C6",
     "mostrar": 0,
     "actualizado": 1,
-    "fecha": "28-7-25",
+    "fecha": 45866,
     "estado": "DANADO",
     "cliente": "ROMPIO"
   },
@@ -5196,7 +5213,7 @@
     "mostrar": 0,
     "actualizado": 1,
     "fecha": 45880,
-    "estado": "APARTADO",
+    "estado": "credito",
     "cliente": "DEWILKA"
   },
   {
@@ -5316,8 +5333,12 @@
     "COD": "CR434",
     "precio": 200,
     "ubicacion": "CR",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45897,
+    "estado": "credito",
+    "cliente": "MARIELYS",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 435,
@@ -5329,10 +5350,7 @@
     "precio": 500,
     "ubicacion": "CR",
     "mostrar": 1,
-    "actualizado": 1,
-    "fecha": 45880,
-    "estado": "APARTADO",
-    "cliente": "BLASINA"
+    "actualizado": 1
   },
   {
     "id": 436,
@@ -5356,10 +5374,7 @@
     "precio": 250,
     "ubicacion": "CR",
     "mostrar": 1,
-    "actualizado": 1,
-    "fecha": 45880,
-    "estado": "APARTADO",
-    "cliente": "BLASINA"
+    "actualizado": 1
   },
   {
     "id": 438,
@@ -6744,7 +6759,7 @@
     "ubicacion": "CT",
     "mostrar": 0,
     "actualizado": 1,
-    "fecha": "30-06-2025",
+    "fecha": 45838,
     "estado": "saldo",
     "montodeventa": 600,
     "montofinal": 500,
@@ -12450,9 +12465,12 @@
     "COD": "C3-CTA",
     "precio": 1600,
     "ubicacion": "C3",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1,
-    "fecha": 1
+    "fecha": 45888,
+    "estado": "credito",
+    "cliente": "MARIELYS",
+    "detallecliente": "COLEGIO"
   },
   {
     "id": 1078,
@@ -12460,7 +12478,7 @@
     "CANT": 1,
     "producto": "CAMISA BLANCA L 16 ½ 32/33",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12471,7 +12489,7 @@
     "CANT": 1,
     "producto": "BLUSA ROJA THOMY BAHAMA S/P",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12482,7 +12500,7 @@
     "CANT": 1,
     "producto": "BLUSA DE FLORECITAS CAMILA CASUAL USA 8",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12493,7 +12511,7 @@
     "CANT": 1,
     "producto": "CONJUNTO CAMA PARA BEBE CREMA CON VERDE",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12504,7 +12522,7 @@
     "CANT": 1,
     "producto": "PANTALON DE TELA RALLAS ROJAS ROSA Y NEGRAS TOTAL GIRL S ⅞",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12515,7 +12533,7 @@
     "CANT": 1,
     "producto": "BLUSA AMARILLA NASTY GAL US 0",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12526,7 +12544,7 @@
     "CANT": 1,
     "producto": "FRANELA MORADA CRAZY M 7-8",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12537,7 +12555,7 @@
     "CANT": 1,
     "producto": "ABRIGO ROJO CAT JACK M 8-10",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12548,7 +12566,7 @@
     "CANT": 1,
     "producto": "ABRIGO CREMA LARGO GRUESO ZARA USA S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12559,7 +12577,7 @@
     "CANT": 1,
     "producto": "BLUSA AZUL CON BLANCO CHINA M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12570,7 +12588,7 @@
     "CANT": 1,
     "producto": "PANTALON DE RAYAS ROJAS Y BLANCAS SIMPLE JOYS 8",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12581,7 +12599,7 @@
     "CANT": 1,
     "producto": "ABRIGO GRIS CLARO NIKE 6",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12592,7 +12610,7 @@
     "CANT": 1,
     "producto": "PANTALON GRIS KAKI PLACE 6",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12603,7 +12621,7 @@
     "CANT": 1,
     "producto": "SUETER GIRS CON NEGRO HARD 10/12",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12614,7 +12632,7 @@
     "CANT": 1,
     "producto": "ABRIGO GRIS CON BALNCO EXPRESS XS TP",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12625,7 +12643,7 @@
     "CANT": 1,
     "producto": "PANTALON DE EMBARAZADA CREMA MOTHERHOOD US S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12636,7 +12654,7 @@
     "CANT": 1,
     "producto": "JONSU CUADRITOS AMARILLO CON BLANCO OLD NAVY S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12647,7 +12665,7 @@
     "CANT": 1,
     "producto": "ABRIGO ROJO BLANCO Y NEGRO KIMROGERS M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12658,7 +12676,7 @@
     "CANT": 1,
     "producto": "BLUSA MORADA GENERICA M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12669,7 +12687,7 @@
     "CANT": 1,
     "producto": "ABRIGO ROSA Y BLANCO DE RAYA WONDER NATION M 7-8",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12680,7 +12698,7 @@
     "CANT": 1,
     "producto": "SUETER GRIS CON BALNCO HOLLISTER M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12691,7 +12709,7 @@
     "CANT": 1,
     "producto": "PANTALON BLANCO ARNALDO 6",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12702,7 +12720,7 @@
     "CANT": 1,
     "producto": "CAMISA CREMA UNIFORME M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12713,7 +12731,7 @@
     "CANT": 1,
     "producto": "BLUSA SACO BLANCO LAURA TYLER APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12724,7 +12742,7 @@
     "CANT": 1,
     "producto": "BLUSA HOJAS AMARILLAS MENGSI M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12735,7 +12753,7 @@
     "CANT": 1,
     "producto": "BLUSA BLANCA S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12746,7 +12764,7 @@
     "CANT": 1,
     "producto": "JONSU BEBE VERDE CLARO 6-9 M ",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12757,7 +12775,7 @@
     "CANT": 1,
     "producto": "ABRIGO BLANCO DE BOLITAS NEGRAS LOFT L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12768,7 +12786,7 @@
     "CANT": 1,
     "producto": "VESTIDO CORTO BOLITAS CUADRITOS NEGROS TORY BRUCH S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12779,7 +12797,7 @@
     "CANT": 1,
     "producto": "CAMISA BLANCA DE RAYAS AZULES LOGG US 2",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12790,7 +12808,7 @@
     "CANT": 1,
     "producto": "BLUSA SACO BLANCO LAURA TYLER APX M SIN ETIQUETA",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12801,7 +12819,7 @@
     "CANT": 1,
     "producto": "BLUSA EN CONJUTNO CREMA POLLY US 2",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12812,7 +12830,7 @@
     "CANT": 1,
     "producto": "ABRIGO ROJO BESSERBAY 120",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12823,7 +12841,7 @@
     "CANT": 1,
     "producto": "SUETER NARANJA CAT JACK L 12/14",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12834,7 +12852,7 @@
     "CANT": 1,
     "producto": "ABRIGO AMARILLO SYF S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12845,7 +12863,7 @@
     "CANT": 1,
     "producto": "ABRIGO ROJO NIKE L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12856,7 +12874,7 @@
     "CANT": 1,
     "producto": "ABRIGO ROJO NIKE XL",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12867,7 +12885,7 @@
     "CANT": 1,
     "producto": "JONSU BEBE FLORECITAS 9 M ",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12878,7 +12896,7 @@
     "CANT": 1,
     "producto": "ABRIGO GRIS CON ESTAMPILLAS OKIE DOKIE BLANCAS 5T",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12889,7 +12907,7 @@
     "CANT": 1,
     "producto": "PANTALON CORTO  ROJO XL 18/20",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12900,7 +12918,7 @@
     "CANT": 1,
     "producto": "ABRIGO ROJO CON BLANCO PLACE M ⅞",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12911,7 +12929,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM MORADO M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12922,7 +12940,7 @@
     "CANT": 1,
     "producto": "ABRIGO VERDE DINOSAURIO PLACE S/P 5/6",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12933,7 +12951,7 @@
     "CANT": 1,
     "producto": "SUETER NEGRO ADIDAS S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12944,7 +12962,7 @@
     "CANT": 1,
     "producto": "ABRIGO NEGRO GRUESO SPIRIT US XL",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12955,7 +12973,7 @@
     "CANT": 1,
     "producto": "BLUSA NEGRA MICHAEL KORS  S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12966,7 +12984,7 @@
     "CANT": 1,
     "producto": "ABRIGO NEGRO COLLECTON JM XXL",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12977,7 +12995,7 @@
     "CANT": 1,
     "producto": "ABRIGO NEGRO TIME TRU XL 16-18",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12988,7 +13006,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO CNTENTA APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -12999,7 +13017,7 @@
     "CANT": 1,
     "producto": "PANTALON CORTO NEGRO USA 02",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13010,7 +13028,7 @@
     "CANT": 1,
     "producto": "ABRIGO NEGRO GRUESO CHARTER CLUB PM",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13021,7 +13039,7 @@
     "CANT": 1,
     "producto": "BLUSA SIN MANGAS AZUL NEW YORK COMPANY S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13032,7 +13050,7 @@
     "CANT": 1,
     "producto": "ABRIGO VERDE J CREW XS ",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13043,7 +13061,7 @@
     "CANT": 1,
     "producto": "SUETER NEGRO OLD NAVY SP",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13054,7 +13072,7 @@
     "CANT": 1,
     "producto": "SUETER NEGRO OLD NAVY SP V2",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13065,7 +13083,7 @@
     "CANT": 1,
     "producto": "BLUSA NEGRA EVEN S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13076,7 +13094,7 @@
     "CANT": 1,
     "producto": "ABRIGO AZUL DE RAYA  CON BLANCO TALBOT MP",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13087,7 +13105,7 @@
     "CANT": 1,
     "producto": "SUETER AZUL CLARO Y OSCURO M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13098,7 +13116,7 @@
     "CANT": 1,
     "producto": "ABRIGO AZUL CON BLANCO ATLETIC WORK M 32 34",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13109,7 +13127,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM NEGRO Y GRIS M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13120,7 +13138,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM NEGRO L-G 10-12 M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13131,7 +13149,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO KALVIN KELIN S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13142,7 +13160,7 @@
     "CANT": 1,
     "producto": "ABRIGO NEGRO GRUESO LAUREN S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13153,7 +13171,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS SLIM BOOT ¾ L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13164,7 +13182,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS SKINNY 25 711",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13175,7 +13193,7 @@
     "CANT": 1,
     "producto": "PANTALON CORTO ROJO ROSA PAISAJE S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13186,7 +13204,7 @@
     "CANT": 1,
     "producto": "JONSU AZUL MARINO HOT DELICIOUS S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13197,7 +13215,7 @@
     "CANT": 1,
     "producto": "PANTALON ROJO VINO STRETCHTECH M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13208,7 +13226,7 @@
     "CANT": 1,
     "producto": "ABRIGO AMARILLO THALIA M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13219,7 +13237,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM UNDER AMOUNT S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13230,7 +13248,7 @@
     "CANT": 1,
     "producto": "SUETER AZUL OSCURO L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13241,7 +13259,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO C EST 0",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13252,7 +13270,7 @@
     "CANT": 1,
     "producto": "PANTALON CORTO AZUL CALRO Y OSCURO M APX",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13263,7 +13281,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS BKE  24 X 31 ½ ",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13274,7 +13292,7 @@
     "CANT": 1,
     "producto": "CAMISA JEANS AZUL FASHION HOUSE M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13285,7 +13303,7 @@
     "CANT": 1,
     "producto": "ABRIGO MORADO DECREE L/G",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13296,7 +13314,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS CHEROKE 16",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13307,7 +13325,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM NEGRO LACITO VERDE APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13318,7 +13336,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS MYTHOS EU 34",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13329,7 +13347,7 @@
     "CANT": 1,
     "producto": "PANTALON DE TELA AZUL EXPRESS M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13340,7 +13358,7 @@
     "CANT": 1,
     "producto": "PANTALON DE TELA VERDE OLIVO S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13351,7 +13369,7 @@
     "CANT": 1,
     "producto": "PANTALON DE EMBARAZADA JEANS INBDIGO BLUE XS/TP",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13362,7 +13380,7 @@
     "CANT": 1,
     "producto": "FRANELA AZUL L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13373,7 +13391,7 @@
     "CANT": 1,
     "producto": "PANTALON DE TELA NEGRO ESTI COUTURE M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13384,7 +13402,7 @@
     "CANT": 1,
     "producto": "PANTALON DE EMBARAZADA NEGRO APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13395,7 +13413,7 @@
     "CANT": 1,
     "producto": "JONSU BEBE LITTLE 3-6M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13406,7 +13424,7 @@
     "CANT": 1,
     "producto": "FRANELA AZUL UNA MANGA APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13417,7 +13435,7 @@
     "CANT": 1,
     "producto": "BLUSA NEGRA PRIVY APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13428,7 +13446,7 @@
     "CANT": 1,
     "producto": "JONSU ESTAMPADO ROJO AMARILLO AZUL  L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13439,7 +13457,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS AZUL CRITHOFER BLUE 6",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13450,7 +13468,7 @@
     "CANT": 1,
     "producto": "PANTALON DE EMBARAZADA NEGRO M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13461,7 +13479,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM NEGRO APX S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13472,7 +13490,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS CLARO AMERICAN EAGLE NE X LEVEL  STRETCH ",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13483,7 +13501,7 @@
     "CANT": 1,
     "producto": "ABRIGO GRIS POKEMON OLD NAVY L 10-12",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13494,7 +13512,7 @@
     "CANT": 1,
     "producto": "BLUSA DESGRADADOS AZULES Y ESTAMPAS NORACORA L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13505,7 +13523,7 @@
     "CANT": 1,
     "producto": "4 ALFOMBRAS DE AUTO FRONT 68*44 REAR 44*33 CM OXGORD.COM",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13516,7 +13534,7 @@
     "CANT": 1,
     "producto": "ABRIGO VERDE TAHARI M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13527,7 +13545,7 @@
     "CANT": 1,
     "producto": "BLUSA GRIS ABRIGO GIRS M APX",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13538,7 +13556,7 @@
     "CANT": 1,
     "producto": "CAPUCHA DE BRUJA DE HARRI POTER",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13549,7 +13567,7 @@
     "CANT": 1,
     "producto": "PANTALON AZUL M APX",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13560,7 +13578,7 @@
     "CANT": 1,
     "producto": "PANTALON DE EMBARAZADA CREMA JESSICA SIMPON SP",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13571,7 +13589,7 @@
     "CANT": 1,
     "producto": "PANTALON MARRON OLD NAVY 0",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13582,7 +13600,7 @@
     "CANT": 1,
     "producto": "PANUELO FINO GRANDE",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13593,7 +13611,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM NEGRO PIOMA M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13604,7 +13622,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO CAT JACK XL 14-16",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13615,7 +13633,7 @@
     "CANT": 1,
     "producto": "BLUSA NEGRA DE BRILLO STREETWEAR S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13626,7 +13644,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO DE RAMITAS BLANCAS APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13637,7 +13655,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS HOLLISTER W 23 L 33",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13648,7 +13666,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM AZUL OLD NAVY M 8",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13659,7 +13677,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM ADIDAS 5",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13670,7 +13688,7 @@
     "CANT": 1,
     "producto": "PANTALON JEANS ROJO 0",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13681,7 +13699,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO CORTO W 28",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13692,7 +13710,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO CORTO NAUTICA 10",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13703,7 +13721,7 @@
     "CANT": 1,
     "producto": "FALDA CORTA AZUL COOLIBAR S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13714,7 +13732,7 @@
     "CANT": 1,
     "producto": "TRAJE DE BAÑO DE FLORES NEGRO Y ROSA APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13725,7 +13743,7 @@
     "CANT": 1,
     "producto": "SUETER CORTO ROSADO WILD FABLE XXL",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13736,7 +13754,7 @@
     "CANT": 1,
     "producto": "PANTALON AZUL CORTO 10",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13747,7 +13765,7 @@
     "CANT": 1,
     "producto": "FRANELA MORADA XS ",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13758,7 +13776,7 @@
     "CANT": 1,
     "producto": "BRAZIER NEGRO XL XG",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13769,7 +13787,7 @@
     "CANT": 1,
     "producto": "PANTALON CORTO JEAN 24",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13780,7 +13798,7 @@
     "CANT": 1,
     "producto": "BERMUDA VERDE XL",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13791,7 +13809,7 @@
     "CANT": 1,
     "producto": "BLUSA AZUL CON NEGRO ATELIER M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13802,7 +13820,7 @@
     "CANT": 1,
     "producto": "BLUSA SIN MANGA AZUL CLARO CON FLORES PAPE TEE M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13813,7 +13831,7 @@
     "CANT": 1,
     "producto": "FALDA CORTA AZUL CAT JACK XS 4/5",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13824,7 +13842,7 @@
     "CANT": 1,
     "producto": "PANTALON DE BAÑO ROSADO Y NEGRO  ROYY 28",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13835,7 +13853,7 @@
     "CANT": 1,
     "producto": "SUETER GRIS OKIE DOKIE XL 7",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13846,7 +13864,7 @@
     "CANT": 1,
     "producto": "SUETER GRIS OSCURO  S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13857,7 +13875,7 @@
     "CANT": 1,
     "producto": "ABRIGO NEGRO UNDER ARMOUND 5",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13868,7 +13886,7 @@
     "CANT": 1,
     "producto": "JONSU BEBE MARVEL 3-6 M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13879,7 +13897,7 @@
     "CANT": 1,
     "producto": "BRAZIER NEGRO HEAD L",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13890,7 +13908,7 @@
     "CANT": 1,
     "producto": "VESTIDO CORTO VERDE TRAFALUC M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13901,7 +13919,7 @@
     "CANT": 1,
     "producto": "ABRIGO AZUL XS 4/5",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13912,7 +13930,7 @@
     "CANT": 1,
     "producto": "PANTALON GYM NEGRO  M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13923,7 +13941,7 @@
     "CANT": 1,
     "producto": "ABRIGO AMARILLO EXPRESS SP",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13934,7 +13952,7 @@
     "CANT": 1,
     "producto": "JONSU AZUL CAT JACK  0-3M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13945,7 +13963,7 @@
     "CANT": 1,
     "producto": "FRANELA NEGRA BROOKS XL",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13956,7 +13974,7 @@
     "CANT": 1,
     "producto": "BLUSA AZUL MARINO CON NEGRO Y BLANCO CHIC MI S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13967,7 +13985,7 @@
     "CANT": 1,
     "producto": "PANTALON NEGRO ADIDAS M 10-12",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13978,7 +13996,7 @@
     "CANT": 1,
     "producto": "ABRIGO MORADO ACTIVE BASIC M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -13989,7 +14007,7 @@
     "CANT": 1,
     "producto": "BUFANDA Y GUANTES GRIS",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14000,7 +14018,7 @@
     "CANT": 1,
     "producto": "BUFANDA VERDE OLIVO ATP 9",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14011,7 +14029,7 @@
     "CANT": 1,
     "producto": "BUFANDA VERDE CLARO",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14022,7 +14040,7 @@
     "CANT": 1,
     "producto": "TRAJE DE BAÑO CREMA ENDLESS S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14033,7 +14051,7 @@
     "CANT": 1,
     "producto": "BLUSA AZUL DE RALLAS FOREVER 21 APX M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14044,7 +14062,7 @@
     "CANT": 1,
     "producto": "JONSU BEBE AZUL HEALTH TEXT 24 MOS",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14055,7 +14073,7 @@
     "CANT": 1,
     "producto": "BLUSA BLANCA 1 MANGA ZAVEKIA S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14066,7 +14084,7 @@
     "CANT": 1,
     "producto": "BLUSA BLANCA FOREVER M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14077,7 +14095,7 @@
     "CANT": 1,
     "producto": "CONJUNTO BLANCO BLUSA Y FALDA MENSI S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14088,7 +14106,7 @@
     "CANT": 1,
     "producto": "VESTIDO DE FLORES Y HOJAS S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
@@ -14099,7 +14117,7 @@
     "CANT": 1,
     "producto": "BUFANDA AZUL ",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 0,
     "ubicacion": "CT2",
     "mostrar": 1,
     "actualizado": 1
