@@ -625,8 +625,9 @@
     "COD": "C252",
     "precio": 200,
     "ubicacion": "C2",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "AL 01092025 SE SUSTITUYE IMAGEN POR UNA NUEVA PARA ENMENDAR LA CORRECCION DEL PRECIO QUE ESTABA MUUY POR DEBAJO "
   },
   {
     "id": 53,
@@ -2415,10 +2416,10 @@
     "id": 197,
     "img": 197,
     "CANT": 1,
-    "producto": "TERMO METALICO CAFÉ",
+    "producto": "TERMO METALICO CAFÉ UNOS 35 CM",
     "categoria": "PERSONAL",
     "COD": "C4197",
-    "precio": 500,
+    "precio": 700,
     "ubicacion": "C4",
     "mostrar": 1,
     "actualizado": 1,
@@ -2665,7 +2666,7 @@
     "COD": "C4217",
     "precio": 500,
     "ubicacion": "C4",
-    "mostrar": 0,
+    "mostrar": 1,
     "actualizado": 0
   },
   {
@@ -4167,7 +4168,7 @@
     "COD": "C6339",
     "precio": 500,
     "ubicacion": "C6",
-    "mostrar": 1,
+    "mostrar": 0,
     "actualizado": 1
   },
   {
@@ -4654,7 +4655,7 @@
     "id": 380,
     "img": 380,
     "CANT": 1,
-    "producto": "EMVASE DE CRISTAL GRUESO CON TAPA, TAMANO PLATO NORMAL 30CM APX",
+    "producto": "ENVASE DE CRISTAL GRUESO CON TAPA, TAMANO PLATO NORMAL 30CM APX",
     "categoria": "CRISTALES",
     "COD": "C6380",
     "precio": 500,
@@ -7037,8 +7038,9 @@
     "COD": "C1574",
     "precio": 500,
     "ubicacion": "C1",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "comentario": "AL 01092025 SE CA,BA IMAGEN PARA JUSTIFICAR LA CORRECION DE PRECIOS . REF 1550 IMG"
   },
   {
     "id": 575,
@@ -14119,6 +14121,118 @@
     "categoria": "ROPA",
     "precio": 0,
     "ubicacion": "CT2",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1228,
+    "img": 1550,
+    "CANT": 1,
+    "producto": "ENVASE TERMICO PARA ALIMENTOS CON CUCHARA CROMADO COMO NUEVO",
+    "categoria": "PERSONAL",
+    "precio": 800,
+    "ubicacion": "C1",
+    "mostrar": 1,
+    "actualizado": 1,
+    "comentario": "AL 01092025 ESTE ERA EL ENVASE DE COMIDA AZUL."
+  },
+  {
+    "id": 1229,
+    "img": 1551,
+    "CANT": 1,
+    "producto": "LA CASA DE COLORES FELICES",
+    "categoria": "ADORNOS",
+    "precio": 600,
+    "ubicacion": "C2",
+    "mostrar": 1,
+    "actualizado": 1,
+    "comentario": "REF CASITA. CAMBIO DE IMAGEN"
+  },
+  {
+    "id": 1230,
+    "img": 1552,
+    "CANT": 1,
+    "producto": "JUEGO DE CAMA BLANCO GRANDE KING",
+    "categoria": "HOGAR",
+    "precio": 1900,
+    "ubicacion": "CT",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1231,
+    "img": 1553,
+    "CANT": 1,
+    "producto": "JUEGO DE FUNDAS DE ALMOHADAS HOTAL COLECCION CREMA",
+    "categoria": "HOGAR",
+    "precio": 500,
+    "ubicacion": "CT",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1232,
+    "img": 1554,
+    "CANT": 1,
+    "producto": "JUEGO DE CAMA CON DOS FUNDAS DE ALMOHADAS K/CK INK+IVY",
+    "categoria": "HOGAR",
+    "precio": 2600,
+    "ubicacion": "CT",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1233,
+    "img": 1555,
+    "CANT": 1,
+    "producto": "TOALLA NEGRA GRUSA",
+    "categoria": "HOGAR",
+    "precio": 700,
+    "ubicacion": "CT",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1234,
+    "img": 1556,
+    "CANT": 1,
+    "producto": "SALVAVIDAS BEBE PEZ AZUL  INFLABLE",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CT",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1235,
+    "img": 1557,
+    "CANT": 1,
+    "producto": "SALVAVIDAS PEZ MAMIE INFLABLE",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "CT",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1236,
+    "img": 1558,
+    "CANT": 1,
+    "producto": "SALVAVIDAS CHALECO POOL SCHOOL INTEX",
+    "categoria": "NIÑOS",
+    "precio": 600,
+    "ubicacion": "CT",
+    "mostrar": 1,
+    "actualizado": 1
+  },
+  {
+    "id": 1237,
+    "img": 1559,
+    "CANT": 1,
+    "producto": "SALVAVIDAS BARQUITO NEGRO Y ROJO PILICE 911",
+    "categoria": "NIÑOS",
+    "precio": 500,
+    "ubicacion": "CT",
     "mostrar": 1,
     "actualizado": 1
   }
