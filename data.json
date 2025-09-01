@@ -263,12 +263,13 @@
     "ubicacion": "C1",
     "mostrar": 0,
     "actualizado": 1,
-    "fecha": 45877,
-    "estado": "CREDITO",
+    "fecha": 45901,
+    "estado": "SALDO",
     "montodeventa": 200,
     "montofinal": 200,
     "cliente": "ESTEFANI",
-    "detallecliente": "COLEGIO"
+    "detallecliente": "COLEGIO",
+    "comentario": "AL 01092025 SALDO CON 600"
   },
   {
     "id": 23,
@@ -489,12 +490,13 @@
     "ubicacion": "C1",
     "mostrar": 0,
     "actualizado": 1,
-    "fecha": 45877,
-    "estado": "CREDITO",
+    "fecha": 45901,
+    "estado": "SALDO",
     "montodeventa": 400,
     "montofinal": 400,
     "cliente": "ESTEFANI",
-    "detallecliente": "COLEGIO"
+    "detallecliente": "COLEGIO",
+    "comentario": "AL 01092025 SALDO CON 600"
   },
   {
     "id": 41,
@@ -2970,8 +2972,11 @@
     "COD": "C5242",
     "precio": 150,
     "ubicacion": "C5",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "apartado",
+    "cliente": "MARIELYS"
   },
   {
     "id": 243,
@@ -4288,8 +4293,11 @@
     "COD": "C6349",
     "precio": 200,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "apartado",
+    "cliente": "yohanna"
   },
   {
     "id": 350,
@@ -4360,8 +4368,11 @@
     "COD": "C6355",
     "precio": 250,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "apartado",
+    "cliente": "DEWIKLA"
   },
   {
     "id": 356,
@@ -4827,8 +4838,11 @@
     "COD": "C6393",
     "precio": 300,
     "ubicacion": "C6",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "APARTADO",
+    "cliente": "BLASINA"
   },
   {
     "id": 394,
@@ -5238,8 +5252,11 @@
     "COD": "CR426",
     "precio": 1000,
     "ubicacion": "CR",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "apartado",
+    "cliente": "vitico"
   },
   {
     "id": 427,
@@ -6106,8 +6123,11 @@
     "COD": "CC498",
     "precio": 500,
     "ubicacion": "CC",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "apartado",
+    "cliente": "yohanna"
   },
   {
     "id": 499,
@@ -6406,8 +6426,11 @@
     "COD": "CC523",
     "precio": 400,
     "ubicacion": "CC",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "APARTADO",
+    "cliente": "YOHANNA"
   },
   {
     "id": 524,
@@ -6682,8 +6705,11 @@
     "COD": "CC546",
     "precio": 400,
     "ubicacion": "CC",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "APARTADO",
+    "cliente": "YOHANNA"
   },
   {
     "id": 547,
@@ -6720,10 +6746,11 @@
     "ubicacion": "CT",
     "mostrar": 0,
     "actualizado": 1,
-    "fecha": 45880,
-    "estado": "APARTADO",
+    "fecha": 45899,
+    "estado": "SALDO",
     "cliente": "MARIEL",
-    "detallecliente": "IGLESIA"
+    "detallecliente": "IGLESIA",
+    "comentario": "APARTADO EL 11-08-25"
   },
   {
     "id": 550,
@@ -7051,8 +7078,11 @@
     "COD": "C1575",
     "precio": 500,
     "ubicacion": "C1",
-    "mostrar": 1,
-    "actualizado": 1
+    "mostrar": 0,
+    "actualizado": 1,
+    "fecha": 45901,
+    "estado": "apartado",
+    "cliente": "yesica"
   },
   {
     "id": 576,
@@ -12469,10 +12499,11 @@
     "ubicacion": "C3",
     "mostrar": 0,
     "actualizado": 1,
-    "fecha": 45888,
-    "estado": "credito",
+    "fecha": 45901,
+    "estado": "SALDO",
     "cliente": "MARIELYS",
-    "detallecliente": "COLEGIO"
+    "detallecliente": "COLEGIO",
+    "comentario": "EL 01092025 ENTREGO 1600. QUE FUERON DADOS EN DOS PARTIDAS, 1100 Y 500."
   },
   {
     "id": 1078,
@@ -14146,6 +14177,9 @@
     "ubicacion": "C2",
     "mostrar": 1,
     "actualizado": 1,
+    "fecha": 45901,
+    "estado": "APARTADO",
+    "cliente": "marielys",
     "comentario": "REF CASITA. CAMBIO DE IMAGEN"
   },
   {
