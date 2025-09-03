@@ -127,20 +127,22 @@ const Blog2 = ({ blog, dele }) => {
     img = 1000;
   } else if (Number(blog.img) < 1100) {
     img = 1100;
-  }
-   else if (Number(blog.img) < 1500) {
+  } else if (Number(blog.img) < 1500) {
     img = 1500;
-  
   } else if (Number(blog.img) < 1600) {
     img = 1600;
+  } else if (Number(blog.img) < 1700) {
+    img = 1700;
+  } else if (Number(blog.img) < 1800) {
+    img = 1800;
   }
 
+  const imageUrl = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`;
 
-const imageUrl = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`;
-
-const mensaje = `Me interesa el articulo ${blog.producto} *codigo: ${blog.ubicacion}-${blog.img}, precio: RD$ ${blog.precio}* ${imageUrl}`;
-const whatsappUrl = `https://api.whatsapp.com/send/?phone=18098997894&text=${encodeURIComponent(mensaje)}`;
-
+  const mensaje = `Me interesa el articulo ${blog.producto} *codigo: ${blog.ubicacion}-${blog.img}, precio: RD$ ${blog.precio}* ${imageUrl}`;
+  const whatsappUrl = `https://api.whatsapp.com/send/?phone=18098997894&text=${encodeURIComponent(
+    mensaje
+  )}`;
 
   const link = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.jpg`;
   const link2 = `.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20.%20https://github.com/JhoniSanchez/img2/blob/master/${img}/${blog.img}.jpg?raw=true`;
@@ -148,7 +150,7 @@ const whatsappUrl = `https://api.whatsapp.com/send/?phone=18098997894&text=${enc
     // <div className="blogbody">
     // <div className="gallery">{}
     <div
-       className={blog.mostrar === 1 ? "gallery-item" : "gallery-item-oculto"}
+      className={blog.mostrar === 1 ? "gallery-item" : "gallery-item-oculto"}
       style={{ display: blog.mostrar == 1 ? "block" : "none" }}
     >
       <img
@@ -156,28 +158,44 @@ const whatsappUrl = `https://api.whatsapp.com/send/?phone=18098997894&text=${enc
         ref={imgRef}
         src={
           // isVisible && blog.mostrar == 1
-            // ? 
-            `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`
-            // : ""
+          // ?
+          `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`
+          // : ""
         }
         alt=""
         loading="lazy"
         onClick={() => vert()}
       />
       <div className="ppp">
-        <div className="price2">{blog.mostrar == 0? "NO DISPONIBLE" : <span>RD$ {blog.precio} </span>} </div>
+        <div className="price2">
+          {blog.mostrar == 0 ? (
+            "NO DISPONIBLE"
+          ) : (
+            <span>RD$ {blog.precio} </span>
+          )}{" "}
+        </div>
         <div className="cod">
-          {<p> </p>} {<p> </p>} 
-          { blog.ubicacion}
+          {<p> </p>} {<p> </p>}
+          {blog.ubicacion}
           {blog.img}
         </div>
       </div>
 
       <div className="item-details">
         <div className="ver" style={{ display: ver ? "block" : "none" }}>
-          {blog.mostrar === 0 ? "No disponible" : <span> {blog.producto} </span>}
+          {blog.mostrar === 0 ? (
+            "No disponible"
+          ) : (
+            <span> {blog.producto} </span>
+          )}
 
-          <p className="price">{blog.mostrar === 0 ? "No disponible" : <span>RD$ {blog.precio} </span>}</p>
+          <p className="price">
+            {blog.mostrar === 0 ? (
+              "No disponible"
+            ) : (
+              <span>RD$ {blog.precio} </span>
+            )}
+          </p>
           <span className="Wa">
             <button>
               <a
@@ -189,10 +207,9 @@ const whatsappUrl = `https://api.whatsapp.com/send/?phone=18098997894&text=${enc
             </button>
           </span>
           <button className="Wa2">
-
             <a target="_blank" href={whatsappUrl}>
-  Enviar mensaje por WhatsApp
-</a>
+              Enviar mensaje por WhatsApp
+            </a>
             {/* <a
               target="_blank"
               href={`https://api.whatsapp.com/send/?phone=18098997894&text=Hola%20Profe,%20me%20interesa%20el%20articulo%20${blog.producto}%20codigo:%20${blog.ubicacion}-${blog.img}%20`}
