@@ -166,7 +166,7 @@
     "producto": "SILLA",
     "categoria": "ADORNOS",
     "COD": "C117",
-    "precio": 100,
+    "precio": 200,
     "ubicacion": "C1",
     "mostrar": 1
   },
@@ -186,7 +186,7 @@
     "producto": "MUÑECA",
     "categoria": "ADORNOS",
     "COD": "C119",
-    "precio": 100,
+    "precio": 250,
     "ubicacion": "C1",
     "mostrar": 1
   },
@@ -323,7 +323,7 @@
     "producto": "LAMPARA DE FUEGO",
     "categoria": "ADORNOS",
     "COD": "C132",
-    "precio": 50,
+    "precio": 150,
     "ubicacion": "C1",
     "mostrar": 1
   },
@@ -348,6 +348,17 @@
     "mostrar": 1
   },
   {
+    "id": 35,
+    "img": 49,
+    "CANT": 2,
+    "producto": "UN ADORNO ARTESANAL SOLUCION EN GRANOS CONSERVAS",
+    "categoria": "ADORNOS",
+    "COD": "C149",
+    "precio": 150,
+    "ubicacion": "C1",
+    "mostrar": 1
+  },
+  {
     "id": 36,
     "img": 36,
     "producto": "MINI PESO ELECTRONICO DE MANO",
@@ -366,8 +377,8 @@
     "precio": 100,
     "ubicacion": "C1",
     "mostrar": 0,
-    "fecha": 45878,
-    "estado": "CREDITO",
+    "fecha": 45904,
+    "estado": "SALDO",
     "cliente": "yesica",
     "detallecliente": "colegio"
   },
@@ -489,17 +500,6 @@
     "mostrar": 1
   },
   {
-    "id": 35,
-    "img": 49,
-    "CANT": 2,
-    "producto": "UN ADORNO ARTESANAL SOLUCION EN GRANOS CONSERVAS",
-    "categoria": "ADORNOS",
-    "COD": "C149",
-    "precio": 150,
-    "ubicacion": "C1",
-    "mostrar": 1
-  },
-  {
     "id": 50,
     "img": 50,
     "producto": "ENVASE DE LAVAR VEGETALES GRANDE REDONDO",
@@ -586,7 +586,7 @@
     "producto": "LAMPARA DE MESA VERDE 1",
     "categoria": "ELECTRODOMESTICO",
     "COD": "C258",
-    "precio": 1000,
+    "precio": 2300,
     "ubicacion": "C2",
     "mostrar": 1
   },
@@ -596,7 +596,7 @@
     "producto": "LAMPARA DE MESA VERDE 2",
     "categoria": "ELECTRODOMESTICO",
     "COD": "C259",
-    "precio": 1000,
+    "precio": 2300,
     "ubicacion": "C2",
     "mostrar": 1
   },
@@ -621,7 +621,7 @@
     "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "COD": "C261",
-    "precio": 150,
+    "precio": 200,
     "ubicacion": "C2",
     "mostrar": 1
   },
@@ -788,8 +788,8 @@
     "precio": 500,
     "ubicacion": "C3",
     "mostrar": 0,
-    "fecha": 45878,
-    "estado": "CREDITO",
+    "fecha": 45904,
+    "estado": "SALDO",
     "cliente": "yesica",
     "detallecliente": "colegio"
   },
@@ -988,10 +988,10 @@
   {
     "id": 95,
     "img": 95,
-    "producto": "DOS BARCOS",
+    "producto": "DOS BARCOS 125 cu",
     "categoria": "ADORNOS",
     "COD": "C395",
-    "precio": 200,
+    "precio": 125,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1011,7 +1011,7 @@
     "producto": "PORTA VELAS",
     "categoria": "ADORNOS",
     "COD": "C397",
-    "precio": 100,
+    "precio": 200,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1031,7 +1031,7 @@
     "producto": "PORTA VELON",
     "categoria": "ADORNOS",
     "COD": "C399",
-    "precio": 50,
+    "precio": 150,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1061,7 +1061,7 @@
     "producto": "MAQUINA DE CAFÉ",
     "categoria": "ELECTRODOMESTICO",
     "COD": "C3102",
-    "precio": 1000,
+    "precio": 2800,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1081,7 +1081,7 @@
     "producto": "CANTINA DE PERRO",
     "categoria": "PERSONAL",
     "COD": "C3104",
-    "precio": 200,
+    "precio": 400,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1111,7 +1111,7 @@
     "producto": "MESITA SOPORTE",
     "categoria": "ADORNOS",
     "COD": "C3107",
-    "precio": 100,
+    "precio": 200,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1121,7 +1121,7 @@
     "producto": "ESTRUCTURA ARTISTICA METALICA",
     "categoria": "ADORNOS",
     "COD": "C3108",
-    "precio": 200,
+    "precio": 350,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1283,7 +1283,7 @@
     "producto": "JUEGO DE PORTAVELAS",
     "categoria": "ADORNOS",
     "COD": "C3123",
-    "precio": 150,
+    "precio": 300,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1333,7 +1333,7 @@
     "producto": "ESCOBITA DE BRUJAS",
     "categoria": "ADORNOS",
     "COD": "C3128",
-    "precio": 100,
+    "precio": 200,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1617,7 +1617,7 @@
     "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "COD": "C4156",
-    "precio": 100,
+    "precio": 200,
     "ubicacion": "C4",
     "mostrar": 1
   },
@@ -1667,7 +1667,7 @@
     "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "COD": "C4161",
-    "precio": 150,
+    "precio": 200,
     "ubicacion": "C4",
     "mostrar": 1
   },
@@ -1677,7 +1677,7 @@
     "producto": "ADORNO DE PORTA RETRATO",
     "categoria": "ADORNOS",
     "COD": "C4162",
-    "precio": 150,
+    "precio": 200,
     "ubicacion": "C4",
     "mostrar": 1
   },
@@ -2336,7 +2336,7 @@
     "producto": "TABLA MADERA DE PICAR",
     "categoria": "COCINA",
     "COD": "C4227",
-    "precio": 200,
+    "precio": 250,
     "ubicacion": "C4",
     "mostrar": 1
   },
@@ -2389,8 +2389,8 @@
     "precio": 250,
     "ubicacion": "C5",
     "mostrar": 0,
-    "fecha": 45878,
-    "estado": "CREDITO",
+    "fecha": 45904,
+    "estado": "SALDO",
     "cliente": "yesica",
     "detallecliente": "colegio"
   },
@@ -2493,8 +2493,8 @@
     "precio": 150,
     "ubicacion": "C5",
     "mostrar": 0,
-    "fecha": 45901,
-    "estado": "apartado",
+    "fecha": 45904,
+    "estado": "credito",
     "cliente": "MARIELYS"
   },
   {
@@ -2506,8 +2506,8 @@
     "precio": 150,
     "ubicacion": "C5",
     "mostrar": 0,
-    "fecha": 45878,
-    "estado": "CREDITO",
+    "fecha": 45904,
+    "estado": "SALDO",
     "cliente": "yesica",
     "detallecliente": "colegio"
   },
@@ -3499,7 +3499,8 @@
     "COD": "C6339",
     "precio": 200,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo d imagen"
   },
   {
     "id": 340,
@@ -3589,7 +3590,8 @@
     "COD": "C6348",
     "precio": 50,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo d imagen"
   },
   {
     "id": 349,
@@ -3601,7 +3603,7 @@
     "ubicacion": "C6",
     "mostrar": 0,
     "fecha": 45901,
-    "estado": "apartado",
+    "estado": "APARTADO",
     "cliente": "yohanna"
   },
   {
@@ -3663,9 +3665,9 @@
     "precio": 250,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": 45901,
-    "estado": "apartado",
-    "cliente": "DEWIKLA"
+    "fecha": 45904,
+    "estado": "credito",
+    "cliente": "yohanna"
   },
   {
     "id": 356,
@@ -3705,7 +3707,8 @@
     "COD": "C6359",
     "precio": 250,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo d imagen"
   },
   {
     "id": 360,
@@ -3735,7 +3738,8 @@
     "COD": "C6362",
     "precio": 200,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo d imagen"
   },
   {
     "id": 363,
@@ -3775,7 +3779,8 @@
     "COD": "C6366",
     "precio": 250,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo de imagen"
   },
   {
     "id": 367,
@@ -3929,7 +3934,8 @@
     "fecha": 45880,
     "estado": "credito",
     "cliente": "PURA",
-    "detallecliente": "COLEGIO"
+    "detallecliente": "COLEGIO",
+    "comentario": "Al 04/09/2025 ab 500, debe 100"
   },
   {
     "id": 382,
@@ -3969,7 +3975,8 @@
     "COD": "C6385",
     "precio": 250,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo d imagen"
   },
   {
     "id": 386,
@@ -4003,7 +4010,8 @@
     "COD": "C6388",
     "precio": 350,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo d imagen"
   },
   {
     "id": 389,
@@ -4369,7 +4377,8 @@
     "COD": "C6423",
     "precio": 200,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 0,
+    "comentario": "oculto por reemplazo d imagen"
   },
   {
     "id": 424,
@@ -4403,8 +4412,8 @@
     "precio": 1000,
     "ubicacion": "CR",
     "mostrar": 0,
-    "fecha": 45901,
-    "estado": "apartado",
+    "fecha": 45903,
+    "estado": "credito",
     "cliente": "vitico"
   },
   {
@@ -5931,8 +5940,8 @@
     "precio": 500,
     "ubicacion": "C1",
     "mostrar": 0,
-    "fecha": 45901,
-    "estado": "apartado",
+    "fecha": 45904,
+    "estado": "SALDO",
     "cliente": "yesica"
   },
   {
@@ -11828,9 +11837,9 @@
     "categoria": "ADORNOS",
     "precio": 600,
     "ubicacion": "C2",
-    "mostrar": 1,
-    "fecha": 45901,
-    "estado": "APARTADO",
+    "mostrar": 0,
+    "fecha": 45904,
+    "estado": "credito",
     "cliente": "marielys",
     "comentario": "REF CASITA. CAMBIO DE IMAGEN"
   },
