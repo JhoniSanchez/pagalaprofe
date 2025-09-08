@@ -3085,8 +3085,8 @@
     "precio": 150,
     "ubicacion": "C5",
     "mostrar": 0,
-    "fecha": 45893,
-    "estado": "credito",
+    "fecha": 45908,
+    "estado": "SALDO",
     "cliente": "elva santos"
   },
   {
@@ -3908,7 +3908,7 @@
     "producto": "JUEGO PLATOS ESTAMPADOS FRUTAS BLANCO Y RAYAS DORADAS",
     "categoria": "CRISTALES",
     "COD": "C6379",
-    "precio": 600,
+    "precio": 900,
     "ubicacion": "C6",
     "mostrar": 1
   },
@@ -5096,7 +5096,7 @@
     "producto": "CARTERA CREMA RACHELZOE MEDIO GRANDE EN PIEL Y TELA",
     "categoria": "MUJER",
     "COD": "CC494",
-    "precio": 900,
+    "precio": 800,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5106,7 +5106,7 @@
     "producto": "MOCHILA ZARA BASIC PEQUEÑA EN TELA GRUESA TIPO TEJIDO",
     "categoria": "MUJER",
     "COD": "CC495",
-    "precio": 800,
+    "precio": 750,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5159,9 +5159,10 @@
     "producto": "MONEDERO AMARILLO ESTAMPADO LPSY PEQUEÑO  EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC500",
-    "precio": 1500,
+    "precio": 1000,
     "ubicacion": "CC",
-    "mostrar": 0
+    "mostrar": 0,
+    "actualizado": 0
   },
   {
     "id": 501,
@@ -5179,7 +5180,7 @@
     "producto": "CARTERA MAMEI BCBG MEDIO GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC502",
-    "precio": 1500,
+    "precio": 1000,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5199,7 +5200,7 @@
     "producto": "CARTERA MARRON ESTAMPADO EN FLORES MEDIANA EN TELA Y PIEL ",
     "categoria": "MUJER",
     "COD": "CC504",
-    "precio": 800,
+    "precio": 750,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5209,7 +5210,7 @@
     "producto": "CARTERA ROSADA SIONE MEDIO GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC505",
-    "precio": 800,
+    "precio": 750,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5219,7 +5220,7 @@
     "producto": "CARTERA AMARILLA DOONEY BOURKE MEDIO GRANDE EN TEL A Y PIEL ",
     "categoria": "MUJER",
     "COD": "CC506",
-    "precio": 700,
+    "precio": 650,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5239,7 +5240,7 @@
     "producto": "CARTERA MORADA ENZO AMGIDIM GRANDE EN PIEL DE PELO BRILLANTE",
     "categoria": "MUJER",
     "COD": "CC508",
-    "precio": 1500,
+    "precio": 1000,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5249,7 +5250,7 @@
     "producto": "CARTERA MARRON  GENERICA GRANDE EN TELA",
     "categoria": "MUJER",
     "COD": "CC509",
-    "precio": 800,
+    "precio": 750,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5299,7 +5300,7 @@
     "producto": "CARTERA NEGRA VINCE CAMEITO GRANDE EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC514",
-    "precio": 900,
+    "precio": 800,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5309,7 +5310,7 @@
     "producto": "CARTERA MARRO ESTAMPADO COACH GRANDE EN TELA",
     "categoria": "MUJER",
     "COD": "CC515",
-    "precio": 700,
+    "precio": 650,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5319,7 +5320,7 @@
     "producto": "CARTERA AZUL ROSETTI MEDIANA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC516",
-    "precio": 1200,
+    "precio": 900,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5349,7 +5350,7 @@
     "producto": "CARTERA AZUL CALVIN KLEIN PIEL GRANDE",
     "categoria": "MUJER",
     "COD": "CC519",
-    "precio": 1500,
+    "precio": 1000,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5369,7 +5370,7 @@
     "producto": "CARTERA NEGRA COACH 1941 EN PIEL GRANDE ",
     "categoria": "MUJER",
     "COD": "CC521",
-    "precio": 1000,
+    "precio": 850,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5379,7 +5380,7 @@
     "producto": "CARTERA NEGRA TIGNANELO MEDIANA GRUESA PIEL",
     "categoria": "MUJER",
     "COD": "CC522",
-    "precio": 1500,
+    "precio": 1000,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5442,7 +5443,7 @@
     "producto": "CARTERA CREMA COACH 1941 MEDIANA EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC528",
-    "precio": 1000,
+    "precio": 850,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5452,7 +5453,7 @@
     "producto": "CARTERA CREMA OSCURO LAUREN MEDIO GRANDE PIEL ",
     "categoria": "MUJER",
     "COD": "CC529",
-    "precio": 1200,
+    "precio": 900,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5462,7 +5463,7 @@
     "producto": "CARTERA ROSADA Y CREMA COACH MEDIANA  EN TELA  PIEL",
     "categoria": "MUJER",
     "COD": "CC530",
-    "precio": 1400,
+    "precio": 1000,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5472,7 +5473,7 @@
     "producto": "MOCHILA MARRON AMARILLENTO GENERICA MEDIANA EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC531",
-    "precio": 1200,
+    "precio": 900,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5482,7 +5483,7 @@
     "producto": "CARTERA NEGRA SERGIO VALENTE GRANDE EN CUERO ",
     "categoria": "MUJER",
     "COD": "CC532",
-    "precio": 800,
+    "precio": 750,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5492,7 +5493,7 @@
     "producto": "CARTERA GRIS OSCURO DSW GRANDE EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC533",
-    "precio": 1000,
+    "precio": 850,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5522,7 +5523,7 @@
     "producto": "CARTERA GRIS OSCURO YANI MEDIO GRANDE ",
     "categoria": "MUJER",
     "COD": "CC536",
-    "precio": 1400,
+    "precio": 1000,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5532,7 +5533,7 @@
     "producto": "CARTERA NEGRA MIZTIGNER MEDIO GRANDE ",
     "categoria": "MUJER",
     "COD": "CC537",
-    "precio": 800,
+    "precio": 750,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5562,7 +5563,7 @@
     "producto": "CARTERA ROSADA COACH MEDIANA EN CUERO Y PIEL",
     "categoria": "MUJER",
     "COD": "CC540",
-    "precio": 700,
+    "precio": 650,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -5645,7 +5646,7 @@
     "producto": "CARTERA U BULTICO 2 EN 1 ROSADO AMARILLO OLIVIA MILLIER ",
     "categoria": "MUJER",
     "COD": "CC548",
-    "precio": 900,
+    "precio": 800,
     "ubicacion": "CC",
     "mostrar": 1
   },
@@ -12307,6 +12308,1059 @@
     "producto": "TASA YOU ARE",
     "categoria": "CRISTALES",
     "precio": 250,
+    "mostrar": 1
+  },
+  {
+    "id": 1287,
+    "img": 1608,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1288,
+    "img": 1609,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1289,
+    "img": 1610,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1290,
+    "img": 1611,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1291,
+    "img": 1612,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1292,
+    "img": 1613,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1293,
+    "img": 1614,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1294,
+    "img": 1615,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1295,
+    "img": 1616,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1296,
+    "img": 1617,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1297,
+    "img": 1618,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1298,
+    "img": 1619,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1299,
+    "img": 1620,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1300,
+    "img": 1621,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1301,
+    "img": 1622,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1302,
+    "img": 1623,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1303,
+    "img": 1624,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1304,
+    "img": 1625,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1305,
+    "img": 1626,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1306,
+    "img": 1627,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1307,
+    "img": 1628,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1308,
+    "img": 1629,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 15,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1309,
+    "img": 1630,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1310,
+    "img": 1631,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1311,
+    "img": 1632,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1312,
+    "img": 1633,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1313,
+    "img": 1634,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1314,
+    "img": 1635,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1315,
+    "img": 1636,
+    "producto": "AVION",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1316,
+    "img": 1637,
+    "producto": "TABLERO ",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1317,
+    "img": 1638,
+    "producto": "TABLERO ",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1318,
+    "img": 1639,
+    "producto": "VEHICULO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1319,
+    "img": 1640,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1320,
+    "img": 1641,
+    "producto": "TREN",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1321,
+    "img": 1642,
+    "producto": "PELUCHE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1322,
+    "img": 1643,
+    "producto": "JUGUETE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1323,
+    "img": 1644,
+    "producto": "BOLA CON LUCES",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1324,
+    "img": 1645,
+    "producto": "ABANICO",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1325,
+    "img": 1646,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1326,
+    "img": 1647,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1327,
+    "img": 1648,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1328,
+    "img": 1649,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1329,
+    "img": 1650,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1330,
+    "img": 1651,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1331,
+    "img": 1652,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1332,
+    "img": 1653,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1333,
+    "img": 1654,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1334,
+    "img": 1655,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1335,
+    "img": 1656,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1336,
+    "img": 1657,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1337,
+    "img": 1658,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1338,
+    "img": 1659,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1339,
+    "img": 1660,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1340,
+    "img": 1661,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1341,
+    "img": 1662,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1342,
+    "img": 1663,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1343,
+    "img": 1664,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1344,
+    "img": 1665,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1345,
+    "img": 1666,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1346,
+    "img": 1667,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1347,
+    "img": 1668,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1348,
+    "img": 1669,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1349,
+    "img": 1670,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1350,
+    "img": 1671,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1351,
+    "img": 1672,
+    "producto": "JUEGO DE BOLOS",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1352,
+    "img": 1673,
+    "producto": "JUEGO BOLAS 50 CU",
+    "categoria": "NIÑOS",
+    "precio": 50,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1353,
+    "img": 1674,
+    "producto": "CARRO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1354,
+    "img": 1675,
+    "producto": "CARRO",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1355,
+    "img": 1676,
+    "producto": "DINOSAURIO",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1356,
+    "img": 1677,
+    "producto": "PALA",
+    "categoria": "NIÑOS",
+    "precio": 250,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1357,
+    "img": 1678,
+    "producto": "JUEGO BEBE CARRO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1358,
+    "img": 1679,
+    "producto": "JUEGO BEBE AVION",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1359,
+    "img": 1680,
+    "producto": "MOTOCROS",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1360,
+    "img": 1681,
+    "producto": "CAMION",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1361,
+    "img": 1682,
+    "producto": "BOMBERO TRANSFORMABLE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1362,
+    "img": 1683,
+    "producto": "CARRITO",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1363,
+    "img": 1684,
+    "producto": "CASTILLO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1364,
+    "img": 1685,
+    "producto": "MAMPARA",
+    "categoria": "NIÑOS",
+    "precio": 150,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1365,
+    "img": 1686,
+    "producto": "MOUSTRUO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1366,
+    "img": 1687,
+    "producto": "DRAGON NEGRO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1367,
+    "img": 1688,
+    "producto": "CORRAL PARA BEBE",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1368,
+    "img": 1689,
+    "producto": "CASCO AMARILLO 1",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1369,
+    "img": 1690,
+    "producto": "CASCO AMARILLO 2",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1370,
+    "img": 1691,
+    "producto": "JUEGO MASCARA",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1371,
+    "img": 1692,
+    "producto": "JUEGO ROMPECABEZAS BEBE",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1372,
+    "img": 1693,
+    "producto": "JUEGO ROMPE CABEZA BEBE GRUESO",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1373,
+    "img": 1694,
+    "producto": "JUEGO ROMPE CABEZA BEBE HUECO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1374,
+    "img": 1695,
+    "producto": "PIZARRA DE COLORES",
+    "categoria": "NIÑOS",
+    "precio": 300,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1375,
+    "img": 1696,
+    "producto": "POOH ROJO",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1376,
+    "img": 1697,
+    "producto": "POOH VERDE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1377,
+    "img": 1698,
+    "producto": "MUNECO",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1378,
+    "img": 1699,
+    "producto": "ANIMALES REALISTAS 1",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1379,
+    "img": 1700,
+    "producto": "ANIMALES REALISTAS 2",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1380,
+    "img": 1701,
+    "producto": "ANIMALES REALISTAS 3",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1381,
+    "img": 1702,
+    "producto": "ANIMALES REALISTAS 4",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1382,
+    "img": 1703,
+    "producto": "ANIMALES REALISTAS 5",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1383,
+    "img": 1704,
+    "producto": "TORTUGAS NINJA",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1384,
+    "img": 1705,
+    "producto": "TORTUGAS NINJA",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1385,
+    "img": 1706,
+    "producto": "TORTUGAS NINJA",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1386,
+    "img": 1707,
+    "producto": "TORTUGAS NINJA",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1387,
+    "img": 1708,
+    "producto": "MINI JAULAS",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1388,
+    "img": 1709,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1389,
+    "img": 1710,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1390,
+    "img": 1711,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1391,
+    "img": 1712,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1392,
+    "img": 1713,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1393,
+    "img": 1714,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1394,
+    "img": 1715,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1395,
+    "img": 1716,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1396,
+    "img": 1717,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1397,
+    "img": 1718,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1398,
+    "img": 1719,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1399,
+    "img": 1720,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1400,
+    "img": 1721,
+    "producto": "JUEGO DE YAS",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1401,
+    "img": 1722,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 200,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1402,
+    "img": 1723,
+    "producto": "JUEGO BEBE",
+    "categoria": "NIÑOS",
+    "precio": 100,
+    "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1403,
+    "img": 1724,
+    "producto": "JUEGO BEBE TRANSFOMRABLES",
+    "categoria": "NIÑOS",
+    "precio": 350,
+    "ubicacion": "Cj6-NR",
     "mostrar": 1
   }
 ]

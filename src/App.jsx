@@ -633,7 +633,7 @@ const App = () => {
         }}
         onClick={cerrar} // Un ejemplo de función al hacer clic
       >
-        VOLVER AL MENU
+        VOLVER AL MENU {cantidadMostrando} art
       </button>
       <div
         style={{
