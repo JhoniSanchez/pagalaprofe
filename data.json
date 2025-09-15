@@ -138,7 +138,9 @@
     "COD": "C114",
     "precio": 3200,
     "ubicacion": "C1",
-    "mostrar": 1
+    "mostrar": 1,
+    "fecha": 45912,
+    "estado": "publicidad ibelka"
   },
   {
     "id": 15,
@@ -148,7 +150,9 @@
     "COD": "C115",
     "precio": 2500,
     "ubicacion": "C1",
-    "mostrar": 1
+    "mostrar": 1,
+    "fecha": 45912,
+    "estado": "publicidad ibelka"
   },
   {
     "id": 16,
@@ -548,7 +552,8 @@
     "COD": "C254",
     "precio": 1800,
     "ubicacion": "C2",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "kenia"
   },
   {
     "id": 55,
@@ -588,7 +593,9 @@
     "COD": "C258",
     "precio": 2300,
     "ubicacion": "C2",
-    "mostrar": 1
+    "mostrar": 1,
+    "fecha": 45912,
+    "estado": "publicidad ibelka"
   },
   {
     "id": 59,
@@ -892,9 +899,10 @@
     "producto": "TENAZA PLANCHA BLANCA",
     "categoria": "PERSONAL",
     "COD": "C487",
-    "precio": 1500,
+    "precio": 1000,
     "ubicacion": "C4",
     "mostrar": 1,
+    "estado": "blasina",
     "comentario": "Al 13/07/25 1107revisando mami ordendo close, se nota que essa planchja esta en la casa, por lo que no se habia vendido. A genesis. Se reubico de C3 hacia la C4"
   },
   {
@@ -1063,7 +1071,9 @@
     "COD": "C3102",
     "precio": 2800,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "fecha": 45912,
+    "estado": "publicidad ibelka"
   },
   {
     "id": 103,
@@ -1093,7 +1103,8 @@
     "COD": "C3105",
     "precio": 1200,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "elva"
   },
   {
     "id": 106,
@@ -1375,7 +1386,8 @@
     "COD": "C3132",
     "precio": 1000,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "blasina"
   },
   {
     "id": 133,
@@ -1395,7 +1407,10 @@
     "COD": "C3134",
     "precio": 700,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 0,
+    "estado": "APARTADO",
+    "cliente": "jhoni",
+    "comentario": "Por un tiempo, luego se vuleve a poner"
   },
   {
     "id": 135,
@@ -1495,7 +1510,8 @@
     "COD": "C4144",
     "precio": 1800,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "kenia"
   },
   {
     "id": 145,
@@ -1589,7 +1605,8 @@
     "COD": "C4153",
     "precio": 1000,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "blasina"
   },
   {
     "id": 154,
@@ -1739,7 +1756,8 @@
     "COD": "C4168",
     "precio": 1000,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "blasina"
   },
   {
     "id": 169,
@@ -1893,7 +1911,8 @@
     "COD": "C4183",
     "precio": 1000,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "blasina"
   },
   {
     "id": 184,
@@ -2088,7 +2107,8 @@
     "COD": "C4202",
     "precio": 1200,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "elva"
   },
   {
     "id": 203,
@@ -2108,7 +2128,8 @@
     "COD": "C4204",
     "precio": 1200,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "blasina"
   },
   {
     "id": 205,
@@ -3667,7 +3688,8 @@
     "mostrar": 0,
     "fecha": 45904,
     "estado": "credito",
-    "cliente": "yohanna"
+    "cliente": "yohanna",
+    "comentario": "AL 12-09-2025 MAMI LO LLEVO ALLA ARRIBA, QUE ESTABA TODABIA EN LA MESA"
   },
   {
     "id": 356,
@@ -4201,7 +4223,8 @@
     "COD": "C6406",
     "precio": 800,
     "ubicacion": "C6",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 407,
@@ -4412,8 +4435,8 @@
     "precio": 1000,
     "ubicacion": "CR",
     "mostrar": 0,
-    "fecha": 45903,
-    "estado": "credito",
+    "fecha": 45910,
+    "estado": "SALDO",
     "cliente": "vitico"
   },
   {
@@ -4444,7 +4467,8 @@
     "COD": "CR429",
     "precio": 700,
     "ubicacion": "CR",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 430,
@@ -4474,7 +4498,8 @@
     "COD": "CR432",
     "precio": 800,
     "ubicacion": "CR",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 433,
@@ -4484,7 +4509,8 @@
     "COD": "CR433",
     "precio": 700,
     "ubicacion": "CR",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 434,
@@ -4518,7 +4544,8 @@
     "COD": "CR436",
     "precio": 1000,
     "ubicacion": "CR",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 437,
@@ -4538,7 +4565,8 @@
     "COD": "CR438",
     "precio": 800,
     "ubicacion": "CR",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 439,
@@ -4628,7 +4656,8 @@
     "COD": "CR447",
     "precio": 700,
     "ubicacion": "CR",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 448,
@@ -4638,7 +4667,8 @@
     "COD": "CR448",
     "precio": 1000,
     "ubicacion": "CR",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "mami"
   },
   {
     "id": 449,
@@ -5140,7 +5170,7 @@
     "ubicacion": "CC",
     "mostrar": 0,
     "fecha": 45901,
-    "estado": "apartado",
+    "estado": "APARTADO",
     "cliente": "yohanna"
   },
   {
@@ -5759,7 +5789,8 @@
     "COD": "CT558",
     "precio": 1000,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "elva"
   },
   {
     "id": 559,
@@ -5794,7 +5825,8 @@
     "COD": "CT561",
     "precio": 2300,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "kenia"
   },
   {
     "id": 562,
@@ -5819,7 +5851,8 @@
     "COD": "CT563",
     "precio": 1700,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "elva"
   },
   {
     "id": 564,
@@ -5829,7 +5862,8 @@
     "COD": "CT564",
     "precio": 1700,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "elva"
   },
   {
     "id": 565,
@@ -5919,7 +5953,8 @@
     "COD": "CT573",
     "precio": 1600,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "elva"
   },
   {
     "id": 574,
@@ -6563,7 +6598,9 @@
     "COD": "C1637",
     "precio": 4000,
     "ubicacion": "C1",
-    "mostrar": 1
+    "mostrar": 1,
+    "fecha": 45912,
+    "estado": "publicidad ibelka"
   },
   {
     "id": 638,
@@ -7480,7 +7517,9 @@
     "COD": "C4728",
     "precio": 4000,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "fecha": 45912,
+    "estado": "publicidad ibelka"
   },
   {
     "id": 769,
@@ -10282,9 +10321,10 @@
     "producto": "TENANZA SECADOR Y RIZADOR EN UNO ROJO REVLON NUEVO EN CAJA",
     "categoria": "PERSONAL",
     "COD": "CJ1043",
-    "precio": 2300,
+    "precio": 2000,
     "ubicacion": "CJ",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "kenia"
   },
   {
     "id": 1060,
@@ -10294,7 +10334,8 @@
     "COD": "CJ1044",
     "precio": 2000,
     "ubicacion": "CJ",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "kenia"
   },
   {
     "id": 1061,
@@ -11851,7 +11892,8 @@
     "categoria": "HOGAR",
     "precio": 1900,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "estado": "kenia"
   },
   {
     "id": 1231,
@@ -11869,7 +11911,9 @@
     "categoria": "HOGAR",
     "precio": 2600,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "fecha": 45912,
+    "estado": "publicidad ibelka"
   },
   {
     "id": 1233,
