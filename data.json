@@ -1407,7 +1407,7 @@
     "COD": "C3134",
     "precio": 700,
     "ubicacion": "C3",
-    "mostrar": 0,
+    "mostrar": 1,
     "estado": "APARTADO",
     "cliente": "jhoni",
     "comentario": "Por un tiempo, luego se vuleve a poner"
@@ -2052,7 +2052,7 @@
     "COD": "C4197",
     "precio": 700,
     "ubicacion": "C4",
-    "mostrar": 1,
+    "mostrar": 0,
     "comentario": "11/8/25 APARTADO A YESICA, NO LE GUSTO."
   },
   {
