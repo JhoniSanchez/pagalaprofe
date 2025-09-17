@@ -148,6 +148,7 @@ const styles = {
 const Targeta = ({ blogs, categoria }) => {
   return (
     <div className="cuerpo2">
+
       <div className="gallery">
         {blogs.map((blog) => (
           <Blog2 key={blog.id} blog={blog} categoria={categoria} />
@@ -398,7 +399,7 @@ const App = () => {
   // (a, b) => a.producto - b.producto
 
   //fue necesario dublicar las funciones por nada me funciono para que no haga referencia a memoria cuando se llama la data y asi no me afecte el metodo sort
-  const porPrecio = async () => {
+  const porAZorganiza = async () => {
     // const RESPONSE =  datos
 
     // const RESPONSE = await blogService.getAll()
@@ -408,11 +409,11 @@ const App = () => {
     setcategoria("");
     //ES NECESARIO CREAR COPIAS INDEPENDIENTES, PORQUE LA ORDENACION CON EL METODO SORT, ES POR REFERENCIA A EE, SE ESTA APUNTANDO A LA MISMA SECCION DE MEMORIA,
     //como el ... solo hace copia superficial, se hizo uso del JSONparse Stringify para poder evadir la referneica
-    const filter = datos.datos.sort(compararProductosPorPrecio);
+    const filter = datos.datos.sort(compararProductosPorAZ);
     setPrincipalData(filter);
   };
 
-  const porAZ = async () => {
+  const porAZzz = async () => {
     // const RESPONSE = await blogService.getAll()
     const filter3987 = datos.datos.sort(compararProductosPorAZ);
     setBlogs3(filter3987);
@@ -431,7 +432,7 @@ const App = () => {
         userId: "user.userId",
         User: "",
       });
-      await porPrecio();
+      await porAZorganiza();
       setmessage(`Blog Add ${title}`);
     } catch (error) {
       setmessage(`${error.code}`);
@@ -450,9 +451,9 @@ const App = () => {
   };
 
   useEffect(() => {
-    porPrecio();
-    //      porAZ();
-    comparaPrecioAZ();
+    porAZorganiza();
+    //  porAZ();
+    // comparaPrecioAZ();
 
     // blogService.getAll().then((blogs) => setBlogs(blogs));
     console.log("Primer render");
@@ -532,7 +533,7 @@ const App = () => {
 
   let total = blogs2.reduce((t, item) => t + (Number(item.precio) || 0), 0);
 
-  const cantidadMostrando = blogs2.filter((item) => item.mostrar == "1").length;
+  const cantidadMostrando = blogs2.filter((item) => item.mostrar === 1).length;
   console.log(cantidadMostrando);
   return (
     <div className="app">
@@ -706,7 +707,7 @@ const App = () => {
       <BrowserRouter basename="/pagalaprofe">
         <Routes>
           <Route path="/" element={<Targeta blogs={blogs2} />}></Route>
-          <Route path="/local" element={<Local blogs={blogs2} />}></Route>
+          {/* <Route path="/local" element={<Local blogs={blogs2} />}></Route>
           <Route
             path="/administracion14152024"
             element={<Targeta2 blogs={blogs2} />}
@@ -714,7 +715,7 @@ const App = () => {
           <Route
             path="/ventas-az"
             element={<Targeta3 blogs={blogs4} />}
-          ></Route>
+          ></Route> */}
         </Routes>
       </BrowserRouter>
       {/* <div className="cuerpo">

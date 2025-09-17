@@ -176,7 +176,7 @@ const Blog2 = ({ blog, dele }) => {
         </div>
         <div className="cod">
           {<p> </p>} {<p> </p>}
-          {blog.ubicacion}
+          {blog.ubicacion}-
           {blog.img}
         </div>
       </div>

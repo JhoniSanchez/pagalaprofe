@@ -108,7 +108,8 @@
     "COD": "C111",
     "precio": 1500,
     "ubicacion": "C1",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 12,
@@ -128,7 +129,8 @@
     "COD": "C113",
     "precio": 800,
     "ubicacion": "C1",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 14,
@@ -139,8 +141,8 @@
     "precio": 3200,
     "ubicacion": "C1",
     "mostrar": 1,
-    "fecha": 45912,
-    "estado": "publicidad ibelka"
+    "actualizado": "publicidad ibelka",
+    "fecha": 45912
   },
   {
     "id": 15,
@@ -151,8 +153,8 @@
     "precio": 2500,
     "ubicacion": "C1",
     "mostrar": 1,
-    "fecha": 45912,
-    "estado": "publicidad ibelka"
+    "actualizado": "publicidad ibelka",
+    "fecha": 45912
   },
   {
     "id": 16,
@@ -481,7 +483,8 @@
     "COD": "C246",
     "precio": 1800,
     "ubicacion": "C2",
-    "mostrar": 1
+    "mostrar": 0,
+    "estado": "Apartado"
   },
   {
     "id": 47,
@@ -491,7 +494,8 @@
     "COD": "C247",
     "precio": 1000,
     "ubicacion": "C2",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 48,
@@ -553,7 +557,7 @@
     "precio": 1800,
     "ubicacion": "C2",
     "mostrar": 1,
-    "estado": "kenia"
+    "actualizado": "kenia"
   },
   {
     "id": 55,
@@ -583,7 +587,8 @@
     "COD": "C257",
     "precio": 900,
     "ubicacion": "C2",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 58,
@@ -594,8 +599,8 @@
     "precio": 2300,
     "ubicacion": "C2",
     "mostrar": 1,
-    "fecha": 45912,
-    "estado": "publicidad ibelka"
+    "actualizado": "publicidad ibelka",
+    "fecha": 45912
   },
   {
     "id": 59,
@@ -808,7 +813,8 @@
     "COD": "C378",
     "precio": 500,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 79,
@@ -828,7 +834,8 @@
     "COD": "C380",
     "precio": 500,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 81,
@@ -891,7 +898,8 @@
     "COD": "C386",
     "precio": 700,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 87,
@@ -902,7 +910,7 @@
     "precio": 1000,
     "ubicacion": "C4",
     "mostrar": 1,
-    "estado": "blasina",
+    "actualizado": "blasina",
     "comentario": "Al 13/07/25 1107revisando mami ordendo close, se nota que essa planchja esta en la casa, por lo que no se habia vendido. A genesis. Se reubico de C3 hacia la C4"
   },
   {
@@ -947,7 +955,8 @@
     "mostrar": 0,
     "fecha": 45880,
     "estado": "APARTADO",
-    "cliente": "DEISI CESAR"
+    "cliente": "DEISI CESAR",
+    "comentario": "Al 17092025 se mando a recordar a deisita, para entonces ponerlo en venta otra vez."
   },
   {
     "id": 91,
@@ -1072,8 +1081,8 @@
     "precio": 2800,
     "ubicacion": "C3",
     "mostrar": 1,
-    "fecha": 45912,
-    "estado": "publicidad ibelka"
+    "actualizado": "publicidad ibelka",
+    "fecha": 45912
   },
   {
     "id": 103,
@@ -1083,7 +1092,8 @@
     "COD": "C3103",
     "precio": 1000,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 104,
@@ -1104,7 +1114,7 @@
     "precio": 1200,
     "ubicacion": "C3",
     "mostrar": 1,
-    "estado": "elva"
+    "actualizado": "elva"
   },
   {
     "id": 106,
@@ -1229,7 +1239,8 @@
     "COD": "C3117",
     "precio": 500,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 118,
@@ -1259,7 +1270,8 @@
     "COD": "C3120",
     "precio": 1000,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 121,
@@ -1356,7 +1368,8 @@
     "COD": "C3129",
     "precio": 500,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 130,
@@ -1376,7 +1389,8 @@
     "COD": "C3131",
     "precio": 800,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 132,
@@ -1387,7 +1401,7 @@
     "precio": 1000,
     "ubicacion": "C3",
     "mostrar": 1,
-    "estado": "blasina"
+    "actualizado": "blasina"
   },
   {
     "id": 133,
@@ -1407,10 +1421,7 @@
     "COD": "C3134",
     "precio": 700,
     "ubicacion": "C3",
-    "mostrar": 1,
-    "estado": "APARTADO",
-    "cliente": "jhoni",
-    "comentario": "Por un tiempo, luego se vuleve a poner"
+    "mostrar": 1
   },
   {
     "id": 135,
@@ -1420,7 +1431,8 @@
     "COD": "C3135",
     "precio": 500,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 136,
@@ -1470,7 +1482,8 @@
     "COD": "C3140",
     "precio": 600,
     "ubicacion": "C3",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 141,
@@ -1511,7 +1524,7 @@
     "precio": 1800,
     "ubicacion": "C4",
     "mostrar": 1,
-    "estado": "kenia"
+    "actualizado": "kenia"
   },
   {
     "id": 145,
@@ -1565,7 +1578,8 @@
     "COD": "C4149",
     "precio": 800,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 150,
@@ -1585,7 +1599,8 @@
     "COD": "C4151",
     "precio": 500,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 152,
@@ -1606,7 +1621,7 @@
     "precio": 1000,
     "ubicacion": "C4",
     "mostrar": 1,
-    "estado": "blasina"
+    "actualizado": "blasina"
   },
   {
     "id": 154,
@@ -1757,7 +1772,7 @@
     "precio": 1000,
     "ubicacion": "C4",
     "mostrar": 1,
-    "estado": "blasina"
+    "actualizado": "blasina"
   },
   {
     "id": 169,
@@ -1912,7 +1927,7 @@
     "precio": 1000,
     "ubicacion": "C4",
     "mostrar": 1,
-    "estado": "blasina"
+    "actualizado": "blasina"
   },
   {
     "id": 184,
@@ -2012,7 +2027,8 @@
     "COD": "C4193",
     "precio": 700,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 194,
@@ -2050,10 +2066,13 @@
     "producto": "TERMO METALICO CAFÉ UNOS 35 CM",
     "categoria": "PERSONAL",
     "COD": "C4197",
-    "precio": 700,
+    "precio": 500,
     "ubicacion": "C4",
     "mostrar": 0,
-    "comentario": "11/8/25 APARTADO A YESICA, NO LE GUSTO."
+    "fecha": 45917,
+    "estado": "credito",
+    "cliente": "NICAURIS",
+    "comentario": "11/8/25 APARTADO A YESICA, NO LE GUSTO. Al 17092025 se le vendio a nicauris"
   },
   {
     "id": 198,
@@ -2097,7 +2116,8 @@
     "mostrar": 0,
     "fecha": 45880,
     "estado": "APARTADO",
-    "cliente": "DEISI CESAR"
+    "cliente": "DEISI CESAR",
+    "comentario": "Al 17092025 se mando a recordar a deisita, para entonces ponerlo en venta otra vez."
   },
   {
     "id": 202,
@@ -2108,7 +2128,7 @@
     "precio": 1200,
     "ubicacion": "C4",
     "mostrar": 1,
-    "estado": "elva"
+    "actualizado": "elva"
   },
   {
     "id": 203,
@@ -2118,7 +2138,8 @@
     "COD": "C4203",
     "precio": 600,
     "ubicacion": "C4",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 204,
@@ -2129,7 +2150,7 @@
     "precio": 1200,
     "ubicacion": "C4",
     "mostrar": 1,
-    "estado": "blasina"
+    "actualizado": "blasina"
   },
   {
     "id": 205,
@@ -2790,7 +2811,8 @@
     "COD": "C5269",
     "precio": 1000,
     "ubicacion": "C5",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 270,
@@ -2824,7 +2846,8 @@
     "COD": "C5272",
     "precio": 700,
     "ubicacion": "C5",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 273,
@@ -3623,8 +3646,8 @@
     "precio": 200,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": 45901,
-    "estado": "APARTADO",
+    "fecha": 45913,
+    "estado": "CREDITO",
     "cliente": "yohanna"
   },
   {
@@ -4224,7 +4247,7 @@
     "precio": 800,
     "ubicacion": "C6",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 407,
@@ -4468,7 +4491,7 @@
     "precio": 700,
     "ubicacion": "CR",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 430,
@@ -4499,7 +4522,7 @@
     "precio": 800,
     "ubicacion": "CR",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 433,
@@ -4510,7 +4533,7 @@
     "precio": 700,
     "ubicacion": "CR",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 434,
@@ -4545,7 +4568,7 @@
     "precio": 1000,
     "ubicacion": "CR",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 437,
@@ -4566,7 +4589,7 @@
     "precio": 800,
     "ubicacion": "CR",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 439,
@@ -4657,7 +4680,7 @@
     "precio": 700,
     "ubicacion": "CR",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 448,
@@ -4668,7 +4691,7 @@
     "precio": 1000,
     "ubicacion": "CR",
     "mostrar": 1,
-    "estado": "mami"
+    "actualizado": "mami"
   },
   {
     "id": 449,
@@ -5117,7 +5140,7 @@
     "categoria": "MUJER",
     "COD": "CC493",
     "precio": 400,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5127,7 +5150,7 @@
     "categoria": "MUJER",
     "COD": "CC494",
     "precio": 800,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5137,7 +5160,7 @@
     "categoria": "MUJER",
     "COD": "CC495",
     "precio": 750,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5147,7 +5170,7 @@
     "categoria": "MUJER",
     "COD": "CC496",
     "precio": 600,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5157,7 +5180,7 @@
     "categoria": "MUJER",
     "COD": "CC497",
     "precio": 150,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5167,11 +5190,9 @@
     "categoria": "MUJER",
     "COD": "CC498",
     "precio": 500,
-    "ubicacion": "CC",
-    "mostrar": 0,
-    "fecha": 45901,
-    "estado": "APARTADO",
-    "cliente": "yohanna"
+    "ubicacion": "CC-3",
+    "mostrar": 1,
+    "comentario": "AL 17092025 SE QUITA EL APARTADO, PARA RECLASIFICAR. Yohanna no ha recordado nada."
   },
   {
     "id": 499,
@@ -5180,7 +5201,7 @@
     "categoria": "MUJER",
     "COD": "CC499",
     "precio": 200,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5190,7 +5211,7 @@
     "categoria": "MUJER",
     "COD": "CC500",
     "precio": 1000,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 0,
     "actualizado": 0
   },
@@ -5201,7 +5222,7 @@
     "categoria": "MUJER",
     "COD": "CC501",
     "precio": 250,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5211,7 +5232,7 @@
     "categoria": "MUJER",
     "COD": "CC502",
     "precio": 1000,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5221,7 +5242,7 @@
     "categoria": "MUJER",
     "COD": "CC503",
     "precio": 500,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5231,7 +5252,7 @@
     "categoria": "MUJER",
     "COD": "CC504",
     "precio": 750,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5241,7 +5262,7 @@
     "categoria": "MUJER",
     "COD": "CC505",
     "precio": 750,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5251,17 +5272,17 @@
     "categoria": "MUJER",
     "COD": "CC506",
     "precio": 650,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
     "id": 507,
     "img": 507,
-    "producto": "CARTERA LÑEOPARDO VANNESA TRENDS PEQUEÑA EN PIEL",
+    "producto": "CARTERA LEOPARDO VANNESA TRENDS PEQUEÑA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC507",
     "precio": 300,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5271,7 +5292,7 @@
     "categoria": "MUJER",
     "COD": "CC508",
     "precio": 1000,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5281,7 +5302,7 @@
     "categoria": "MUJER",
     "COD": "CC509",
     "precio": 750,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5291,7 +5312,7 @@
     "categoria": "MUJER",
     "COD": "CC510",
     "precio": 400,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5301,7 +5322,7 @@
     "categoria": "MUJER",
     "COD": "CC511",
     "precio": 250,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5311,7 +5332,7 @@
     "categoria": "MUJER",
     "COD": "CC512",
     "precio": 300,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5321,7 +5342,7 @@
     "categoria": "MUJER",
     "COD": "CC513",
     "precio": 500,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5331,7 +5352,7 @@
     "categoria": "MUJER",
     "COD": "CC514",
     "precio": 800,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5341,7 +5362,7 @@
     "categoria": "MUJER",
     "COD": "CC515",
     "precio": 650,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5351,7 +5372,7 @@
     "categoria": "MUJER",
     "COD": "CC516",
     "precio": 900,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5361,7 +5382,7 @@
     "categoria": "MUJER",
     "COD": "CC517",
     "precio": 400,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5371,7 +5392,7 @@
     "categoria": "MUJER",
     "COD": "CC518",
     "precio": 500,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5381,7 +5402,7 @@
     "categoria": "MUJER",
     "COD": "CC519",
     "precio": 1000,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5391,7 +5412,7 @@
     "categoria": "MUJER",
     "COD": "CC520",
     "precio": 600,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5401,7 +5422,7 @@
     "categoria": "MUJER",
     "COD": "CC521",
     "precio": 850,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5411,7 +5432,7 @@
     "categoria": "MUJER",
     "COD": "CC522",
     "precio": 1000,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5421,11 +5442,9 @@
     "categoria": "MUJER",
     "COD": "CC523",
     "precio": 400,
-    "ubicacion": "CC",
-    "mostrar": 0,
-    "fecha": 45901,
-    "estado": "APARTADO",
-    "cliente": "YOHANNA"
+    "ubicacion": "CC-2",
+    "mostrar": 1,
+    "comentario": "AL 17092025 SE QUITA EL APARTADO, PARA RECLASIFICAR. Yohanna no ha recordado nada."
   },
   {
     "id": 524,
@@ -5434,7 +5453,7 @@
     "categoria": "MUJER",
     "COD": "CC524",
     "precio": 600,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5444,7 +5463,7 @@
     "categoria": "MUJER",
     "COD": "CC525",
     "precio": 200,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5454,7 +5473,7 @@
     "categoria": "MUJER",
     "COD": "CC526",
     "precio": 200,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5464,7 +5483,7 @@
     "categoria": "MUJER",
     "COD": "CC527",
     "precio": 300,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5474,7 +5493,7 @@
     "categoria": "MUJER",
     "COD": "CC528",
     "precio": 850,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5484,7 +5503,7 @@
     "categoria": "MUJER",
     "COD": "CC529",
     "precio": 900,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5494,7 +5513,7 @@
     "categoria": "MUJER",
     "COD": "CC530",
     "precio": 1000,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5504,7 +5523,7 @@
     "categoria": "MUJER",
     "COD": "CC531",
     "precio": 900,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5514,7 +5533,7 @@
     "categoria": "MUJER",
     "COD": "CC532",
     "precio": 750,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5524,7 +5543,7 @@
     "categoria": "MUJER",
     "COD": "CC533",
     "precio": 850,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5534,7 +5553,7 @@
     "categoria": "MUJER",
     "COD": "CC534",
     "precio": 300,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5544,7 +5563,7 @@
     "categoria": "MUJER",
     "COD": "CC535",
     "precio": 300,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5554,7 +5573,7 @@
     "categoria": "MUJER",
     "COD": "CC536",
     "precio": 1000,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5564,7 +5583,7 @@
     "categoria": "MUJER",
     "COD": "CC537",
     "precio": 750,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5574,7 +5593,7 @@
     "categoria": "MUJER",
     "COD": "CC538",
     "precio": 500,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5584,7 +5603,7 @@
     "categoria": "MUJER",
     "COD": "CC539",
     "precio": 300,
-    "ubicacion": "CC",
+    "ubicacion": "CC-3",
     "mostrar": 1
   },
   {
@@ -5594,7 +5613,7 @@
     "categoria": "MUJER",
     "COD": "CC540",
     "precio": 650,
-    "ubicacion": "CC",
+    "ubicacion": "CC-4",
     "mostrar": 1
   },
   {
@@ -5604,7 +5623,7 @@
     "categoria": "MUJER",
     "COD": "CC541",
     "precio": 250,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5614,7 +5633,7 @@
     "categoria": "MUJER",
     "COD": "CC542",
     "precio": 350,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5624,7 +5643,7 @@
     "categoria": "MUJER",
     "COD": "CC543",
     "precio": 250,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5634,7 +5653,7 @@
     "categoria": "MUJER",
     "COD": "CC544",
     "precio": 250,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5644,7 +5663,7 @@
     "categoria": "MUJER",
     "COD": "CC545",
     "precio": 250,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5654,11 +5673,9 @@
     "categoria": "MUJER",
     "COD": "CC546",
     "precio": 400,
-    "ubicacion": "CC",
-    "mostrar": 0,
-    "fecha": 45901,
-    "estado": "APARTADO",
-    "cliente": "YOHANNA"
+    "ubicacion": "CC-2",
+    "mostrar": 1,
+    "comentario": "AL 17092025 SE QUITA EL APARTADO, PARA RECLASIFICAR. Yohanna no ha recordado nada."
   },
   {
     "id": 547,
@@ -5667,7 +5684,7 @@
     "categoria": "MUJER",
     "COD": "CC547",
     "precio": 250,
-    "ubicacion": "CC",
+    "ubicacion": "CC-2",
     "mostrar": 1
   },
   {
@@ -5677,7 +5694,7 @@
     "categoria": "MUJER",
     "COD": "CC548",
     "precio": 800,
-    "ubicacion": "CC",
+    "ubicacion": "CC-1",
     "mostrar": 1
   },
   {
@@ -5790,7 +5807,7 @@
     "precio": 1000,
     "ubicacion": "CT",
     "mostrar": 1,
-    "estado": "elva"
+    "actualizado": "elva"
   },
   {
     "id": 559,
@@ -5815,7 +5832,8 @@
     "COD": "CT560",
     "precio": 1000,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 561,
@@ -5826,7 +5844,7 @@
     "precio": 2300,
     "ubicacion": "CT",
     "mostrar": 1,
-    "estado": "kenia"
+    "actualizado": "kenia"
   },
   {
     "id": 562,
@@ -5852,7 +5870,7 @@
     "precio": 1700,
     "ubicacion": "CT",
     "mostrar": 1,
-    "estado": "elva"
+    "actualizado": "elva"
   },
   {
     "id": 564,
@@ -5863,7 +5881,7 @@
     "precio": 1700,
     "ubicacion": "CT",
     "mostrar": 1,
-    "estado": "elva"
+    "actualizado": "elva"
   },
   {
     "id": 565,
@@ -5903,7 +5921,8 @@
     "COD": "CT568",
     "precio": 400,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 11
   },
   {
     "id": 569,
@@ -5913,7 +5932,8 @@
     "COD": "CT569",
     "precio": 400,
     "ubicacion": "CT",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 570,
@@ -5954,7 +5974,7 @@
     "precio": 1600,
     "ubicacion": "CT",
     "mostrar": 1,
-    "estado": "elva"
+    "actualizado": "elva"
   },
   {
     "id": 574,
@@ -6078,7 +6098,8 @@
     "COD": "CJ585",
     "precio": 1000,
     "ubicacion": "CJ",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 586,
@@ -6218,7 +6239,8 @@
     "COD": "CJ599",
     "precio": 600,
     "ubicacion": "CJ",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 600,
@@ -6458,7 +6480,8 @@
     "COD": "CJ623",
     "precio": 600,
     "ubicacion": "CJ",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 624,
@@ -6599,8 +6622,8 @@
     "precio": 4000,
     "ubicacion": "C1",
     "mostrar": 1,
-    "fecha": 45912,
-    "estado": "publicidad ibelka"
+    "actualizado": "publicidad ibelka",
+    "fecha": 45912
   },
   {
     "id": 638,
@@ -7518,8 +7541,8 @@
     "precio": 4000,
     "ubicacion": "C4",
     "mostrar": 1,
-    "fecha": 45912,
-    "estado": "publicidad ibelka"
+    "actualizado": "publicidad ibelka",
+    "fecha": 45912
   },
   {
     "id": 769,
@@ -10324,7 +10347,7 @@
     "precio": 2000,
     "ubicacion": "CJ",
     "mostrar": 1,
-    "estado": "kenia"
+    "actualizado": "kenia"
   },
   {
     "id": 1060,
@@ -10335,7 +10358,7 @@
     "precio": 2000,
     "ubicacion": "CJ",
     "mostrar": 1,
-    "estado": "kenia"
+    "actualizado": "kenia"
   },
   {
     "id": 1061,
@@ -10517,8 +10540,8 @@
     "img": 1400,
     "producto": "CAMISA BLANCA L 16 ½ 32/33",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -10526,26 +10549,26 @@
     "img": 1401,
     "producto": "BLUSA ROJA THOMY BAHAMA S/P",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1080,
     "img": 1402,
-    "producto": "BLUSA DE FLORECITAS CAMILA CASUAL USA 8",
+    "producto": "BLUSA DE FLORECITAS CAMILA CASUAL USA 8 –  EN REVISION LA PROFE",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1081,
     "img": 1403,
-    "producto": "CONJUNTO CAMA PARA BEBE CREMA CON VERDE",
+    "producto": "BOLSA PARA PANALES Y CORTINA BEBE CREMA CON VERDE",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
@@ -10553,7 +10576,7 @@
     "img": 1404,
     "producto": "PANTALON DE TELA RALLAS ROJAS ROSA Y NEGRAS TOTAL GIRL S ⅞",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 200,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -10562,26 +10585,26 @@
     "img": 1405,
     "producto": "BLUSA AMARILLA NASTY GAL US 0",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1084,
     "img": 1406,
-    "producto": "FRANELA MORADA CRAZY M 7-8",
+    "producto": "SUETER SIN MANGA ROSADO CRAZY M 7-8",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 150,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1085,
     "img": 1407,
-    "producto": "ABRIGO ROJO CAT JACK M 8-10",
+    "producto": "SUETER MANGAS LARGAS ROJO CAT JACK M 8-10",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10589,8 +10612,8 @@
     "img": 1408,
     "producto": "ABRIGO CREMA LARGO GRUESO ZARA USA S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10598,17 +10621,17 @@
     "img": 1409,
     "producto": "BLUSA AZUL CON BLANCO CHINA M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1088,
     "img": 1410,
-    "producto": "PANTALON DE RAYAS ROJAS Y BLANCAS SIMPLE JOYS 8",
+    "producto": "LICRA DE RAYAS ROJAS Y BLANCAS SIMPLE JOYS 8",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -10616,8 +10639,8 @@
     "img": 1411,
     "producto": "ABRIGO GRIS CLARO NIKE 6",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10625,7 +10648,7 @@
     "img": 1412,
     "producto": "PANTALON GRIS KAKI PLACE 6",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 200,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -10634,8 +10657,8 @@
     "img": 1413,
     "producto": "SUETER GIRS CON NEGRO HARD 10/12",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -10643,8 +10666,8 @@
     "img": 1414,
     "producto": "ABRIGO GRIS CON BALNCO EXPRESS XS TP",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 450,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10652,8 +10675,8 @@
     "img": 1415,
     "producto": "PANTALON DE EMBARAZADA CREMA MOTHERHOOD US S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-6",
     "mostrar": 1
   },
   {
@@ -10661,8 +10684,8 @@
     "img": 1416,
     "producto": "JONSU CUADRITOS AMARILLO CON BLANCO OLD NAVY S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -10670,26 +10693,26 @@
     "img": 1417,
     "producto": "ABRIGO ROJO BLANCO Y NEGRO KIMROGERS M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 450,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1096,
     "img": 1418,
-    "producto": "BLUSA MORADA GENERICA M",
+    "producto": "BLUSA ROSADA GENERICA M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1097,
     "img": 1419,
-    "producto": "ABRIGO ROSA Y BLANCO DE RAYA WONDER NATION M 7-8",
+    "producto": "ABRIGO ROJO Y BLANCO DE RAYA WONDER NATION M 7-8",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10697,8 +10720,8 @@
     "img": 1420,
     "producto": "SUETER GRIS CON BALNCO HOLLISTER M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -10706,7 +10729,7 @@
     "img": 1421,
     "producto": "PANTALON BLANCO ARNALDO 6",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 250,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -10715,17 +10738,17 @@
     "img": 1422,
     "producto": "CAMISA CREMA UNIFORME M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1101,
     "img": 1423,
-    "producto": "BLUSA SACO BLANCO LAURA TYLER APX M",
+    "producto": "BLUSA SACO BLANCO LAURA TYLER APX L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -10733,8 +10756,8 @@
     "img": 1424,
     "producto": "BLUSA HOJAS AMARILLAS MENGSI M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -10742,8 +10765,8 @@
     "img": 1425,
     "producto": "BLUSA BLANCA S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -10751,8 +10774,8 @@
     "img": 1426,
     "producto": "JONSU BEBE VERDE CLARO 6-9 M ",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 100,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
@@ -10760,17 +10783,17 @@
     "img": 1427,
     "producto": "ABRIGO BLANCO DE BOLITAS NEGRAS LOFT L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1106,
     "img": 1428,
-    "producto": "VESTIDO CORTO BOLITAS CUADRITOS NEGROS TORY BRUCH S",
+    "producto": "VESTIDO CORTO BOLITAS CUADRITOS NEGROS TORY BRUCH S NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -10778,17 +10801,17 @@
     "img": 1429,
     "producto": "CAMISA BLANCA DE RAYAS AZULES LOGG US 2",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1108,
     "img": 1430,
-    "producto": "BLUSA SACO BLANCO LAURA TYLER APX M SIN ETIQUETA",
+    "producto": "CHALECO BLANCO LAURA TYLER APX M SIN ETIQUETA",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -10796,8 +10819,8 @@
     "img": 1431,
     "producto": "BLUSA EN CONJUTNO CREMA POLLY US 2",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 500,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -10805,8 +10828,8 @@
     "img": 1432,
     "producto": "ABRIGO ROJO BESSERBAY 120",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10814,8 +10837,8 @@
     "img": 1433,
     "producto": "SUETER NARANJA CAT JACK L 12/14",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -10823,8 +10846,8 @@
     "img": 1434,
     "producto": "ABRIGO AMARILLO SYF S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10832,8 +10855,8 @@
     "img": 1435,
     "producto": "ABRIGO ROJO NIKE L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10841,8 +10864,8 @@
     "img": 1436,
     "producto": "ABRIGO ROJO NIKE XL",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10850,8 +10873,8 @@
     "img": 1437,
     "producto": "JONSU BEBE FLORECITAS 9 M ",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 100,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
@@ -10859,8 +10882,8 @@
     "img": 1438,
     "producto": "ABRIGO GRIS CON ESTAMPILLAS OKIE DOKIE BLANCAS 5T",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10868,8 +10891,8 @@
     "img": 1439,
     "producto": "PANTALON CORTO  ROJO XL 18/20",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -10877,17 +10900,17 @@
     "img": 1440,
     "producto": "ABRIGO ROJO CON BLANCO PLACE M ⅞",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1119,
     "img": 1441,
-    "producto": "PANTALON GYM MORADO M",
+    "producto": "LICRA GYM ROSADO FUSIA  M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -10895,8 +10918,8 @@
     "img": 1442,
     "producto": "ABRIGO VERDE DINOSAURIO PLACE S/P 5/6",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10904,17 +10927,17 @@
     "img": 1443,
     "producto": "SUETER NEGRO ADIDAS S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1122,
     "img": 1444,
-    "producto": "ABRIGO NEGRO GRUESO SPIRIT US XL",
+    "producto": "CHALECO NEGRO GRUESO SPIRIT US XL",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 500,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10922,26 +10945,26 @@
     "img": 1445,
     "producto": "BLUSA NEGRA MICHAEL KORS  S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1124,
     "img": 1446,
-    "producto": "ABRIGO NEGRO COLLECTON JM XXL",
+    "producto": "CHALECO NEGRO COLLECTON JM XXL",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1125,
     "img": 1447,
-    "producto": "ABRIGO NEGRO TIME TRU XL 16-18",
+    "producto": "SUETER  NEGRO TIME TRU XL 16-18",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10949,7 +10972,7 @@
     "img": 1448,
     "producto": "PANTALON NEGRO CNTENTA APX M",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 350,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -10958,17 +10981,17 @@
     "img": 1449,
     "producto": "PANTALON CORTO NEGRO USA 02",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1128,
     "img": 1450,
-    "producto": "ABRIGO NEGRO GRUESO CHARTER CLUB PM",
+    "producto": "ABRIGO JACKET NEGRO GRUESO CHARTER CLUB PM",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10976,8 +10999,8 @@
     "img": 1451,
     "producto": "BLUSA SIN MANGAS AZUL NEW YORK COMPANY S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -10985,8 +11008,8 @@
     "img": 1452,
     "producto": "ABRIGO VERDE J CREW XS ",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -10994,8 +11017,8 @@
     "img": 1453,
     "producto": "SUETER NEGRO OLD NAVY SP",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11003,17 +11026,17 @@
     "img": 1454,
     "producto": "SUETER NEGRO OLD NAVY SP V2",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1133,
     "img": 1455,
-    "producto": "BLUSA NEGRA EVEN S",
+    "producto": "BLUSA SIN MANGAS NEGRA EVEN S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11021,8 +11044,8 @@
     "img": 1456,
     "producto": "ABRIGO AZUL DE RAYA  CON BLANCO TALBOT MP",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -11030,8 +11053,8 @@
     "img": 1457,
     "producto": "SUETER AZUL CLARO Y OSCURO M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11039,26 +11062,26 @@
     "img": 1458,
     "producto": "ABRIGO AZUL CON BLANCO ATLETIC WORK M 32 34",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 500,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1137,
     "img": 1459,
-    "producto": "PANTALON GYM NEGRO Y GRIS M",
+    "producto": "LICRA GYM NEGRO Y GRIS M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
     "id": 1138,
     "img": 1460,
-    "producto": "PANTALON GYM NEGRO L-G 10-12 M",
+    "producto": "LICRA GYM NEGRO L-G 10-12 M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11066,17 +11089,17 @@
     "img": 1461,
     "producto": "PANTALON NEGRO KALVIN KELIN S",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 500,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1140,
     "img": 1462,
-    "producto": "ABRIGO NEGRO GRUESO LAUREN S",
+    "producto": "JACKET COLCHADO NEGRO GRUESO LAUREN S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 700,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -11084,7 +11107,7 @@
     "img": 1463,
     "producto": "PANTALON JEANS SLIM BOOT ¾ L",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 300,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11093,7 +11116,7 @@
     "img": 1464,
     "producto": "PANTALON JEANS SKINNY 25 711",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 350,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11102,8 +11125,8 @@
     "img": 1465,
     "producto": "PANTALON CORTO ROJO ROSA PAISAJE S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 150,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11111,8 +11134,8 @@
     "img": 1466,
     "producto": "JONSU AZUL MARINO HOT DELICIOUS S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -11120,17 +11143,17 @@
     "img": 1467,
     "producto": "PANTALON ROJO VINO STRETCHTECH M",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 350,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1146,
     "img": 1468,
-    "producto": "ABRIGO AMARILLO THALIA M",
+    "producto": "SUERA AMARILLO THALIA M NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -11138,8 +11161,8 @@
     "img": 1469,
     "producto": "PANTALON GYM UNDER AMOUNT S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11147,26 +11170,26 @@
     "img": 1470,
     "producto": "SUETER AZUL OSCURO L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1149,
     "img": 1471,
-    "producto": "PANTALON NEGRO C EST 0",
+    "producto": "PANTALON GRIS C EST 0 NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 400,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1150,
     "img": 1472,
-    "producto": "PANTALON CORTO AZUL CALRO Y OSCURO M APX",
+    "producto": "LICRA CORTO AZUL CALRO Y OSCURO M APX",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11174,17 +11197,17 @@
     "img": 1473,
     "producto": "PANTALON JEANS BKE  24 X 31 ½ ",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 350,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1152,
     "img": 1474,
-    "producto": "CAMISA JEANS AZUL FASHION HOUSE M",
+    "producto": "BLUSA CAMISERA JEANS AZUL FASHION HOUSE M NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11192,8 +11215,8 @@
     "img": 1475,
     "producto": "ABRIGO MORADO DECREE L/G",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -11201,7 +11224,7 @@
     "img": 1476,
     "producto": "PANTALON JEANS CHEROKE 16",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 350,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11210,8 +11233,8 @@
     "img": 1477,
     "producto": "PANTALON GYM NEGRO LACITO VERDE APX M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11219,25 +11242,25 @@
     "img": 1478,
     "producto": "PANTALON JEANS MYTHOS EU 34",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 300,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1157,
     "img": 1479,
-    "producto": "PANTALON DE TELA AZUL EXPRESS M",
+    "producto": "PANTALON DE TELA AZUL EXPRESS M PARA DOCTOR",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 300,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1158,
     "img": 1480,
-    "producto": "PANTALON DE TELA VERDE OLIVO S",
+    "producto": "PANTALON DE TELA GRIS S",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 300,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11246,17 +11269,17 @@
     "img": 1481,
     "producto": "PANTALON DE EMBARAZADA JEANS INBDIGO BLUE XS/TP",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-6",
     "mostrar": 1
   },
   {
     "id": 1160,
     "img": 1482,
-    "producto": "FRANELA AZUL L",
+    "producto": "SUETER SIN MANGAS AZUL L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11264,7 +11287,7 @@
     "img": 1483,
     "producto": "PANTALON DE TELA NEGRO ESTI COUTURE M",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 250,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11273,8 +11296,8 @@
     "img": 1484,
     "producto": "PANTALON DE EMBARAZADA NEGRO APX M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-6",
     "mostrar": 1
   },
   {
@@ -11282,17 +11305,17 @@
     "img": 1485,
     "producto": "JONSU BEBE LITTLE 3-6M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 100,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1164,
     "img": 1486,
-    "producto": "FRANELA AZUL UNA MANGA APX M",
+    "producto": "SUETER SIN MANGAS AZUL UNA MANGA APX M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11300,17 +11323,17 @@
     "img": 1487,
     "producto": "BLUSA NEGRA PRIVY APX M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1166,
     "img": 1488,
-    "producto": "JONSU ESTAMPADO ROJO AMARILLO AZUL  L",
+    "producto": "JONSU CORTO ESTAMPADO ROJO AMARILLO AZUL  L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -11318,7 +11341,7 @@
     "img": 1489,
     "producto": "PANTALON JEANS AZUL CRITHOFER BLUE 6",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 350,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11327,17 +11350,17 @@
     "img": 1490,
     "producto": "PANTALON DE EMBARAZADA NEGRO M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-6",
     "mostrar": 1
   },
   {
     "id": 1169,
     "img": 1491,
-    "producto": "PANTALON GYM NEGRO APX S",
+    "producto": "LICRA GYM NEGRO APX S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11345,26 +11368,26 @@
     "img": 1492,
     "producto": "PANTALON JEANS CLARO AMERICAN EAGLE NE X LEVEL  STRETCH ",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 300,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1171,
     "img": 1493,
-    "producto": "ABRIGO GRIS POKEMON OLD NAVY L 10-12",
+    "producto": "ABRIGO CON GORRO GRIS POKEMON OLD NAVY L 10-12 NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1172,
     "img": 1494,
-    "producto": "BLUSA DESGRADADOS AZULES Y ESTAMPAS NORACORA L",
+    "producto": "BLUSA AZULES Y ESTAMPAS NORACORA L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11372,44 +11395,45 @@
     "img": 1495,
     "producto": "4 ALFOMBRAS DE AUTO FRONT 68*44 REAR 44*33 CM OXGORD.COM",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 1000,
     "ubicacion": "CT2",
-    "mostrar": 1
+    "mostrar": 1,
+    "actualizado": 1
   },
   {
     "id": 1174,
     "img": 1496,
-    "producto": "ABRIGO VERDE TAHARI M",
+    "producto": "SUETER MANGAS LARGAS VERDE TAHARI M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1175,
     "img": 1497,
-    "producto": "BLUSA GRIS ABRIGO GIRS M APX",
+    "producto": "CHALECO LARGO DE VESTIR GRIS ABRIGO GIRS M APX",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
     "id": 1176,
     "img": 1498,
-    "producto": "CAPUCHA DE BRUJA DE HARRI POTER",
+    "producto": "CAPUCHA DE BRUJA DE HARRI POTER NUEVA",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 500,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1177,
     "img": 1499,
-    "producto": "PANTALON AZUL M APX",
+    "producto": "LICRA AZUL MARINO M APX",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11417,8 +11441,8 @@
     "img": 1500,
     "producto": "PANTALON DE EMBARAZADA CREMA JESSICA SIMPON SP",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-6",
     "mostrar": 1
   },
   {
@@ -11426,7 +11450,7 @@
     "img": 1501,
     "producto": "PANTALON MARRON OLD NAVY 0",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 350,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11435,26 +11459,26 @@
     "img": 1502,
     "producto": "PANUELO FINO GRANDE",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 150,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1181,
     "img": 1503,
-    "producto": "PANTALON GYM NEGRO PIOMA M",
+    "producto": "PANTALON GYM GRIS PIOMA M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
     "id": 1182,
     "img": 1504,
-    "producto": "PANTALON NEGRO CAT JACK XL 14-16",
+    "producto": "LICRA NEGRO CAT JACK XL 14-16",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11462,8 +11486,8 @@
     "img": 1505,
     "producto": "BLUSA NEGRA DE BRILLO STREETWEAR S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11471,7 +11495,7 @@
     "img": 1506,
     "producto": "PANTALON NEGRO DE RAMITAS BLANCAS APX M",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 150,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11480,26 +11504,26 @@
     "img": 1507,
     "producto": "PANTALON JEANS HOLLISTER W 23 L 33",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 200,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1186,
     "img": 1508,
-    "producto": "PANTALON GYM AZUL OLD NAVY M 8",
+    "producto": "LICRA GYM AZUL OLD NAVY M 8 NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
     "id": 1187,
     "img": 1509,
-    "producto": "PANTALON GYM ADIDAS 5",
+    "producto": "LICRA GYM ADIDAS 5 NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11507,62 +11531,62 @@
     "img": 1510,
     "producto": "PANTALON JEANS ROJO 0",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 300,
     "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1189,
     "img": 1511,
-    "producto": "PANTALON NEGRO CORTO W 28",
+    "producto": "PANTALON CORTO NEGRO  W 28",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1190,
     "img": 1512,
-    "producto": "PANTALON NEGRO CORTO NAUTICA 10",
+    "producto": "PANTALON CORTO NEGRO  NAUTICA 10",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1191,
     "img": 1513,
-    "producto": "FALDA CORTA AZUL COOLIBAR S",
+    "producto": "FALDA PANTALON CORTA AZUL COOLIBAR S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
     "id": 1192,
     "img": 1514,
-    "producto": "TRAJE DE BAÑO DE FLORES NEGRO Y ROSA APX M",
+    "producto": "BLUSA DE FLORES NEGRO Y ROSA APX M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1193,
     "img": 1515,
-    "producto": "SUETER CORTO ROSADO WILD FABLE XXL",
+    "producto": "SUETER CORTO ROJO VINO WILD FABLE XXL",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 150,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1194,
     "img": 1516,
-    "producto": "PANTALON AZUL CORTO 10",
+    "producto": "PANTALON CORTO AZUL  10",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 100,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11570,17 +11594,17 @@
     "img": 1517,
     "producto": "FRANELA MORADA XS ",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 100,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1196,
     "img": 1518,
-    "producto": "BRAZIER NEGRO XL XG",
+    "producto": "BLUSA DE GYM NEGRO XL XG",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11588,8 +11612,8 @@
     "img": 1519,
     "producto": "PANTALON CORTO JEAN 24",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11597,8 +11621,8 @@
     "img": 1520,
     "producto": "BERMUDA VERDE XL",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
@@ -11606,26 +11630,26 @@
     "img": 1521,
     "producto": "BLUSA AZUL CON NEGRO ATELIER M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1200,
     "img": 1522,
-    "producto": "BLUSA SIN MANGA AZUL CLARO CON FLORES PAPE TEE M",
+    "producto": "BLUSA TIRITO SIN MANGA AZUL CLARO CON FLORES PAPE TEE M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1201,
     "img": 1523,
-    "producto": "FALDA CORTA AZUL CAT JACK XS 4/5",
+    "producto": "FALDA PANTALON NEGRA CAT JACK XS 4/5 NUEVA",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -11633,7 +11657,7 @@
     "img": 1524,
     "producto": "PANTALON DE BAÑO ROSADO Y NEGRO  ROYY 28",
     "categoria": "ROPA",
-    "precio": 0,
+    "precio": 250,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -11642,26 +11666,26 @@
     "img": 1525,
     "producto": "SUETER GRIS OKIE DOKIE XL 7",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1204,
     "img": 1526,
-    "producto": "SUETER GRIS OSCURO  S",
+    "producto": "SUETER GRIS OSCURO  S NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1205,
     "img": 1527,
-    "producto": "ABRIGO NEGRO UNDER ARMOUND 5",
+    "producto": "SUETER MANGAS LARGAS NEGRO UNDER ARMOUND 5 NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -11669,35 +11693,35 @@
     "img": 1528,
     "producto": "JONSU BEBE MARVEL 3-6 M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 100,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1207,
     "img": 1529,
-    "producto": "BRAZIER NEGRO HEAD L",
+    "producto": "BLUSA DE GYM NEGRO HEAD L",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1208,
     "img": 1530,
-    "producto": "VESTIDO CORTO VERDE TRAFALUC M",
+    "producto": "BLUSA VERDE TRAFALUC M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1209,
     "img": 1531,
-    "producto": "ABRIGO AZUL XS 4/5",
+    "producto": "ABRIGO AZUL XS 4/5 NUEVO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -11705,8 +11729,8 @@
     "img": 1532,
     "producto": "PANTALON GYM NEGRO  M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
@@ -11714,17 +11738,17 @@
     "img": 1533,
     "producto": "ABRIGO AMARILLO EXPRESS SP",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 400,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
     "id": 1212,
     "img": 1534,
-    "producto": "JONSU AZUL CAT JACK  0-3M",
+    "producto": "JONSU BEBE AZUL CAT JACK  0-3M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 50,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
@@ -11732,35 +11756,35 @@
     "img": 1535,
     "producto": "FRANELA NEGRA BROOKS XL",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1214,
     "img": 1536,
-    "producto": "BLUSA AZUL MARINO CON NEGRO Y BLANCO CHIC MI S",
+    "producto": "JONSU CORTO AZUL MARINO CON NEGRO Y BLANCO CHIC MI S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
     "id": 1215,
     "img": 1537,
-    "producto": "PANTALON NEGRO ADIDAS M 10-12",
+    "producto": "LICRA NEGRO ADIDAS M 10-12",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-5",
     "mostrar": 1
   },
   {
     "id": 1216,
     "img": 1538,
-    "producto": "ABRIGO MORADO ACTIVE BASIC M",
+    "producto": "ABRIGO AZUL MARINO ACTIVE BASIC M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-7",
     "mostrar": 1
   },
   {
@@ -11768,8 +11792,8 @@
     "img": 1539,
     "producto": "BUFANDA Y GUANTES GRIS",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 450,
+    "ubicacion": "CT2-2",
     "mostrar": 1
   },
   {
@@ -11777,8 +11801,8 @@
     "img": 1540,
     "producto": "BUFANDA VERDE OLIVO ATP 9",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-2",
     "mostrar": 1
   },
   {
@@ -11786,17 +11810,17 @@
     "img": 1541,
     "producto": "BUFANDA VERDE CLARO",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-2",
     "mostrar": 1
   },
   {
     "id": 1220,
     "img": 1542,
-    "producto": "TRAJE DE BAÑO CREMA ENDLESS S",
+    "producto": "CHALECO CREMA ENDLESS S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11804,8 +11828,8 @@
     "img": 1543,
     "producto": "BLUSA AZUL DE RALLAS FOREVER 21 APX M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11813,8 +11837,8 @@
     "img": 1544,
     "producto": "JONSU BEBE AZUL HEALTH TEXT 24 MOS",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 50,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
@@ -11822,8 +11846,8 @@
     "img": 1545,
     "producto": "BLUSA BLANCA 1 MANGA ZAVEKIA S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11831,8 +11855,8 @@
     "img": 1546,
     "producto": "BLUSA BLANCA FOREVER M",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11840,8 +11864,8 @@
     "img": 1547,
     "producto": "CONJUNTO BLANCO BLUSA Y FALDA MENSI S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 700,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -11849,8 +11873,8 @@
     "img": 1548,
     "producto": "VESTIDO DE FLORES Y HOJAS S",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 500,
+    "ubicacion": "CT2-4",
     "mostrar": 1
   },
   {
@@ -11858,8 +11882,8 @@
     "img": 1549,
     "producto": "BUFANDA AZUL ",
     "categoria": "ROPA",
-    "precio": 0,
-    "ubicacion": "CT2",
+    "precio": 300,
+    "ubicacion": "CT2-2",
     "mostrar": 1
   },
   {
@@ -11870,6 +11894,7 @@
     "precio": 800,
     "ubicacion": "C1",
     "mostrar": 1,
+    "actualizado": 1,
     "comentario": "AL 01092025 ESTE ERA EL ENVASE DE COMIDA AZUL."
   },
   {
@@ -11893,7 +11918,7 @@
     "precio": 1900,
     "ubicacion": "CT",
     "mostrar": 1,
-    "estado": "kenia"
+    "actualizado": "kenia"
   },
   {
     "id": 1231,
@@ -11912,8 +11937,8 @@
     "precio": 2600,
     "ubicacion": "CT",
     "mostrar": 1,
-    "fecha": 45912,
-    "estado": "publicidad ibelka"
+    "actualizado": "publicidad ibelka",
+    "fecha": 45912
   },
   {
     "id": 1233,
