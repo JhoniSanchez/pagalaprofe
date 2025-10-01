@@ -135,6 +135,14 @@ const Blog2 = ({ blog, dele }) => {
     img = 1700;
   } else if (Number(blog.img) < 1800) {
     img = 1800;
+  } else if (Number(blog.img) < 1900) {
+    img = 1900;
+  } else if (Number(blog.img) < 2000) {
+    img = 2000;
+  } else if (Number(blog.img) < 2100) {
+    img = 2100;
+  } else if (Number(blog.img) < 2200) {
+    img = 2200;
   }
 
   const imageUrl = `https://raw.githubusercontent.com/JhoniSanchez/imagenes/main/${img}/${blog.img}.JPG`;
@@ -176,8 +184,7 @@ const Blog2 = ({ blog, dele }) => {
         </div>
         <div className="cod">
           {<p> </p>} {<p> </p>}
-          {blog.ubicacion}-
-          {blog.img}
+          {blog.ubicacion}-{blog.img}
         </div>
       </div>
 

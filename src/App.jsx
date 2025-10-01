@@ -510,6 +510,7 @@ const App = () => {
 
     let catego = filter3987.filter((el) => el.categoria === categoria);
     let catego3 = blogs3.filter((el) => el.categoria === categoria);
+    
 
     setBlogs2(catego);
     if (categoria == "TODO") {
@@ -534,6 +535,23 @@ const App = () => {
   let total = blogs2.reduce((t, item) => t + (Number(item.precio) || 0), 0);
 
   const cantidadMostrando = blogs2.filter((item) => item.mostrar === 1).length;
+    const cantidadMostrandototal = datos.datos.filter((item) => item.mostrar === 1).length;
+
+      const cantidadMostrandototalropa = datos.datos.filter((item) => item.categoria === "ROPA").length;
+
+const carteras = datos.datos.filter((item) => item.categoria === "MUJER").length;
+const calzado = datos.datos.filter((item) => item.categoria === "CALZADO").length;
+const personal = datos.datos.filter((item) => item.categoria === "PERSONAL").length;
+const adornos = datos.datos.filter((item) => item.categoria === "ADORNOS").length;
+const cristales = datos.datos.filter((item) => item.categoria === "CRISTALES").length;
+const cocina = datos.datos.filter((item) => item.categoria === "COCINA").length;
+const hogar = datos.datos.filter((item) => item.categoria === "HOGAR").length;
+const electro = datos.datos.filter((item) => item.categoria === "ELECTRODOMESTICO").length;
+const juguetes = datos.datos.filter((item) => item.categoria === "NIÑOS").length;
+const carros = datos.datos.filter((item) => item.categoria === "NIÑOS2").length;
+const ropa = datos.datos.filter((item) => item.categoria === "ROPA").length;
+
+
   console.log(cantidadMostrando);
   return (
     <div className="app">
@@ -648,7 +666,8 @@ const App = () => {
       >
         {/* Sección del encabezado con el nombre y la foto */}
         <div style={styles.header}>
-          <h1 style={styles.title}>PACA GINITA</h1>
+          <h1 style={styles.title}>PACA GINITA </h1>
+          <h2>{cantidadMostrandototal}-Articulos</h2>
           <div style={styles.profilePlaceholder}>
             {" "}
             <img
@@ -662,37 +681,37 @@ const App = () => {
         {/* Sección de los botones */}
         <div style={styles.buttonsGrid}>
           <button style={styles.button} onClick={mujerBtn}>
-            CARTERAS
+            CARTERAS - {carteras}
           </button>
           <button style={styles.button} onClick={calzadoBtn}>
-            CALZADO
+            CALZADO - {calzado}
           </button>
           <button style={styles.button} onClick={personalBtn}>
-            USO PERSONAL
+            USO PERSONAL - {personal}
           </button>
           <button style={styles.button2} onClick={adornosBtn}>
-            ADORNOS
+            ADORNOS - {adornos}
           </button>
           <button style={styles.button2} onClick={cristalesBtn}>
-            CRISTALERIA
+            CRISTALERIA - {cristales}
           </button>
           <button style={styles.button2} onClick={cocinaBtn}>
-            COCINA
+            COCINA - {cocina}
           </button>
           <button style={styles.button2} onClick={hogarBtn}>
-            DEL HOGAR
+            DEL HOGAR - {hogar}
           </button>
           <button style={styles.button3} onClick={electroBtn}>
-            ELECTRODOMÉS...
+            ELECTRODOMÉS... - {electro}
           </button>
           <button style={styles.button4} onClick={ninosBtn1}>
-            JUGUETES
+            JUGUETES - {juguetes}
           </button>
           <button style={styles.button5} onClick={ninosBtn2}>
-            CARROS
+            CARROS  - {carros}
           </button>
                 <button style={styles.button6} onClick={ropabtn}>
-            ROPA
+            ROPA - {ropa}
           </button>
           <button style={styles.button3}>PROXIMAMENTE</button>
         </div>

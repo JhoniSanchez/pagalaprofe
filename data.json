@@ -484,7 +484,10 @@
     "precio": 1800,
     "ubicacion": "C2",
     "mostrar": 0,
-    "estado": "Apartado"
+    "fecha": 45926,
+    "estado": "Credito",
+    "cliente": "Yesica",
+    "comentario": "Se habia apartado desde antes de 26/09/25, como 1 mes antes, per el 26/09 se recibio el primer pago y la confirmacion de compra. El 26/09/2025 se pago 350 pesos de 1000 que ella habia enviado."
   },
   {
     "id": 47,
@@ -667,7 +670,7 @@
     "ubicacion": "C3",
     "mostrar": 0,
     "fecha": 45890,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "maria disla",
     "detallecliente": "COLEGIO"
   },
@@ -876,8 +879,8 @@
     "precio": 400,
     "ubicacion": "C3",
     "mostrar": 0,
-    "fecha": 45880,
-    "estado": "credito",
+    "fecha": 45924,
+    "estado": "SALDO",
     "cliente": "DEWIKLA"
   },
   {
@@ -968,7 +971,7 @@
     "ubicacion": "C3",
     "mostrar": 0,
     "fecha": 45866,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
@@ -1555,8 +1558,8 @@
     "precio": 600,
     "ubicacion": "C4",
     "mostrar": 0,
-    "fecha": 45880,
-    "estado": "CREDITO",
+    "fecha": 45926,
+    "estado": "SALDO",
     "cliente": "yesica",
     "detallecliente": "colegio"
   },
@@ -1804,7 +1807,7 @@
     "ubicacion": "C4",
     "mostrar": 0,
     "fecha": 45866,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
@@ -2070,7 +2073,7 @@
     "ubicacion": "C4",
     "mostrar": 0,
     "fecha": 45917,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "NICAURIS",
     "comentario": "11/8/25 APARTADO A YESICA, NO LE GUSTO. Al 17092025 se le vendio a nicauris"
   },
@@ -2536,7 +2539,7 @@
     "ubicacion": "C5",
     "mostrar": 0,
     "fecha": 45904,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "MARIELYS"
   },
   {
@@ -2834,7 +2837,7 @@
     "ubicacion": "C5",
     "mostrar": 0,
     "fecha": 45866,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
@@ -3252,8 +3255,8 @@
     "precio": 50,
     "ubicacion": "C5",
     "mostrar": 0,
-    "fecha": 45878,
-    "estado": "CREDITO",
+    "fecha": 45926,
+    "estado": "SALDO",
     "cliente": "yesica",
     "detallecliente": "colegio"
   },
@@ -3286,8 +3289,8 @@
     "precio": 400,
     "ubicacion": "C5",
     "mostrar": 0,
-    "fecha": 45880,
-    "estado": "credito",
+    "fecha": 45924,
+    "estado": "SALDO",
     "cliente": "DEWILKA"
   },
   {
@@ -3511,7 +3514,7 @@
     "ubicacion": "C6",
     "mostrar": 0,
     "fecha": 45890,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "maria disla",
     "detallecliente": "COLEGIO"
   },
@@ -3646,8 +3649,8 @@
     "precio": 200,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": 45913,
-    "estado": "CREDITO",
+    "fecha": 45924,
+    "estado": "SALDO",
     "cliente": "yohanna"
   },
   {
@@ -3709,9 +3712,9 @@
     "precio": 250,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": 45904,
-    "estado": "credito",
-    "cliente": "yohanna",
+    "fecha": 45924,
+    "estado": "SALDO",
+    "cliente": "DELWILKA",
     "comentario": "AL 12-09-2025 MAMI LO LLEVO ALLA ARRIBA, QUE ESTABA TODABIA EN LA MESA"
   },
   {
@@ -3977,7 +3980,7 @@
     "ubicacion": "C6",
     "mostrar": 0,
     "fecha": 45880,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "PURA",
     "detallecliente": "COLEGIO",
     "comentario": "Al 04/09/2025 ab 500, debe 100"
@@ -4033,7 +4036,7 @@
     "ubicacion": "C6",
     "mostrar": 0,
     "fecha": 45897,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
@@ -4231,7 +4234,7 @@
     "precio": 400,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": "29-7-25",
+    "fecha": 45867,
     "estado": "CREDITO",
     "montodeventa": 400,
     "montofinal": 400,
@@ -4268,7 +4271,7 @@
     "precio": 1000,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": "29-7-25",
+    "fecha": 45867,
     "estado": "CREDITO",
     "montodeventa": 1000,
     "montofinal": 1000,
@@ -4435,8 +4438,8 @@
     "precio": 50,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": 45880,
-    "estado": "credito",
+    "fecha": 45924,
+    "estado": "SALDO",
     "cliente": "DEWILKA"
   },
   {
@@ -4545,7 +4548,7 @@
     "ubicacion": "CR",
     "mostrar": 0,
     "fecha": 45897,
-    "estado": "credito",
+    "estado": "CREDITO",
     "cliente": "MARIELYS",
     "detallecliente": "COLEGIO"
   },
@@ -10537,242 +10540,233 @@
   },
   {
     "id": 1078,
-    "img": 1400,
-    "producto": "CAMISA BLANCA L 16 ½ 32/33",
+    "img": 1495,
+    "producto": "100 4 ALFOMBRAS DE AUTO FRONT 68*44 REAR 44*33 CM OXGORD.COM",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-3",
+    "precio": 1000,
+    "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1079,
-    "img": 1401,
-    "producto": "BLUSA ROJA THOMY BAHAMA S/P",
+    "img": 1421,
+    "producto": "101 PANTALON BLANCO ARNALDO 6",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
+    "precio": 250,
+    "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1080,
-    "img": 1402,
-    "producto": "BLUSA DE FLORECITAS CAMILA CASUAL USA 8 –  EN REVISION LA PROFE",
+    "img": 1968,
+    "producto": "102 PANTALON CREMA DE ENFERMERA ANGELICA 40",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2",
     "mostrar": 1
   },
   {
     "id": 1081,
+    "img": 1479,
+    "producto": "103 PANTALON DE TELA AZUL EXPRESS M PARA DOCTOR",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1082,
+    "img": 1760,
+    "producto": "104 PANTALON DE TELA AZUL OSCURO HOBBY CLASSIC –",
+    "categoria": "ROPA",
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1083,
+    "img": 1866,
+    "producto": "105 PANTALON DE TELA AZUL OSCURO MEDIO LARGO PREMIUM KHAKI 40X30",
+    "categoria": "ROPA",
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1084,
+    "img": 1876,
+    "producto": "106 PANTALON DE TELA CAMPANA MARRON WORTHINTONG 6",
+    "categoria": "ROPA",
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1085,
+    "img": 1480,
+    "producto": "107 PANTALON DE TELA GRIS S",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1086,
+    "img": 1483,
+    "producto": "108 PANTALON DE TELA NEGRO ESTI COUTURE M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1087,
+    "img": 1404,
+    "producto": "109 PANTALON DE TELA RALLAS ROJAS ROSA Y NEGRAS TOTAL GIRL S ⅞",
+    "categoria": "ROPA",
+    "precio": 200,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1088,
+    "img": 1895,
+    "producto": "110 PANTALON DE UNIFORME VERDE TL 2X",
+    "categoria": "ROPA",
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1089,
+    "img": 1471,
+    "producto": "111 PANTALON GRIS C EST 0 NUEVO",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1090,
+    "img": 1850,
+    "producto": "112 PANTALON GRIS OLD NAVI 18 ALTA",
+    "categoria": "ROPA",
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1091,
+    "img": 1501,
+    "producto": "113 PANTALON MARRON OLD NAVY 0",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1092,
+    "img": 1448,
+    "producto": "114 PANTALON NEGRO CNTENTA APX M",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1093,
+    "img": 1506,
+    "producto": "115 PANTALON NEGRO DE RAMITAS BLANCAS APX M",
+    "categoria": "ROPA",
+    "precio": 150,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1094,
+    "img": 1461,
+    "producto": "116 PANTALON NEGRO KALVIN KELIN S",
+    "categoria": "ROPA",
+    "precio": 500,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1095,
+    "img": 1467,
+    "producto": "117 PANTALON ROJO VINO STRETCHTECH M",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2",
+    "mostrar": 1
+  },
+  {
+    "id": 1096,
     "img": 1403,
-    "producto": "BOLSA PARA PANALES Y CORTINA BEBE CREMA CON VERDE",
+    "producto": "118 BOLSA PARA PANALES Y CORTINA BEBE CREMA CON VERDE",
     "categoria": "ROPA",
     "precio": 350,
     "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
-    "id": 1082,
-    "img": 1404,
-    "producto": "PANTALON DE TELA RALLAS ROJAS ROSA Y NEGRAS TOTAL GIRL S ⅞",
-    "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2",
-    "mostrar": 1
-  },
-  {
-    "id": 1083,
-    "img": 1405,
-    "producto": "BLUSA AMARILLA NASTY GAL US 0",
-    "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-3",
-    "mostrar": 1
-  },
-  {
-    "id": 1084,
-    "img": 1406,
-    "producto": "SUETER SIN MANGA ROSADO CRAZY M 7-8",
-    "categoria": "ROPA",
-    "precio": 150,
-    "ubicacion": "CT2-1",
-    "mostrar": 1
-  },
-  {
-    "id": 1085,
-    "img": 1407,
-    "producto": "SUETER MANGAS LARGAS ROJO CAT JACK M 8-10",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-7",
-    "mostrar": 1
-  },
-  {
-    "id": 1086,
-    "img": 1408,
-    "producto": "ABRIGO CREMA LARGO GRUESO ZARA USA S",
-    "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
-    "mostrar": 1
-  },
-  {
-    "id": 1087,
-    "img": 1409,
-    "producto": "BLUSA AZUL CON BLANCO CHINA M",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
-    "mostrar": 1
-  },
-  {
-    "id": 1088,
-    "img": 1410,
-    "producto": "LICRA DE RAYAS ROJAS Y BLANCAS SIMPLE JOYS 8",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-5",
-    "mostrar": 1
-  },
-  {
-    "id": 1089,
-    "img": 1411,
-    "producto": "ABRIGO GRIS CLARO NIKE 6",
-    "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
-    "mostrar": 1
-  },
-  {
-    "id": 1090,
-    "img": 1412,
-    "producto": "PANTALON GRIS KAKI PLACE 6",
-    "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2",
-    "mostrar": 1
-  },
-  {
-    "id": 1091,
-    "img": 1413,
-    "producto": "SUETER GIRS CON NEGRO HARD 10/12",
-    "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2-1",
-    "mostrar": 1
-  },
-  {
-    "id": 1092,
-    "img": 1414,
-    "producto": "ABRIGO GRIS CON BALNCO EXPRESS XS TP",
-    "categoria": "ROPA",
-    "precio": 450,
-    "ubicacion": "CT2-7",
-    "mostrar": 1
-  },
-  {
-    "id": 1093,
-    "img": 1415,
-    "producto": "PANTALON DE EMBARAZADA CREMA MOTHERHOOD US S",
-    "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-6",
-    "mostrar": 1
-  },
-  {
-    "id": 1094,
-    "img": 1416,
-    "producto": "JONSU CUADRITOS AMARILLO CON BLANCO OLD NAVY S",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-4",
-    "mostrar": 1
-  },
-  {
-    "id": 1095,
-    "img": 1417,
-    "producto": "ABRIGO ROJO BLANCO Y NEGRO KIMROGERS M",
-    "categoria": "ROPA",
-    "precio": 450,
-    "ubicacion": "CT2-7",
-    "mostrar": 1
-  },
-  {
-    "id": 1096,
-    "img": 1418,
-    "producto": "BLUSA ROSADA GENERICA M",
-    "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2-3",
-    "mostrar": 1
-  },
-  {
     "id": 1097,
-    "img": 1419,
-    "producto": "ABRIGO ROJO Y BLANCO DE RAYA WONDER NATION M 7-8",
+    "img": 1930,
+    "producto": "119 CAPA DE HOMBRE ARAÑA ROJA Y AZUL ",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1098,
-    "img": 1420,
-    "producto": "SUETER GRIS CON BALNCO HOLLISTER M",
+    "img": 1498,
+    "producto": "120 CAPUCHA DE BRUJA DE HARRI POTER NUEVA",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-1",
+    "precio": 500,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1099,
-    "img": 1421,
-    "producto": "PANTALON BLANCO ARNALDO 6",
+    "img": 1992,
+    "producto": "121 GORRITO BLANCO BEBE ",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1100,
-    "img": 1422,
-    "producto": "CAMISA CREMA UNIFORME M",
+    "img": 1975,
+    "producto": "122 GUANTES Y TIRAS DE DISFRAZ",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1101,
-    "img": 1423,
-    "producto": "BLUSA SACO BLANCO LAURA TYLER APX L",
+    "img": 1534,
+    "producto": "123 JONSU BEBE AZUL CAT JACK  0-3M",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
+    "precio": 50,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1102,
-    "img": 1424,
-    "producto": "BLUSA HOJAS AMARILLAS MENGSI M",
+    "img": 1544,
+    "producto": "124 JONSU BEBE AZUL HEALTH TEXT 24 MOS",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-3",
+    "precio": 50,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1103,
-    "img": 1425,
-    "producto": "BLUSA BLANCA S",
+    "img": 1437,
+    "producto": "125 JONSU BEBE FLORECITAS 9 M ",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-3",
+    "precio": 100,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1104,
-    "img": 1426,
-    "producto": "JONSU BEBE VERDE CLARO 6-9 M ",
+    "img": 1485,
+    "producto": "126 JONSU BEBE LITTLE 3-6M",
     "categoria": "ROPA",
     "precio": 100,
     "ubicacion": "CT2-0",
@@ -10780,1110 +10774,1035 @@
   },
   {
     "id": 1105,
-    "img": 1427,
-    "producto": "ABRIGO BLANCO DE BOLITAS NEGRAS LOFT L",
+    "img": 1528,
+    "producto": "127 JONSU BEBE MARVEL 3-6 M",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "precio": 100,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1106,
-    "img": 1428,
-    "producto": "VESTIDO CORTO BOLITAS CUADRITOS NEGROS TORY BRUCH S NUEVO",
+    "img": 1426,
+    "producto": "128 JONSU BEBE VERDE CLARO 6-9 M ",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-4",
+    "precio": 100,
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1107,
-    "img": 1429,
-    "producto": "CAMISA BLANCA DE RAYAS AZULES LOGG US 2",
+    "img": 1812,
+    "producto": "129 TRAJE MARVEL NINJA L 10-12",
     "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-0",
     "mostrar": 1
   },
   {
     "id": 1108,
-    "img": 1430,
-    "producto": "CHALECO BLANCO LAURA TYLER APX M SIN ETIQUETA",
+    "img": 1916,
+    "producto": "130 BERMUDA CORTA AZUL CLARO MENS L 36/38",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-4",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1109,
-    "img": 1431,
-    "producto": "BLUSA EN CONJUTNO CREMA POLLY US 2",
+    "img": 1830,
+    "producto": "131 BERMUDA CORTA AZUL MARINO ESTAMPADOS MONDINO L/G",
     "categoria": "ROPA",
-    "precio": 500,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1110,
-    "img": 1432,
-    "producto": "ABRIGO ROJO BESSERBAY 120",
+    "img": 1868,
+    "producto": "132 BERMUDA CORTA AZUL MARINO RUSS… M 32-34",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1111,
-    "img": 1433,
-    "producto": "SUETER NARANJA CAT JACK L 12/14",
+    "img": 1780,
+    "producto": "133 BERMUDA CORTA AZUL OSCURO DE JORDANIA M 32-34",
     "categoria": "ROPA",
-    "precio": 250,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1112,
-    "img": 1434,
-    "producto": "ABRIGO AMARILLO SYF S",
+    "img": 1788,
+    "producto": "134 BERMUDA CORTA AZUL OSCURO SPEEDO G G L",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1113,
-    "img": 1435,
-    "producto": "ABRIGO ROJO NIKE L",
+    "img": 1828,
+    "producto": "135 BERMUDA CORTA AZULO MARINO UNDER AMOUR XL TG EG",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1114,
-    "img": 1436,
-    "producto": "ABRIGO ROJO NIKE XL",
+    "img": 1790,
+    "producto": "136 BERMUDA CORTA CON BOLSILLO HIJO AMARILLO AMERICAN EAGLE 32",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1115,
-    "img": 1437,
-    "producto": "JONSU BEBE FLORECITAS 9 M ",
+    "img": 1950,
+    "producto": "137 BERMUDA CORTA CREMA UNDER AMOUR LG G G ",
     "categoria": "ROPA",
-    "precio": 100,
-    "ubicacion": "CT2-0",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1116,
-    "img": 1438,
-    "producto": "ABRIGO GRIS CON ESTAMPILLAS OKIE DOKIE BLANCAS 5T",
+    "img": 1824,
+    "producto": "138 BERMUDA CORTA GRIS CON ROJO STARTING XXL",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1117,
-    "img": 1439,
-    "producto": "PANTALON CORTO  ROJO XL 18/20",
+    "img": 1786,
+    "producto": "139 BERMUDA CORTA GRIS OSCURO DE PHILIPINAS XXL",
     "categoria": "ROPA",
-    "precio": 350,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1118,
-    "img": 1440,
-    "producto": "ABRIGO ROJO CON BLANCO PLACE M ⅞",
+    "img": 1782,
+    "producto": "140 BERMUDA CORTA MARRON DRI FIT XXL",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1119,
-    "img": 1441,
-    "producto": "LICRA GYM ROSADO FUSIA  M",
+    "img": 1822,
+    "producto": "141 BERMUDA CORTA NEGRA  INDONESIA S 28-30",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1120,
-    "img": 1442,
-    "producto": "ABRIGO VERDE DINOSAURIO PLACE S/P 5/6",
+    "img": 1818,
+    "producto": "142 BERMUDA CORTA NEGRA CHAMPION L/G",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1121,
-    "img": 1443,
-    "producto": "SUETER NEGRO ADIDAS S",
+    "img": 1774,
+    "producto": "143 BERMUDA CORTA NEGRA CON RAYAS AMARILLA Y MAMEI FOREVER 21 M",
     "categoria": "ROPA",
-    "precio": 300,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1122,
-    "img": 1444,
-    "producto": "CHALECO NEGRO GRUESO SPIRIT US XL",
+    "img": 1808,
+    "producto": "144 BERMUDA CORTA NEGRA NIKE DRI FIT M",
     "categoria": "ROPA",
-    "precio": 500,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1123,
-    "img": 1445,
-    "producto": "BLUSA NEGRA MICHAEL KORS  S",
+    "img": 1832,
+    "producto": "145 BERMUDA CORTA NEGRA SPEEDO L/G/G",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1124,
-    "img": 1446,
-    "producto": "CHALECO NEGRO COLLECTON JM XXL",
+    "img": 1932,
+    "producto": "146 BERMUDA CORTA ROJA DRIFIT XL TG EG ",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1125,
-    "img": 1447,
-    "producto": "SUETER  NEGRO TIME TRU XL 16-18",
+    "img": 1944,
+    "producto": "147 BERMUDA CORTA ROJA ESTRELLA AZUL M 32/34",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1126,
-    "img": 1448,
-    "producto": "PANTALON NEGRO CNTENTA APX M",
+    "img": 1940,
+    "producto": "148 BERMUDA CORTA ROJA Y AZUL S APX",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1127,
-    "img": 1449,
-    "producto": "PANTALON CORTO NEGRO USA 02",
+    "img": 1764,
+    "producto": "149 BERMUDA CORTA UMBRO M",
     "categoria": "ROPA",
-    "precio": 250,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1128,
-    "img": 1450,
-    "producto": "ABRIGO JACKET NEGRO GRUESO CHARTER CLUB PM",
+    "img": 1796,
+    "producto": "150 BERMUDA CORTA UNDER AMOUR XL",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1129,
-    "img": 1451,
-    "producto": "BLUSA SIN MANGAS AZUL NEW YORK COMPANY S",
+    "img": 1758,
+    "producto": "151 BERMUDA CORTA VERDE FLORES MV FASHION 44",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1130,
-    "img": 1452,
-    "producto": "ABRIGO VERDE J CREW XS ",
+    "img": 1734,
+    "producto": "152 BERMUDA GRIS AUGUSTA EXPORTWEAR XL",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1131,
-    "img": 1453,
-    "producto": "SUETER NEGRO OLD NAVY SP",
+    "img": 1754,
+    "producto": "153 BERMUDA NEGRA CON RAYAS LEG3ND S",
     "categoria": "ROPA",
-    "precio": 250,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1132,
-    "img": 1454,
-    "producto": "SUETER NEGRO OLD NAVY SP V2",
+    "img": 1776,
+    "producto": "154 BERMUDA NEGRA UNDER AMOUNT HEATGEAR MD/MM",
     "categoria": "ROPA",
-    "precio": 250,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1133,
-    "img": 1455,
-    "producto": "BLUSA SIN MANGAS NEGRA EVEN S",
+    "img": 1520,
+    "producto": "155 BERMUDA VERDE XL",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-3",
+    "precio": 350,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1134,
-    "img": 1456,
-    "producto": "ABRIGO AZUL DE RAYA  CON BLANCO TALBOT MP",
+    "img": 1920,
+    "producto": "156 FRANELA BLANCA M APX",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1135,
-    "img": 1457,
-    "producto": "SUETER AZUL CLARO Y OSCURO M",
+    "img": 1517,
+    "producto": "157 FRANELA MORADA XS ",
     "categoria": "ROPA",
-    "precio": 200,
+    "precio": 100,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1136,
-    "img": 1458,
-    "producto": "ABRIGO AZUL CON BLANCO ATLETIC WORK M 32 34",
+    "img": 1535,
+    "producto": "158 FRANELA NEGRA BROOKS XL",
     "categoria": "ROPA",
-    "precio": 500,
-    "ubicacion": "CT2-7",
+    "precio": 300,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1137,
-    "img": 1459,
-    "producto": "LICRA GYM NEGRO Y GRIS M",
+    "img": 1439,
+    "producto": "159 PANTALON CORTO  ROJO XL 18/20",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-5",
+    "precio": 350,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1138,
-    "img": 1460,
-    "producto": "LICRA GYM NEGRO L-G 10-12 M",
+    "img": 1516,
+    "producto": "160 PANTALON CORTO AZUL  10",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-5",
+    "precio": 100,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1139,
-    "img": 1461,
-    "producto": "PANTALON NEGRO KALVIN KELIN S",
+    "img": 1806,
+    "producto": "161 PANTALON CORTO CON BOLSILLOS NEGRO OLYMPIC   M",
     "categoria": "ROPA",
-    "precio": 500,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1140,
-    "img": 1462,
-    "producto": "JACKET COLCHADO NEGRO GRUESO LAUREN S",
+    "img": 1519,
+    "producto": "162 PANTALON CORTO JEAN 24",
     "categoria": "ROPA",
-    "precio": 700,
-    "ubicacion": "CT2-7",
+    "precio": 300,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1141,
-    "img": 1463,
-    "producto": "PANTALON JEANS SLIM BOOT ¾ L",
+    "img": 1756,
+    "producto": "163 PANTALON CORTO MARRON OPEN TRAILS M 8-10",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1142,
-    "img": 1464,
-    "producto": "PANTALON JEANS SKINNY 25 711",
+    "img": 1512,
+    "producto": "164 PANTALON CORTO NEGRO  NAUTICA 10",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1143,
-    "img": 1465,
-    "producto": "PANTALON CORTO ROJO ROSA PAISAJE S",
+    "img": 1810,
+    "producto": "165 PANTALON CORTO NEGRO  NEW BALANCE S/P",
     "categoria": "ROPA",
-    "precio": 150,
     "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1144,
-    "img": 1466,
-    "producto": "JONSU AZUL MARINO HOT DELICIOUS S",
+    "img": 1511,
+    "producto": "166 PANTALON CORTO NEGRO  W 28",
     "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2-4",
+    "precio": 350,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1145,
-    "img": 1467,
-    "producto": "PANTALON ROJO VINO STRETCHTECH M",
+    "img": 1736,
+    "producto": "167 PANTALON CORTO NEGRO M",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1146,
-    "img": 1468,
-    "producto": "SUERA AMARILLO THALIA M NUEVO",
+    "img": 1449,
+    "producto": "168 PANTALON CORTO NEGRO USA 02",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-4",
+    "precio": 250,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1147,
-    "img": 1469,
-    "producto": "PANTALON GYM UNDER AMOUNT S",
+    "img": 1465,
+    "producto": "169 PANTALON CORTO ROJO ROSA PAISAJE S",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-5",
+    "precio": 150,
+    "ubicacion": "CT2-1",
     "mostrar": 1
   },
   {
     "id": 1148,
-    "img": 1470,
-    "producto": "SUETER AZUL OSCURO L",
+    "img": 1748,
+    "producto": "170 PANTALON JEANS AZUL BKE STELLA 24",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1149,
-    "img": 1471,
-    "producto": "PANTALON GRIS C EST 0 NUEVO",
+    "img": 1744,
+    "producto": "171 PANTALON JEANS AZUL CAMAPANA TRUE RELIGION 24",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1150,
-    "img": 1472,
-    "producto": "LICRA CORTO AZUL CALRO Y OSCURO M APX",
+    "img": 1858,
+    "producto": "172 PANTALON JEANS AZUL CAMPANA JW6 24",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1151,
-    "img": 1473,
-    "producto": "PANTALON JEANS BKE  24 X 31 ½ ",
+    "img": 1489,
+    "producto": "173 PANTALON JEANS AZUL CRITHOFER BLUE 6",
     "categoria": "ROPA",
     "precio": 350,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1152,
-    "img": 1474,
-    "producto": "BLUSA CAMISERA JEANS AZUL FASHION HOUSE M NUEVO",
+    "img": 1860,
+    "producto": "174 PANTALON JEANS AZUL DEMI CURVE 0/24",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1153,
-    "img": 1475,
-    "producto": "ABRIGO MORADO DECREE L/G",
+    "img": 1746,
+    "producto": "175 PANTALON JEANS AZUL ROCK REVIDAL 25",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1154,
-    "img": 1476,
-    "producto": "PANTALON JEANS CHEROKE 16",
+    "img": 1732,
+    "producto": "176 PANTALON JEANS AZUL ROCK REVISAL 25",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1155,
-    "img": 1477,
-    "producto": "PANTALON GYM NEGRO LACITO VERDE APX M",
+    "img": 1473,
+    "producto": "177 PANTALON JEANS BKE  24 X 31 ½ ",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-5",
+    "precio": 350,
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1156,
-    "img": 1478,
-    "producto": "PANTALON JEANS MYTHOS EU 34",
+    "img": 1476,
+    "producto": "178 PANTALON JEANS CHEROKE 16",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2",
+    "precio": 350,
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1157,
-    "img": 1479,
-    "producto": "PANTALON DE TELA AZUL EXPRESS M PARA DOCTOR",
+    "img": 1492,
+    "producto": "179 PANTALON JEANS CLARO AMERICAN EAGLE NE X LEVEL  STRETCH ",
     "categoria": "ROPA",
     "precio": 300,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1158,
-    "img": 1480,
-    "producto": "PANTALON DE TELA GRIS S",
+    "img": 1412,
+    "producto": "180 PANTALON JEANS GRIS KAKI PLACE 6",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1159,
-    "img": 1481,
-    "producto": "PANTALON DE EMBARAZADA JEANS INBDIGO BLUE XS/TP",
+    "img": 1507,
+    "producto": "181 PANTALON JEANS HOLLISTER W 23 L 33",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-6",
+    "precio": 200,
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1160,
-    "img": 1482,
-    "producto": "SUETER SIN MANGAS AZUL L",
+    "img": 1478,
+    "producto": "182 PANTALON JEANS MYTHOS EU 34",
     "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2-1",
+    "precio": 300,
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1161,
-    "img": 1483,
-    "producto": "PANTALON DE TELA NEGRO ESTI COUTURE M",
+    "img": 1752,
+    "producto": "183 PANTALON JEANS NEGRO EXPRESS JEANS 29X32",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1162,
-    "img": 1484,
-    "producto": "PANTALON DE EMBARAZADA NEGRO APX M",
+    "img": 1728,
+    "producto": "184 PANTALON JEANS NEGRO EXPRESS SLIM FIT ROCCO 30X32",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-6",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1163,
-    "img": 1485,
-    "producto": "JONSU BEBE LITTLE 3-6M",
+    "img": 1750,
+    "producto": "185 PANTALON JEANS NEGRO GAP REGULAR TRUE SKINNY 32",
     "categoria": "ROPA",
-    "precio": 100,
-    "ubicacion": "CT2-0",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1164,
-    "img": 1486,
-    "producto": "SUETER SIN MANGAS AZUL UNA MANGA APX M",
+    "img": 1856,
+    "producto": "186 PANTALON JEANS NEGRO PACSUN 31X32",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1165,
-    "img": 1487,
-    "producto": "BLUSA NEGRA PRIVY APX M",
+    "img": 1854,
+    "producto": "187 PANTALON JEANS NEGRO ZARA 40",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1166,
-    "img": 1488,
-    "producto": "JONSU CORTO ESTAMPADO ROJO AMARILLO AZUL  L",
+    "img": 1510,
+    "producto": "188 PANTALON JEANS ROJO 0",
     "categoria": "ROPA",
     "precio": 300,
-    "ubicacion": "CT2-4",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1167,
-    "img": 1489,
-    "producto": "PANTALON JEANS AZUL CRITHOFER BLUE 6",
+    "img": 1464,
+    "producto": "189 PANTALON JEANS SKINNY 25 711",
     "categoria": "ROPA",
     "precio": 350,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1168,
-    "img": 1490,
-    "producto": "PANTALON DE EMBARAZADA NEGRO M",
+    "img": 1463,
+    "producto": "190 PANTALON JEANS SLIM BOOT ¾ L",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-6",
+    "precio": 300,
+    "ubicacion": "CT2-10",
     "mostrar": 1
   },
   {
     "id": 1169,
-    "img": 1491,
-    "producto": "LICRA GYM NEGRO APX S",
+    "img": 1768,
+    "producto": "191 SUETER AZUL BEBE L/G",
     "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1170,
-    "img": 1492,
-    "producto": "PANTALON JEANS CLARO AMERICAN EAGLE NE X LEVEL  STRETCH ",
+    "img": 1914,
+    "producto": "192 SUETER AZUL CLARO HANES L/G/G",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1171,
-    "img": 1493,
-    "producto": "ABRIGO CON GORRO GRIS POKEMON OLD NAVY L 10-12 NUEVO",
+    "img": 1457,
+    "producto": "193 SUETER AZUL CLARO Y OSCURO M",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
+    "precio": 200,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1172,
-    "img": 1494,
-    "producto": "BLUSA AZULES Y ESTAMPAS NORACORA L",
+    "img": 1962,
+    "producto": "194 SUETER AZUL CORTO M APX",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1173,
-    "img": 1495,
-    "producto": "4 ALFOMBRAS DE AUTO FRONT 68*44 REAR 44*33 CM OXGORD.COM",
+    "img": 1874,
+    "producto": "195 SUETER AZUL MARINO AIR FORCE L",
     "categoria": "ROPA",
-    "precio": 1000,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-11",
     "mostrar": 1,
     "actualizado": 1
   },
   {
     "id": 1174,
-    "img": 1496,
-    "producto": "SUETER MANGAS LARGAS VERDE TAHARI M",
+    "img": 1849,
+    "producto": "196 SUETER AZUL MARINO CATE…",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1175,
-    "img": 1497,
-    "producto": "CHALECO LARGO DE VESTIR GRIS ABRIGO GIRS M APX",
+    "img": 1872,
+    "producto": "197 SUETER AZUL MARINO VANHEUSEN L/G",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-4",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1176,
-    "img": 1498,
-    "producto": "CAPUCHA DE BRUJA DE HARRI POTER NUEVA",
+    "img": 1470,
+    "producto": "198 SUETER AZUL OSCURO L",
     "categoria": "ROPA",
-    "precio": 500,
-    "ubicacion": "CT2-3",
+    "precio": 250,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1177,
-    "img": 1499,
-    "producto": "LICRA AZUL MARINO M APX",
+    "img": 1912,
+    "producto": "199 SUETER BLANCO A4 XL",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1178,
-    "img": 1500,
-    "producto": "PANTALON DE EMBARAZADA CREMA JESSICA SIMPON SP",
+    "img": 1515,
+    "producto": "200 SUETER CORTO ROJO VINO WILD FABLE XXL",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-6",
+    "precio": 150,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1179,
-    "img": 1501,
-    "producto": "PANTALON MARRON OLD NAVY 0",
+    "img": 1952,
+    "producto": "201 SUETER CREAMA A-E 977 VITNAGE FIT M",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1180,
-    "img": 1502,
-    "producto": "PANUELO FINO GRANDE",
+    "img": 1942,
+    "producto": "202 SUETER CREMA L /G /G",
     "categoria": "ROPA",
-    "precio": 150,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1181,
-    "img": 1503,
-    "producto": "PANTALON GYM GRIS PIOMA M",
+    "img": 1922,
+    "producto": "203 SUETER CREMA Y AZUL FREE THE LAND L",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1182,
-    "img": 1504,
-    "producto": "LICRA NEGRO CAT JACK XL 14-16",
+    "img": 1778,
+    "producto": "204 SUETER DE UNA MANGA ON MARIPOSA NEGRO H HYBRID L",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1183,
-    "img": 1505,
-    "producto": "BLUSA NEGRA DE BRILLO STREETWEAR S",
+    "img": 1784,
+    "producto": "205 SUETER DE UNIFORME GRIS OSCURO SCRUBS S",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1184,
-    "img": 1506,
-    "producto": "PANTALON NEGRO DE RAMITAS BLANCAS APX M",
+    "img": 1413,
+    "producto": "206 SUETER GIRS CON NEGRO HARD 10/12",
     "categoria": "ROPA",
-    "precio": 150,
-    "ubicacion": "CT2",
+    "precio": 200,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1185,
-    "img": 1507,
-    "producto": "PANTALON JEANS HOLLISTER W 23 L 33",
+    "img": 1420,
+    "producto": "207 SUETER GRIS CON BALNCO HOLLISTER M",
     "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1186,
-    "img": 1508,
-    "producto": "LICRA GYM AZUL OLD NAVY M 8 NUEVO",
+    "img": 1772,
+    "producto": "208 SUETER GRIS MANGAS AZULES AMERIAN EAGE M",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1187,
-    "img": 1509,
-    "producto": "LICRA GYM ADIDAS 5 NUEVO",
+    "img": 1525,
+    "producto": "209 SUETER GRIS OKIE DOKIE XL 7",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-5",
+    "precio": 350,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1188,
-    "img": 1510,
-    "producto": "PANTALON JEANS ROJO 0",
+    "img": 1526,
+    "producto": "210 SUETER GRIS OSCURO  S NUEVO",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2",
+    "precio": 250,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1189,
-    "img": 1511,
-    "producto": "PANTALON CORTO NEGRO  W 28",
+    "img": 1886,
+    "producto": "211 SUETER GRIS RAYAS ROJAS Y AMARILLA LULA ROGE S",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1190,
-    "img": 1512,
-    "producto": "PANTALON CORTO NEGRO  NAUTICA 10",
+    "img": 1910,
+    "producto": "212 SUETER NARANJA CARHARTT M",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1191,
-    "img": 1513,
-    "producto": "FALDA PANTALON CORTA AZUL COOLIBAR S",
+    "img": 1433,
+    "producto": "213 SUETER NARANJA CAT JACK L 12/14",
     "categoria": "ROPA",
     "precio": 250,
-    "ubicacion": "CT2-4",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1192,
-    "img": 1514,
-    "producto": "BLUSA DE FLORES NEGRO Y ROSA APX M",
+    "img": 1443,
+    "producto": "214 SUETER NEGRO ADIDAS S",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-3",
+    "precio": 300,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1193,
-    "img": 1515,
-    "producto": "SUETER CORTO ROJO VINO WILD FABLE XXL",
+    "img": 1770,
+    "producto": "215 SUETER NEGRO ATP  M",
     "categoria": "ROPA",
-    "precio": 150,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1194,
-    "img": 1516,
-    "producto": "PANTALON CORTO AZUL  10",
+    "img": 1762,
+    "producto": "216 SUETER NEGRO INTENSITY S",
     "categoria": "ROPA",
-    "precio": 100,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1195,
-    "img": 1517,
-    "producto": "FRANELA MORADA XS ",
+    "img": 1792,
+    "producto": "217 SUETER NEGRO OLD NAVY M",
     "categoria": "ROPA",
-    "precio": 100,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1196,
-    "img": 1518,
-    "producto": "BLUSA DE GYM NEGRO XL XG",
+    "img": 1453,
+    "producto": "218 SUETER NEGRO OLD NAVY SP",
     "categoria": "ROPA",
     "precio": 250,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1197,
-    "img": 1519,
-    "producto": "PANTALON CORTO JEAN 24",
+    "img": 1454,
+    "producto": "219 SUETER NEGRO OLD NAVY SP V2",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-1",
+    "precio": 250,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1198,
-    "img": 1520,
-    "producto": "BERMUDA VERDE XL",
+    "img": 1848,
+    "producto": "220 SUETER NEGRO R...PI…",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1199,
-    "img": 1521,
-    "producto": "BLUSA AZUL CON NEGRO ATELIER M",
+    "img": 1447,
+    "producto": "221 SUETER NEGRO TIME TRU XL 16-18",
     "categoria": "ROPA",
     "precio": 250,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1200,
-    "img": 1522,
-    "producto": "BLUSA TIRITO SIN MANGA AZUL CLARO CON FLORES PAPE TEE M",
+    "img": 1814,
+    "producto": "222 SUETER RAYAS NEGRAS Y GRIS MASSIVE S",
     "categoria": "ROPA",
-    "precio": 200,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1201,
-    "img": 1523,
-    "producto": "FALDA PANTALON NEGRA CAT JACK XS 4/5 NUEVA",
+    "img": 1878,
+    "producto": "223 SUETER ROJO GALAXI 4XL ",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-4",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1202,
-    "img": 1524,
-    "producto": "PANTALON DE BAÑO ROSADO Y NEGRO  ROYY 28",
+    "img": 1958,
+    "producto": "224 SUETER ROJO GRIS Y BLANCO CUADRITOS AUGUSTA S",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1203,
-    "img": 1525,
-    "producto": "SUETER GRIS OKIE DOKIE XL 7",
+    "img": 1946,
+    "producto": "225 SUETER ROJO PANDA AMONIO M",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1204,
-    "img": 1526,
-    "producto": "SUETER GRIS OSCURO  S NUEVO",
+    "img": 1938,
+    "producto": "226 SUETER ROSADO FUSIA DEL SALVADOR 3XL",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-1",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1205,
-    "img": 1527,
-    "producto": "SUETER MANGAS LARGAS NEGRO UNDER ARMOUND 5 NUEVO",
+    "img": 1406,
+    "producto": "227 SUETER SIN MANGA ROSADO CRAZY M 7-8",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "precio": 150,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1206,
-    "img": 1528,
-    "producto": "JONSU BEBE MARVEL 3-6 M",
+    "img": 1482,
+    "producto": "228 SUETER SIN MANGAS AZUL L",
     "categoria": "ROPA",
-    "precio": 100,
-    "ubicacion": "CT2-0",
+    "precio": 200,
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1207,
-    "img": 1529,
-    "producto": "BLUSA DE GYM NEGRO HEAD L",
+    "img": 1486,
+    "producto": "229 SUETER SIN MANGAS AZUL UNA MANGA APX M",
     "categoria": "ROPA",
     "precio": 250,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1208,
-    "img": 1530,
-    "producto": "BLUSA VERDE TRAFALUC M",
+    "img": 1908,
+    "producto": "230 SUETER VERDE JOCKEY SPORT XL",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-3",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1209,
-    "img": 1531,
-    "producto": "ABRIGO AZUL XS 4/5 NUEVO",
+    "img": 1918,
+    "producto": "231 SUETER VERDE THE ZORREL L",
     "categoria": "ROPA",
-    "precio": 350,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-11",
     "mostrar": 1
   },
   {
     "id": 1210,
-    "img": 1532,
-    "producto": "PANTALON GYM NEGRO  M",
+    "img": 1740,
+    "producto": "232 CAMISA AZUL LAMOUR S",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-12",
     "mostrar": 1
   },
   {
     "id": 1211,
-    "img": 1533,
-    "producto": "ABRIGO AMARILLO EXPRESS SP",
+    "img": 1794,
+    "producto": "233 CAMISA AZUL OSCURO XS",
     "categoria": "ROPA",
-    "precio": 400,
-    "ubicacion": "CT2-7",
+    "ubicacion": "CT2-12",
     "mostrar": 1
   },
   {
     "id": 1212,
-    "img": 1534,
-    "producto": "JONSU BEBE AZUL CAT JACK  0-3M",
+    "img": 1926,
+    "producto": "234 CAMISA BLANCA D RAYAS NEGRAS LOFT XS",
     "categoria": "ROPA",
-    "precio": 50,
-    "ubicacion": "CT2-0",
+    "ubicacion": "CT2-12",
     "mostrar": 1
   },
   {
     "id": 1213,
-    "img": 1535,
-    "producto": "FRANELA NEGRA BROOKS XL",
+    "img": 1429,
+    "producto": "235 CAMISA BLANCA DE RAYAS AZULES LOGG US 2",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-1",
+    "precio": 200,
+    "ubicacion": "CT2-12",
     "mostrar": 1
   },
   {
     "id": 1214,
-    "img": 1536,
-    "producto": "JONSU CORTO AZUL MARINO CON NEGRO Y BLANCO CHIC MI S",
+    "img": 1400,
+    "producto": "236 CAMISA BLANCA L 16 ½ 32/33",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-4",
+    "precio": 250,
+    "ubicacion": "CT2-12",
     "mostrar": 1
   },
   {
     "id": 1215,
-    "img": 1537,
-    "producto": "LICRA NEGRO ADIDAS M 10-12",
+    "img": 1934,
+    "producto": "237 CAMISA BLANCA Y AZUL CON BOLITAS NEGRAS Y BLANCAS AOWO7S 2XL",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-5",
+    "ubicacion": "CT2-12",
     "mostrar": 1
   },
   {
     "id": 1216,
-    "img": 1538,
-    "producto": "ABRIGO AZUL MARINO ACTIVE BASIC M",
+    "img": 1430,
+    "producto": "238 CAMISA CHALECO BLANCO LAURA TYLER APX M SIN ETIQUETA",
     "categoria": "ROPA",
-    "precio": 250,
-    "ubicacion": "CT2-7",
+    "precio": 300,
+    "ubicacion": "CT2-12",
     "mostrar": 1
   },
   {
     "id": 1217,
+    "img": 1422,
+    "producto": "239 CAMISA CREMA UNIFORME M",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-12",
+    "mostrar": 1
+  },
+  {
+    "id": 1218,
+    "img": 1924,
+    "producto": "240 CAMISA DE CUADROS ROJOS Y BLANCOS ZARA MAN L",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-12",
+    "mostrar": 1
+  },
+  {
+    "id": 1219,
+    "img": 1862,
+    "producto": "241 CAMISA MANGAS LARGAS DE CUADROS RALLADOS ROJISOS Y AMAR Y AZUL SO M ",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-12",
+    "mostrar": 1
+  },
+  {
+    "id": 1220,
+    "img": 1549,
+    "producto": "242 BUFANDA AZUL ",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-2",
+    "mostrar": 1
+  },
+  {
+    "id": 1221,
+    "img": 1541,
+    "producto": "243 BUFANDA VERDE CLARO",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-2",
+    "mostrar": 1
+  },
+  {
+    "id": 1222,
+    "img": 1540,
+    "producto": "244 BUFANDA VERDE OLIVO ATP 9",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-2",
+    "mostrar": 1
+  },
+  {
+    "id": 1223,
     "img": 1539,
-    "producto": "BUFANDA Y GUANTES GRIS",
+    "producto": "245 BUFANDA Y GUANTES GRIS",
     "categoria": "ROPA",
     "precio": 450,
     "ubicacion": "CT2-2",
     "mostrar": 1
   },
   {
-    "id": 1218,
-    "img": 1540,
-    "producto": "BUFANDA VERDE OLIVO ATP 9",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-2",
-    "mostrar": 1
-  },
-  {
-    "id": 1219,
-    "img": 1541,
-    "producto": "BUFANDA VERDE CLARO",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-2",
-    "mostrar": 1
-  },
-  {
-    "id": 1220,
-    "img": 1542,
-    "producto": "CHALECO CREMA ENDLESS S",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
-    "mostrar": 1
-  },
-  {
-    "id": 1221,
-    "img": 1543,
-    "producto": "BLUSA AZUL DE RALLAS FOREVER 21 APX M",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
-    "mostrar": 1
-  },
-  {
-    "id": 1222,
-    "img": 1544,
-    "producto": "JONSU BEBE AZUL HEALTH TEXT 24 MOS",
-    "categoria": "ROPA",
-    "precio": 50,
-    "ubicacion": "CT2-0",
-    "mostrar": 1
-  },
-  {
-    "id": 1223,
-    "img": 1545,
-    "producto": "BLUSA BLANCA 1 MANGA ZAVEKIA S",
-    "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
-    "mostrar": 1
-  },
-  {
     "id": 1224,
-    "img": 1546,
-    "producto": "BLUSA BLANCA FOREVER M",
+    "img": 1502,
+    "producto": "246 PANUELO FINO GRANDE",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-3",
+    "precio": 150,
+    "ubicacion": "CT2-2",
     "mostrar": 1
   },
   {
     "id": 1225,
-    "img": 1547,
-    "producto": "CONJUNTO BLANCO BLUSA Y FALDA MENSI S",
+    "img": 1497,
+    "producto": "247 SUERA LARGO DE VESTIR GRIS ABRIGO GIRS M APX",
     "categoria": "ROPA",
-    "precio": 700,
-    "ubicacion": "CT2-4",
+    "precio": 300,
+    "ubicacion": "CT2-2",
     "mostrar": 1
   },
   {
     "id": 1226,
-    "img": 1548,
-    "producto": "VESTIDO DE FLORES Y HOJAS S",
+    "img": 1884,
+    "producto": "248 BLUSA AMARILLA DE CUADRITOS AZULES FOREVER 21 M",
     "categoria": "ROPA",
-    "precio": 500,
-    "ubicacion": "CT2-4",
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
     "id": 1227,
-    "img": 1549,
-    "producto": "BUFANDA AZUL ",
+    "img": 1405,
+    "producto": "249 BLUSA AMARILLA NASTY GAL US 0",
     "categoria": "ROPA",
-    "precio": 300,
-    "ubicacion": "CT2-2",
+    "precio": 350,
+    "ubicacion": "CT2-3",
     "mostrar": 1
   },
   {
@@ -11906,8 +11825,8 @@
     "ubicacion": "C2",
     "mostrar": 0,
     "fecha": 45904,
-    "estado": "credito",
-    "cliente": "marielys",
+    "estado": "CREDITO",
+    "cliente": "MARIELYS",
     "comentario": "REF CASITA. CAMBIO DE IMAGEN"
   },
   {
@@ -13430,6 +13349,1298 @@
     "categoria": "NIÑOS",
     "precio": 350,
     "ubicacion": "Cj6-NR",
+    "mostrar": 1
+  },
+  {
+    "id": 1404,
+    "img": 1409,
+    "producto": "250 BLUSA AZUL CON BLANCO CHINA M",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1405,
+    "img": 1521,
+    "producto": "251 BLUSA AZUL CON NEGRO ATELIER M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1406,
+    "img": 1543,
+    "producto": "252 BLUSA AZUL DE RALLAS FOREVER 21 APX M",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1408,
+    "img": 1494,
+    "producto": "253 BLUSA AZULES Y ESTAMPAS NORACORA L",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1410,
+    "img": 1545,
+    "producto": "254 BLUSA BLANCA 1 MANGA ZAVEKIA S",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1412,
+    "img": 1546,
+    "producto": "255 BLUSA BLANCA FOREVER M",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1414,
+    "img": 1425,
+    "producto": "256 BLUSA BLANCA S",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1416,
+    "img": 1474,
+    "producto": "257 BLUSA CAMISERA JEANS AZUL FASHION HOUSE M NUEVO",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1418,
+    "img": 1966,
+    "producto": "258 BLUSA DE ENFERMERA AZUL CLARO CON FLORES 2X",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1420,
+    "img": 1402,
+    "producto": "259 BLUSA DE FLORECITAS CAMILA CASUAL USA 8 –  EN REVISION LA PROFE",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1422,
+    "img": 1514,
+    "producto": "260 BLUSA DE FLORES NEGRO Y ROSA APX M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1424,
+    "img": 1529,
+    "producto": "261 BLUSA DE GYM NEGRO HEAD L",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1426,
+    "img": 1518,
+    "producto": "262 BLUSA DE GYM NEGRO XL XG",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1428,
+    "img": 1800,
+    "producto": "263 BLUSA DE RAYAS NEGRAS Y GRIS WETSEAL M APX",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1430,
+    "img": 1960,
+    "producto": "264 BLUSA DEPORTIVA CREMA EXPRESS M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1432,
+    "img": 1431,
+    "producto": "265 BLUSA EN CONJUTNO CREMA POLLY US 2",
+    "categoria": "ROPA",
+    "precio": 500,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1434,
+    "img": 1424,
+    "producto": "266 BLUSA HOJAS AMARILLAS MENGSI M",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1436,
+    "img": 1738,
+    "producto": "267 BLUSA MORADA LA CHINE CLASIC M APX",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1438,
+    "img": 1505,
+    "producto": "268 BLUSA NEGRA DE BRILLO STREETWEAR S",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1440,
+    "img": 1445,
+    "producto": "269 BLUSA NEGRA MICHAEL KORS  S",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1442,
+    "img": 1487,
+    "producto": "270 BLUSA NEGRA PRIVY APX M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1444,
+    "img": 1401,
+    "producto": "271 BLUSA ROJA THOMY BAHAMA S/P",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1446,
+    "img": 1418,
+    "producto": "272 BLUSA ROSADA GENERICA M",
+    "categoria": "ROPA",
+    "precio": 200,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1448,
+    "img": 1423,
+    "producto": "273 BLUSA SACO BLANCO LAURA TYLER APX L",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1450,
+    "img": 1451,
+    "producto": "274 BLUSA SIN MANGAS AZUL NEW YORK COMPANY S",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1452,
+    "img": 1956,
+    "producto": "275 BLUSA SIN MANGAS NEGRA CON FLORES FASHION MAGASINE M APX",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1454,
+    "img": 1455,
+    "producto": "276 BLUSA SIN MANGAS NEGRA EVEN S",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1456,
+    "img": 1798,
+    "producto": "277 BLUSA TIRITO GRUSA NEGRA ARIZONA XS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1458,
+    "img": 1522,
+    "producto": "278 BLUSA TIRITO SIN MANGA AZUL CLARO CON FLORES PAPE TEE M",
+    "categoria": "ROPA",
+    "precio": 200,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1460,
+    "img": 1530,
+    "producto": "279 BLUSA VERDE TRAFALUC M",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1462,
+    "img": 1839,
+    "producto": "280 CORREA HERBILLA CIRCULAR CON BOLA VERDE",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1464,
+    "img": 1840,
+    "producto": "281 CORREA HERBILLA DE FLOR TRIPODE",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1466,
+    "img": 1836,
+    "producto": "282 CORREA HERBILLA ORO NORMAL",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1468,
+    "img": 1838,
+    "producto": "283 CORREA HERBILLA PLATA CALVIN CLAIN",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1470,
+    "img": 1726,
+    "producto": "284 JACKET GRIS MOTION JACKET 12",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-3",
+    "mostrar": 1
+  },
+  {
+    "id": 1472,
+    "img": 1547,
+    "producto": "285 CONJUNTO BLANCO BLUSA Y FALDA MENSI S",
+    "categoria": "ROPA",
+    "precio": 700,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1474,
+    "img": 1513,
+    "producto": "286 FALDA PANTALON CORTA AZUL COOLIBAR S",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1476,
+    "img": 1523,
+    "producto": "287 FALDA PANTALON NEGRA CAT JACK XS 4/5 NUEVA",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1478,
+    "img": 1466,
+    "producto": "288 JONSU AZUL MARINO HOT DELICIOUS S",
+    "categoria": "ROPA",
+    "precio": 200,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1480,
+    "img": 1536,
+    "producto": "289 JONSU CORTO AZUL MARINO CON NEGRO Y BLANCO CHIC MI S",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1482,
+    "img": 1488,
+    "producto": "290 JONSU CORTO ESTAMPADO ROJO AMARILLO AZUL  L",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1484,
+    "img": 1416,
+    "producto": "291 JONSU CUADRITOS AMARILLO CON BLANCO OLD NAVY S",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1486,
+    "img": 1428,
+    "producto": "292 VESTIDO CORTO BOLITAS CUADRITOS NEGROS TORY BRUCH S NUEVO",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1488,
+    "img": 1548,
+    "producto": "293 VESTIDO DE FLORES Y HOJAS S",
+    "categoria": "ROPA",
+    "precio": 500,
+    "ubicacion": "CT2-4",
+    "mostrar": 1
+  },
+  {
+    "id": 1490,
+    "img": 1499,
+    "producto": "294 LICRA AZUL MARINO M APX",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1492,
+    "img": 1472,
+    "producto": "295 LICRA CORTO AZUL CALRO Y OSCURO M APX",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1494,
+    "img": 1410,
+    "producto": "296 LICRA DE RAYAS ROJAS Y BLANCAS SIMPLE JOYS 8",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1496,
+    "img": 1509,
+    "producto": "297 LICRA GYM ADIDAS 5 NUEVO",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1498,
+    "img": 1508,
+    "producto": "298 LICRA GYM AZUL OLD NAVY M 8 NUEVO",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1500,
+    "img": 1491,
+    "producto": "299 LICRA GYM NEGRO APX S",
+    "categoria": "ROPA",
+    "precio": 200,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1502,
+    "img": 1460,
+    "producto": "300 LICRA GYM NEGRO L-G 10-12 M",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1504,
+    "img": 1459,
+    "producto": "301 LICRA GYM NEGRO Y GRIS M",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1506,
+    "img": 1441,
+    "producto": "302 LICRA GYM ROSADO FUSIA  M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1508,
+    "img": 1537,
+    "producto": "303 LICRA NEGRO ADIDAS M 10-12",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1510,
+    "img": 1504,
+    "producto": "304 LICRA NEGRO CAT JACK XL 14-16",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1512,
+    "img": 1864,
+    "producto": "306 PANTALON DEPORTIVO AZUL CON VERDE NIKE M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1514,
+    "img": 1882,
+    "producto": "307 PANTALON DEPORTIVO AZUL MARINO RAYAS BLANCAS L 36-38",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1516,
+    "img": 1766,
+    "producto": "308 PANTALON DEPORTIVO AZUL OSCURO CON RAYAS DANSKIN XL XG 16-18",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1517,
+    "img": 1928,
+    "producto": "309 PANTALON DEPORTIVO CREMA Y GRIS UNION MADE JARED L",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1518,
+    "img": 1730,
+    "producto": "310 PANTALON DEPORTIVO GRIS ATP XL",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1519,
+    "img": 1852,
+    "producto": "311 PANTALON DEPORTIVO NEGRO CON RAYAS AMARILLAS KIM ROGER M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1521,
+    "img": 1891,
+    "producto": "312 PANTALON DEPORTIVO VERDE 100 SILK  L ",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1523,
+    "img": 1888,
+    "producto": "313 PANTALON DEPORTIVO VERDE TODD M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1525,
+    "img": 1503,
+    "producto": "314 PANTALON GYM GRIS PIOMA M",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1526,
+    "img": 1532,
+    "producto": "315 PANTALON GYM NEGRO  M",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1527,
+    "img": 1477,
+    "producto": "316 PANTALON GYM NEGRO LACITO VERDE APX M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1528,
+    "img": 1469,
+    "producto": "317 PANTALON GYM UNDER AMOUNT S",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1530,
+    "img": 1500,
+    "producto": "318 PANTALON DE EMBARAZADA CREMA JESSICA SIMPON SP",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-6",
+    "mostrar": 1
+  },
+  {
+    "id": 1532,
+    "img": 1415,
+    "producto": "319 PANTALON DE EMBARAZADA CREMA MOTHERHOOD US S",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-6",
+    "mostrar": 1
+  },
+  {
+    "id": 1534,
+    "img": 1481,
+    "producto": "320 PANTALON DE EMBARAZADA JEANS INBDIGO BLUE XS/TP",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-6",
+    "mostrar": 1
+  },
+  {
+    "id": 1536,
+    "img": 1484,
+    "producto": "321 PANTALON DE EMBARAZADA NEGRO APX M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-6",
+    "mostrar": 1
+  },
+  {
+    "id": 1538,
+    "img": 1490,
+    "producto": "322 PANTALON DE EMBARAZADA NEGRO M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-6",
+    "mostrar": 1
+  },
+  {
+    "id": 1540,
+    "img": 1820,
+    "producto": "305 PANTALON DEPORTIVO 87 NYC",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-5",
+    "mostrar": 1
+  },
+  {
+    "id": 1542,
+    "img": 1533,
+    "producto": "323 ABRIGO AMARILLO EXPRESS SP",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1544,
+    "img": 1434,
+    "producto": "324 ABRIGO AMARILLO SYF S",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1546,
+    "img": 1468,
+    "producto": "325 ABRIGO AMARILLO THALIA M NUEVO",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1548,
+    "img": 1816,
+    "producto": "326 ABRIGO AZUL BASIC HM XS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1550,
+    "img": 1458,
+    "producto": "327 ABRIGO AZUL CON BLANCO ATLETIC WORK M 32 34",
+    "categoria": "ROPA",
+    "precio": 500,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1552,
+    "img": 1456,
+    "producto": "328 ABRIGO AZUL DE RAYA  CON BLANCO TALBOT MP",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1554,
+    "img": 1538,
+    "producto": "329 ABRIGO AZUL MARINO ACTIVE BASIC M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1556,
+    "img": 1880,
+    "producto": "330 ABRIGO AZUL OSCURO KAREN SCOTT PL",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1558,
+    "img": 1531,
+    "producto": "331 ABRIGO AZUL XS 4/5 NUEVO",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1560,
+    "img": 1427,
+    "producto": "332 ABRIGO BLANCO DE BOLITAS NEGRAS LOFT L",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1562,
+    "img": 1446,
+    "producto": "333 ABRIGO CHALECO NEGRO COLLECTON JM XXL",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1564,
+    "img": 1444,
+    "producto": "334 ABRIGO CHALECO NEGRO GRUESO SPIRIT US XL",
+    "categoria": "ROPA",
+    "precio": 500,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1566,
+    "img": 1462,
+    "producto": "335 ABRIGO COLCHADO NEGRO GRUESO LAUREN S",
+    "categoria": "ROPA",
+    "precio": 700,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1568,
+    "img": 1493,
+    "producto": "336 ABRIGO CON GORRO GRIS POKEMON OLD NAVY L 10-12 NUEVO",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1569,
+    "img": 1408,
+    "producto": "337 ABRIGO CREMA LARGO GRUESO ZARA USA S",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1573,
+    "img": 1964,
+    "producto": "338 ABRIGO GRIS BRILLANTE CON NEGRO JOJO SILVA S",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1586,
+    "img": 1411,
+    "producto": "339 ABRIGO GRIS CLARO NIKE 6",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1588,
+    "img": 1414,
+    "producto": "340 ABRIGO GRIS CON BALNCO EXPRESS XS TP",
+    "categoria": "ROPA",
+    "precio": 450,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1590,
+    "img": 1438,
+    "producto": "341 ABRIGO GRIS CON ESTAMPILLAS OKIE DOKIE BLANCAS 5T",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1592,
+    "img": 1450,
+    "producto": "342 ABRIGO JACKET NEGRO GRUESO CHARTER CLUB PM",
+    "categoria": "ROPA",
+    "precio": 350,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1594,
+    "img": 1475,
+    "producto": "343 ABRIGO MORADO DECREE L/G",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1596,
+    "img": 1432,
+    "producto": "344 ABRIGO ROJO BESSERBAY 120",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1598,
+    "img": 1417,
+    "producto": "345 ABRIGO ROJO BLANCO Y NEGRO KIMROGERS M",
+    "categoria": "ROPA",
+    "precio": 450,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1600,
+    "img": 1440,
+    "producto": "346 ABRIGO ROJO CON BLANCO PLACE M ⅞",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1602,
+    "img": 1834,
+    "producto": "347 ABRIGO ROJO HOLLISTER M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1604,
+    "img": 1435,
+    "producto": "348 ABRIGO ROJO NIKE L",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1606,
+    "img": 1436,
+    "producto": "349 ABRIGO ROJO NIKE XL",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1608,
+    "img": 1804,
+    "producto": "350 ABRIGO ROJO VINO THALIA SODI M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1610,
+    "img": 1419,
+    "producto": "351 ABRIGO ROJO Y BLANCO DE RAYA WONDER NATION M 7-8",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1612,
+    "img": 1742,
+    "producto": "352 ABRIGO SENASA M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1614,
+    "img": 1442,
+    "producto": "353 ABRIGO VERDE DINOSAURIO PLACE S/P 5/6",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1616,
+    "img": 1452,
+    "producto": "354 ABRIGO VERDE J CREW XS ",
+    "categoria": "ROPA",
+    "precio": 400,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1618,
+    "img": 1890,
+    "producto": "355 SUETER MANGAS LARGAS AZUL MARINO Y BLANCO BLUGLE BOY L",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1620,
+    "img": 1954,
+    "producto": "356 SUETER MANGAS LARGAS BLANCO NIKE M ",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1622,
+    "img": 1725,
+    "producto": "357 SUETER MANGAS LARGAS GRIS S APX",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1624,
+    "img": 1802,
+    "producto": "358 SUETER MANGAS LARGAS NEGRO A4 M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1626,
+    "img": 1870,
+    "producto": "359 SUETER MANGAS LARGAS NEGRO COLUMBIA TITANIUM XL TG",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1628,
+    "img": 1527,
+    "producto": "360 SUETER MANGAS LARGAS NEGRO UNDER ARMOUND 5 NUEVO",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1630,
+    "img": 1407,
+    "producto": "361 SUETER MANGAS LARGAS ROJO CAT JACK M 8-10",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1632,
+    "img": 1948,
+    "producto": "362 SUETER MANGAS LARGAS ROJO CON BLANCO HOHOHO FAMILY PJS S",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1634,
+    "img": 1496,
+    "producto": "363 SUETER MANGAS LARGAS VERDE TAHARI M",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1636,
+    "img": 1936,
+    "producto": "364 SUETER MANGAS MEDIA LARGAS DE CUADRITOS AZULES LIZCLAIBORNE M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-7",
+    "mostrar": 1
+  },
+  {
+    "id": 1638,
+    "img": 1997,
+    "producto": "365 MEDIAS AMARILLAS MORADAS ROSADAS EN DEGRADADOS CON PUNTOS NEGROS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1640,
+    "img": 2011,
+    "producto": "366 MEDIAS BLANCAS ",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1642,
+    "img": 2006,
+    "producto": "367 MEDIAS BLANCAS AZUL CLARO CON MUÑECOS DE NIEVE",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1644,
+    "img": 2007,
+    "producto": "368 MEDIAS BLANCAS DE BOLITAS ROJAS NEGRA Y GRIS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1646,
+    "img": 1994,
+    "producto": "369 MEDIAS CREMA",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1648,
+    "img": 2010,
+    "producto": "370 MEDIAS CREMA GATITO",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1650,
+    "img": 2008,
+    "producto": "371 MEDIAS CREMAS DE RAYAS MORADAS ROSADAS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1653,
+    "img": 2005,
+    "producto": "372 MEDIAS CREMAS MARRON Y ROJO",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1655,
+    "img": 2003,
+    "producto": "373 MEDIAS GRIS BLANCA NEGRA Y AZUL",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1657,
+    "img": 2001,
+    "producto": "374 MEDIAS GRIS CON YARAS NEGRAS Y RAMITOS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1659,
+    "img": 1996,
+    "producto": "375 MEDIAS GRIS DE RAYAS ROSADAS Y AZULES",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1661,
+    "img": 1999,
+    "producto": "376 MEDIAS GRIS OSCURO DRSCHOOL",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1664,
+    "img": 2004,
+    "producto": "377 MEDIAS LARGAS NEGRAS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1666,
+    "img": 1998,
+    "producto": "378 MEDIAS MARRON OSCURO",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1668,
+    "img": 1995,
+    "producto": "379 MEDIAS MORADAS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1670,
+    "img": 2000,
+    "producto": "380 MEDIAS NEGRAS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1671,
+    "img": 2002,
+    "producto": "381 MEDIAS NEGRAS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1672,
+    "img": 2009,
+    "producto": "382 MEDIAS ROJAS DE RAYAS AZULES Y BLANCA",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1673,
+    "img": 2012,
+    "producto": "383 MEDIAS ROJAS DE RAYAS NEGRAS AZULES CON DIEÑOS",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1674,
+    "img": 1993,
+    "producto": "384 MEDIAS VERDE MORADAS DIENTES",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-8",
+    "mostrar": 1
+  },
+  {
+    "id": 1675,
+    "img": 1845,
+    "producto": "385 BRAZIEL DE BOLITAS DE COLORES XL XG",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1676,
+    "img": 1970,
+    "producto": "386 BRAZIEL ROJO ATHLETA 36D",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1677,
+    "img": 1981,
+    "producto": "387 BRAZIEL VERDE CLARO HOLLISTER M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1678,
+    "img": 1986,
+    "producto": "388 BRAZIER BLANCO CAT S",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1679,
+    "img": 1826,
+    "producto": "389 BRAZIER LARGO NEGRO  M APX",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1680,
+    "img": 1841,
+    "producto": "390 BRAZIER NEGRO DE TIRITO CHAMPINION XL",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1681,
+    "img": 1843,
+    "producto": "391 BRAZIER NEGRO DE TIRITO REP. DOM G196",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1682,
+    "img": 1979,
+    "producto": "392 BRAZIER VERDE CON BOLITAS BLANCAS ISLAND SOUL",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1683,
+    "img": 1542,
+    "producto": "393 CHALECO CREMA ENDLESS S",
+    "categoria": "ROPA",
+    "precio": 300,
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1684,
+    "img": 1524,
+    "producto": "394 PANTALON DE BAÑO ROSADO Y NEGRO  ROYY 28",
+    "categoria": "ROPA",
+    "precio": 250,
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1685,
+    "img": 1977,
+    "producto": "395 PANTIS AZULES ON SHORE",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1686,
+    "img": 1990,
+    "producto": "396 PANTIS MORADOS CON FLORECITAS PINK L-G",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1687,
+    "img": 1847,
+    "producto": "397 PANTIS NEGROS M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1688,
+    "img": 1983,
+    "producto": "398 PANTIS ROSADOS AERIE M",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1689,
+    "img": 1988,
+    "producto": "399 PANTIS ROSADOS CARTERS 18",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
+    "mostrar": 1
+  },
+  {
+    "id": 1690,
+    "img": 1972,
+    "producto": "400 PANTIS ROSADOS WODER NATION XXL 18",
+    "categoria": "ROPA",
+    "ubicacion": "CT2-9",
     "mostrar": 1
   }
 ]
