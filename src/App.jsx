@@ -539,17 +539,17 @@ const App = () => {
 
       const cantidadMostrandototalropa = datos.datos.filter((item) => item.categoria === "ROPA").length;
 
-const carteras = datos.datos.filter((item) => item.categoria === "MUJER").length;
-const calzado = datos.datos.filter((item) => item.categoria === "CALZADO").length;
-const personal = datos.datos.filter((item) => item.categoria === "PERSONAL").length;
-const adornos = datos.datos.filter((item) => item.categoria === "ADORNOS").length;
-const cristales = datos.datos.filter((item) => item.categoria === "CRISTALES").length;
-const cocina = datos.datos.filter((item) => item.categoria === "COCINA").length;
-const hogar = datos.datos.filter((item) => item.categoria === "HOGAR").length;
-const electro = datos.datos.filter((item) => item.categoria === "ELECTRODOMESTICO").length;
-const juguetes = datos.datos.filter((item) => item.categoria === "NIÑOS").length;
-const carros = datos.datos.filter((item) => item.categoria === "NIÑOS2").length;
-const ropa = datos.datos.filter((item) => item.categoria === "ROPA").length;
+const carteras = datos.datos.filter((item) => item.categoria === "MUJER"  && item.mostrar == 1).length;
+const calzado = datos.datos.filter((item) => item.categoria === "CALZADO"  && item.mostrar == 1).length;
+const personal = datos.datos.filter((item) => item.categoria === "PERSONAL"  && item.mostrar == 1).length;
+const adornos = datos.datos.filter((item) => item.categoria === "ADORNOS"  && item.mostrar == 1).length;
+const cristales = datos.datos.filter((item) => item.categoria === "CRISTALES"  && item.mostrar == 1).length;
+const cocina = datos.datos.filter((item) => item.categoria === "COCINA"  && item.mostrar == 1).length;
+const hogar = datos.datos.filter((item) => item.categoria === "HOGAR"  && item.mostrar == 1).length;
+const electro = datos.datos.filter((item) => item.categoria === "ELECTRODOMESTICO"  && item.mostrar == 1).length;
+const juguetes = datos.datos.filter((item) => item.categoria === "NIÑOS"  && item.mostrar == 1).length;
+const carros = datos.datos.filter((item) => item.categoria === "NIÑOS2"  && item.mostrar == 1).length;
+const ropa = datos.datos.filter((item) => item.categoria === "ROPA" && item.mostrar == 1).length;
 
 
   console.log(cantidadMostrando);
@@ -699,7 +699,7 @@ const ropa = datos.datos.filter((item) => item.categoria === "ROPA").length;
             COCINA - {cocina}
           </button>
           <button style={styles.button2} onClick={hogarBtn}>
-            DEL HOGAR - {hogar}
+            DEL HOGAR  - {hogar}
           </button>
           <button style={styles.button3} onClick={electroBtn}>
             ELECTRODOMÉS... - {electro}
