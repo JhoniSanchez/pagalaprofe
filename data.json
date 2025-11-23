@@ -1429,8 +1429,8 @@
     "precio": 500,
     "ubicacion": "C3",
     "mostrar": 0,
-    "fecha": 45926,
-    "estado": "CREDITO",
+    "fecha": 45966,
+    "estado": "SALDO",
     "montofinal": 500,
     "cliente": "NICAURIS",
     "comentario": "Valia 700"
@@ -3998,8 +3998,8 @@
     "precio": 600,
     "ubicacion": "C6",
     "mostrar": 0,
-    "fecha": 45880,
-    "estado": "CREDITO",
+    "fecha": 45965,
+    "estado": "SALDO",
     "cliente": "PURA",
     "detallecliente": "COLEGIO",
     "comentario": "Al 04/09/2025 ab 500, debe 100. MAS TARDE TOMO MAS COSAS A CREDITO, POR LO QUE CON EL PAGO SE COBRO UNA DE ESAS POR 500."
@@ -5172,7 +5172,7 @@
   {
     "id": 493,
     "img": 493,
-    "producto": "CARTERA BLANCA LARUE MEDINA EN PIEL",
+    "producto": "136 CARTERA BLANCA LARUE MEDINA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC493",
     "precio": 400,
@@ -5182,7 +5182,7 @@
   {
     "id": 494,
     "img": 494,
-    "producto": "CARTERA CREMA RACHELZOE MEDIO GRANDE EN PIEL Y TELA",
+    "producto": "100 CARTERA CREMA RACHELZOE MEDIO GRANDE EN PIEL Y TELA",
     "categoria": "MUJER",
     "COD": "CC494",
     "precio": 800,
@@ -5192,7 +5192,7 @@
   {
     "id": 495,
     "img": 495,
-    "producto": "MOCHILA ZARA BASIC PEQUEÑA EN TELA GRUESA TIPO TEJIDO",
+    "producto": "150 MOCHILA ZARA BASIC PEQUEÑA EN TELA GRUESA TIPO TEJIDO",
     "categoria": "MUJER",
     "COD": "CC495",
     "precio": 750,
@@ -5202,7 +5202,7 @@
   {
     "id": 496,
     "img": 496,
-    "producto": "BULTO CREMA COZY EARTHA MEIO GRANDE EN TELA Y PIEL",
+    "producto": "144 BULTO CREMA COZY EARTHA MEIO GRANDE EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC496",
     "precio": 600,
@@ -5212,7 +5212,7 @@
   {
     "id": 497,
     "img": 497,
-    "producto": "MONEDERO CREMNA ARTE PEQ CON BRILLANTES",
+    "producto": "115 MONEDERO CREMNA ARTE PEQ CON BRILLANTES",
     "categoria": "MUJER",
     "COD": "CC497",
     "precio": 150,
@@ -5222,7 +5222,7 @@
   {
     "id": 498,
     "img": 498,
-    "producto": "BULTO CREMA GENERICO MEDIO PEQUEÑO EN TELA GRUESA",
+    "producto": "139 BULTO CREMA GENERICO MEDIO PEQUEÑO EN TELA GRUESA",
     "categoria": "MUJER",
     "COD": "CC498",
     "precio": 500,
@@ -5233,7 +5233,7 @@
   {
     "id": 499,
     "img": 499,
-    "producto": "MONEDERO ROSADO Y NEGRO CONTENTS PEQUEÑO EN PLASTICO",
+    "producto": "116 MONEDERO ROSADO Y NEGRO CONTENTS PEQUEÑO EN PLASTICO",
     "categoria": "MUJER",
     "COD": "CC499",
     "precio": 200,
@@ -5254,7 +5254,7 @@
   {
     "id": 501,
     "img": 501,
-    "producto": "MONEDERO AMARILLO ESTAMPADO LPSY PEQUEÑO  EN PIEL ",
+    "producto": "119 MONEDERO AMARILLO ESTAMPADO LPSY PEQUEÑO  EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC501",
     "precio": 250,
@@ -5264,7 +5264,7 @@
   {
     "id": 502,
     "img": 502,
-    "producto": "CARTERA MAMEI BCBG MEDIO GRANDE EN PIEL",
+    "producto": "109 CARTERA MAMEI BCBG MEDIO GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC502",
     "precio": 1000,
@@ -5274,7 +5274,7 @@
   {
     "id": 503,
     "img": 503,
-    "producto": "CARTERA MARRON LUCKY BRAND MEDIANA EN PIEL ",
+    "producto": "140 CARTERA MARRON LUCKY BRAND MEDIANA EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC503",
     "precio": 500,
@@ -5284,7 +5284,7 @@
   {
     "id": 504,
     "img": 504,
-    "producto": "CARTERA MARRON ESTAMPADO EN FLORES MEDIANA EN TELA Y PIEL ",
+    "producto": "151 CARTERA MARRON ESTAMPADO EN FLORES MEDIANA EN TELA Y PIEL ",
     "categoria": "MUJER",
     "COD": "CC504",
     "precio": 750,
@@ -5294,7 +5294,7 @@
   {
     "id": 505,
     "img": 505,
-    "producto": "CARTERA ROSADA SIONE MEDIO GRANDE EN PIEL",
+    "producto": "152 CARTERA ROSADA SIONE MEDIO GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC505",
     "precio": 750,
@@ -5304,7 +5304,7 @@
   {
     "id": 506,
     "img": 506,
-    "producto": "CARTERA AMARILLA DOONEY BOURKE MEDIO GRANDE EN TEL A Y PIEL ",
+    "producto": "147 CARTERA AMARILLA DOONEY BOURKE MEDIO GRANDE EN TEL A Y PIEL ",
     "categoria": "MUJER",
     "COD": "CC506",
     "precio": 650,
@@ -5314,7 +5314,7 @@
   {
     "id": 507,
     "img": 507,
-    "producto": "CARTERA LEOPARDO VANNESA TRENDS PEQUEÑA EN PIEL",
+    "producto": "130 CARTERA LEOPARDO VANNESA TRENDS PEQUEÑA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC507",
     "precio": 300,
@@ -5324,7 +5324,7 @@
   {
     "id": 508,
     "img": 508,
-    "producto": "CARTERA MORADA ENZO AMGIDIM GRANDE EN PIEL DE PELO BRILLANTE",
+    "producto": "110 CARTERA MORADA ENZO AMGIDIM GRANDE EN PIEL DE PELO BRILLANTE",
     "categoria": "MUJER",
     "COD": "CC508",
     "precio": 1000,
@@ -5334,7 +5334,7 @@
   {
     "id": 509,
     "img": 509,
-    "producto": "CARTERA MARRON  GENERICA GRANDE EN TELA",
+    "producto": "153 CARTERA MARRON  GENERICA GRANDE EN TELA",
     "categoria": "MUJER",
     "COD": "CC509",
     "precio": 750,
@@ -5344,7 +5344,7 @@
   {
     "id": 510,
     "img": 510,
-    "producto": "CARTERA ROSADA VIENNA EN CUERO PEQUEÑA",
+    "producto": "137 CARTERA ROSADA VIENNA EN CUERO PEQUEÑA",
     "categoria": "MUJER",
     "COD": "CC510",
     "precio": 400,
@@ -5354,7 +5354,7 @@
   {
     "id": 511,
     "img": 511,
-    "producto": "MONEDERO ROJO LPSY EN PIEL PEQUEÑO",
+    "producto": "120 MONEDERO ROJO LPSY EN PIEL PEQUEÑO",
     "categoria": "MUJER",
     "COD": "CC511",
     "precio": 250,
@@ -5364,7 +5364,7 @@
   {
     "id": 512,
     "img": 512,
-    "producto": "BULTO MARRON Y NEGRO HELLO WEEDEND MEDIANO EN TELA",
+    "producto": "131 BULTO MARRON Y NEGRO HELLO WEEDEND MEDIANO EN TELA",
     "categoria": "MUJER",
     "COD": "CC512",
     "precio": 300,
@@ -5374,7 +5374,7 @@
   {
     "id": 513,
     "img": 513,
-    "producto": "CARTERA NEGRA SMART BAGS MEDIANA EN TELA",
+    "producto": "141 CARTERA NEGRA SMART BAGS MEDIANA EN TELA",
     "categoria": "MUJER",
     "COD": "CC513",
     "precio": 500,
@@ -5384,7 +5384,7 @@
   {
     "id": 514,
     "img": 514,
-    "producto": "CARTERA NEGRA VINCE CAMEITO GRANDE EN PIEL ",
+    "producto": "101 CARTERA NEGRA VINCE CAMEITO GRANDE EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC514",
     "precio": 800,
@@ -5394,7 +5394,7 @@
   {
     "id": 515,
     "img": 515,
-    "producto": "CARTERA MARRO ESTAMPADO COACH GRANDE EN TELA",
+    "producto": "148 CARTERA MARRO ESTAMPADO COACH GRANDE EN TELA",
     "categoria": "MUJER",
     "COD": "CC515",
     "precio": 650,
@@ -5404,7 +5404,7 @@
   {
     "id": 516,
     "img": 516,
-    "producto": "CARTERA AZUL ROSETTI MEDIANA EN PIEL",
+    "producto": "106 CARTERA AZUL ROSETTI MEDIANA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC516",
     "precio": 900,
@@ -5414,7 +5414,7 @@
   {
     "id": 517,
     "img": 517,
-    "producto": "CARTERA NEGRA GENERICA MEDIANA TELA BODADO",
+    "producto": "138 CARTERA NEGRA GENERICA MEDIANA TELA BODADO",
     "categoria": "MUJER",
     "COD": "CC517",
     "precio": 400,
@@ -5424,7 +5424,7 @@
   {
     "id": 518,
     "img": 518,
-    "producto": "CARTERA GRIS VERDOSO SARNE MEDIANA EN PIEL",
+    "producto": "142 CARTERA GRIS VERDOSO SARNE MEDIANA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC518",
     "precio": 500,
@@ -5434,7 +5434,7 @@
   {
     "id": 519,
     "img": 519,
-    "producto": "CARTERA AZUL CALVIN KLEIN PIEL GRANDE",
+    "producto": "111 CARTERA AZUL CALVIN KLEIN PIEL GRANDE",
     "categoria": "MUJER",
     "COD": "CC519",
     "precio": 1000,
@@ -5444,7 +5444,7 @@
   {
     "id": 520,
     "img": 520,
-    "producto": "CARTERA BLANCO Y NEGRO ATP GRANDE EN PIEL",
+    "producto": "145 CARTERA BLANCO Y NEGRO ATP GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC520",
     "precio": 600,
@@ -5454,7 +5454,7 @@
   {
     "id": 521,
     "img": 521,
-    "producto": "CARTERA NEGRA COACH 1941 EN PIEL GRANDE ",
+    "producto": "103 CARTERA NEGRA COACH 1941 EN PIEL GRANDE ",
     "categoria": "MUJER",
     "COD": "CC521",
     "precio": 850,
@@ -5464,7 +5464,7 @@
   {
     "id": 522,
     "img": 522,
-    "producto": "CARTERA NEGRA TIGNANELO MEDIANA GRUESA PIEL",
+    "producto": "112 CARTERA NEGRA TIGNANELO MEDIANA GRUESA PIEL",
     "categoria": "MUJER",
     "COD": "CC522",
     "precio": 1000,
@@ -5474,7 +5474,7 @@
   {
     "id": 523,
     "img": 523,
-    "producto": "MONEDERO LEOPARDO MICHAEL ROMEDESING EN PIEL",
+    "producto": "127 MONEDERO LEOPARDO MICHAEL ROMEDESING EN PIEL",
     "categoria": "MUJER",
     "COD": "CC523",
     "precio": 400,
@@ -5485,7 +5485,7 @@
   {
     "id": 524,
     "img": 524,
-    "producto": "BULTO AZUL HAUTE SHORE MEDIANO ",
+    "producto": "146 BULTO AZUL HAUTE SHORE MEDIANO ",
     "categoria": "MUJER",
     "COD": "CC524",
     "precio": 600,
@@ -5495,7 +5495,7 @@
   {
     "id": 525,
     "img": 525,
-    "producto": "MONEDERO MARRON LOCCITANE ",
+    "producto": "117 MONEDERO MARRON LOCCITANE ",
     "categoria": "MUJER",
     "COD": "CC525",
     "precio": 200,
@@ -5505,7 +5505,7 @@
   {
     "id": 526,
     "img": 526,
-    "producto": "MONEDERO NEGRO BRILLANTE GENERICO ",
+    "producto": "118 MONEDERO NEGRO BRILLANTE GENERICO ",
     "categoria": "MUJER",
     "COD": "CC526",
     "precio": 200,
@@ -5515,7 +5515,7 @@
   {
     "id": 527,
     "img": 527,
-    "producto": "CARTERA NEGRA GENERICA EN CUERO RIGIDA  PEQUEÑA",
+    "producto": "132 CARTERA NEGRA GENERICA EN CUERO RIGIDA  PEQUEÑA",
     "categoria": "MUJER",
     "COD": "CC527",
     "precio": 300,
@@ -5525,7 +5525,7 @@
   {
     "id": 528,
     "img": 528,
-    "producto": "CARTERA CREMA COACH 1941 MEDIANA EN TELA Y PIEL",
+    "producto": "104 CARTERA CREMA COACH 1941 MEDIANA EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC528",
     "precio": 850,
@@ -5535,7 +5535,7 @@
   {
     "id": 529,
     "img": 529,
-    "producto": "CARTERA CREMA OSCURO LAUREN MEDIO GRANDE PIEL ",
+    "producto": "107 CARTERA CREMA OSCURO LAUREN MEDIO GRANDE PIEL ",
     "categoria": "MUJER",
     "COD": "CC529",
     "precio": 900,
@@ -5545,7 +5545,7 @@
   {
     "id": 530,
     "img": 530,
-    "producto": "CARTERA ROSADA Y CREMA COACH MEDIANA  EN TELA  PIEL",
+    "producto": "113 CARTERA ROSADA Y CREMA COACH MEDIANA  EN TELA  PIEL",
     "categoria": "MUJER",
     "COD": "CC530",
     "precio": 1000,
@@ -5555,7 +5555,7 @@
   {
     "id": 531,
     "img": 531,
-    "producto": "MOCHILA MARRON AMARILLENTO GENERICA MEDIANA EN PIEL ",
+    "producto": "108 MOCHILA MARRON AMARILLENTO GENERICA MEDIANA EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC531",
     "precio": 900,
@@ -5565,7 +5565,7 @@
   {
     "id": 532,
     "img": 532,
-    "producto": "CARTERA NEGRA SERGIO VALENTE GRANDE EN CUERO ",
+    "producto": "154 CARTERA NEGRA SERGIO VALENTE GRANDE EN CUERO ",
     "categoria": "MUJER",
     "COD": "CC532",
     "precio": 750,
@@ -5575,7 +5575,7 @@
   {
     "id": 533,
     "img": 533,
-    "producto": "CARTERA GRIS OSCURO DSW GRANDE EN TELA Y PIEL",
+    "producto": "105 CARTERA GRIS OSCURO DSW GRANDE EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC533",
     "precio": 850,
@@ -5585,7 +5585,7 @@
   {
     "id": 534,
     "img": 534,
-    "producto": "BULTO AZUL Y CREMA GENERICO MEDIANO TELA",
+    "producto": "133 BULTO AZUL Y CREMA GENERICO MEDIANO TELA",
     "categoria": "MUJER",
     "COD": "CC534",
     "precio": 300,
@@ -5595,7 +5595,7 @@
   {
     "id": 535,
     "img": 535,
-    "producto": "CARTERA VERDE OPACO MK MEDIO GRANDE ",
+    "producto": "134 CARTERA VERDE OPACO MK MEDIO GRANDE ",
     "categoria": "MUJER",
     "COD": "CC535",
     "precio": 300,
@@ -5605,7 +5605,7 @@
   {
     "id": 536,
     "img": 536,
-    "producto": "CARTERA GRIS OSCURO YANI MEDIO GRANDE ",
+    "producto": "114 CARTERA GRIS OSCURO YANI MEDIO GRANDE ",
     "categoria": "MUJER",
     "COD": "CC536",
     "precio": 1000,
@@ -5615,7 +5615,7 @@
   {
     "id": 537,
     "img": 537,
-    "producto": "CARTERA NEGRA MIZTIGNER MEDIO GRANDE ",
+    "producto": "155 CARTERA NEGRA MIZTIGNER MEDIO GRANDE ",
     "categoria": "MUJER",
     "COD": "CC537",
     "precio": 750,
@@ -5625,7 +5625,7 @@
   {
     "id": 538,
     "img": 538,
-    "producto": "CARTERA ROJA GENERICA EN CUERO Y TELA",
+    "producto": "143 CARTERA ROJA GENERICA EN CUERO Y TELA",
     "categoria": "MUJER",
     "COD": "CC538",
     "precio": 500,
@@ -5635,7 +5635,7 @@
   {
     "id": 539,
     "img": 539,
-    "producto": "BULTO AMARILLO JENNIFER MORE MEDIOANO TIP ARTESANAL ",
+    "producto": "135 BULTO AMARILLO JENNIFER MORE MEDIOANO TIP ARTESANAL ",
     "categoria": "MUJER",
     "COD": "CC539",
     "precio": 300,
@@ -5645,7 +5645,7 @@
   {
     "id": 540,
     "img": 540,
-    "producto": "CARTERA ROSADA COACH MEDIANA EN CUERO Y PIEL",
+    "producto": "149 CARTERA ROSADA COACH MEDIANA EN CUERO Y PIEL",
     "categoria": "MUJER",
     "COD": "CC540",
     "precio": 650,
@@ -5655,7 +5655,7 @@
   {
     "id": 541,
     "img": 541,
-    "producto": "MONEDERO MULTICOLOR VERA BRANDLEY PEQUEÑO",
+    "producto": "121 MONEDERO MULTICOLOR VERA BRANDLEY PEQUEÑO",
     "categoria": "MUJER",
     "COD": "CC541",
     "precio": 250,
@@ -5665,7 +5665,7 @@
   {
     "id": 542,
     "img": 542,
-    "producto": "MONEDERO AMARILLO FOSSIL EN PIEL PEQUEÑO",
+    "producto": "126 MONEDERO AMARILLO FOSSIL EN PIEL PEQUEÑO",
     "categoria": "MUJER",
     "COD": "CC542",
     "precio": 350,
@@ -5675,7 +5675,7 @@
   {
     "id": 543,
     "img": 543,
-    "producto": "MONEDERO AZUL CORAZONES LPSY E PIEL",
+    "producto": "122 MONEDERO AZUL CORAZONES LPSY E PIEL",
     "categoria": "MUJER",
     "COD": "CC543",
     "precio": 250,
@@ -5685,7 +5685,7 @@
   {
     "id": 544,
     "img": 544,
-    "producto": "MONEDERO LPSY PLATEADO  EN PIEL ",
+    "producto": "123 MONEDERO LPSY PLATEADO  EN PIEL ",
     "categoria": "MUJER",
     "COD": "CC544",
     "precio": 250,
@@ -5695,7 +5695,7 @@
   {
     "id": 545,
     "img": 545,
-    "producto": "MONEDERO AZUL Y VERDE LPSY TELA",
+    "producto": "124 MONEDERO AZUL Y VERDE LPSY TELA",
     "categoria": "MUJER",
     "COD": "CC545",
     "precio": 250,
@@ -5705,7 +5705,7 @@
   {
     "id": 546,
     "img": 546,
-    "producto": "MONEDERO GRIS COACH TELA Y PIEL ",
+    "producto": "128 MONEDERO GRIS COACH TELA Y PIEL ",
     "categoria": "MUJER",
     "COD": "CC546",
     "precio": 400,
@@ -5716,7 +5716,7 @@
   {
     "id": 547,
     "img": 547,
-    "producto": "MONEDERO VERDE Y MARRON ESTAMPADO NATAL RN CUERO",
+    "producto": "125 MONEDERO VERDE Y MARRON ESTAMPADO NATAL RN CUERO",
     "categoria": "MUJER",
     "COD": "CC547",
     "precio": 250,
@@ -5726,7 +5726,7 @@
   {
     "id": 548,
     "img": 548,
-    "producto": "CARTERA U BULTICO 2 EN 1 ROSADO AMARILLO OLIVIA MILLIER ",
+    "producto": "102 CARTERA U BULTICO 2 EN 1 ROSADO AMARILLO OLIVIA MILLIER ",
     "categoria": "MUJER",
     "COD": "CC548",
     "precio": 800,
@@ -14844,7 +14844,7 @@
   {
     "id": 1693,
     "producto": "BALANCE A FAVOR",
-    "precio": -300,
+    "precio": -200,
     "mostrar": 0,
     "estado": "CREDITO",
     "cliente": "PURA",
@@ -14864,7 +14864,8 @@
     "producto": "CREDITO A FAVOR, POR PAGO DE 600 Y DEUDA DE 1000",
     "precio": -100,
     "mostrar": 0,
-    "estado": "CREDITO",
+    "fecha": 45966,
+    "estado": "SALDO",
     "cliente": "NICAURIS"
   }
 ]
