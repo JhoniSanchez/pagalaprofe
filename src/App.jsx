@@ -681,37 +681,48 @@ const ropa = datos.datos.filter((item) => item.categoria === "ROPA" && item.most
         {/* Sección de los botones */}
         <div style={styles.buttonsGrid}>
           <button style={styles.button} onClick={mujerBtn}>
-            CARTERAS - {carteras}
+            CARTERAS 
+            {/* - {carteras} */}
           </button>
           <button style={styles.button} onClick={calzadoBtn}>
-            CALZADO - {calzado}
+            CALZADO 
+            {/* - {calzado} */}
           </button>
           <button style={styles.button} onClick={personalBtn}>
-            USO PERSONAL - {personal}
+            USO PERSONAL
+             {/* - {personal} */}
           </button>
           <button style={styles.button2} onClick={adornosBtn}>
-            ADORNOS - {adornos}
+            ADORNOS 
+            {/* - {adornos} */}
           </button>
           <button style={styles.button2} onClick={cristalesBtn}>
-            CRISTALERIA - {cristales}
+            CRISTALERIA 
+            {/* - {cristales} */}
           </button>
           <button style={styles.button2} onClick={cocinaBtn}>
-            COCINA - {cocina}
+            COCINA 
+            {/* - {cocina} */}
           </button>
           <button style={styles.button2} onClick={hogarBtn}>
-            DEL HOGAR  - {hogar}
+            DEL HOGAR 
+             {/* - {hogar} */}
           </button>
           <button style={styles.button3} onClick={electroBtn}>
-            ELECTRODOMÉS... - {electro}
+            ELECTRODOMÉS... 
+            {/* - {electro} */}
           </button>
           <button style={styles.button4} onClick={ninosBtn1}>
-            JUGUETES - {juguetes}
+            JUGUETES 
+            {/* - {juguetes} */}
           </button>
           <button style={styles.button5} onClick={ninosBtn2}>
-            CARROS  - {carros}
+            CARROS 
+             {/* - {carros} */}
           </button>
                 <button style={styles.button6} onClick={ropabtn}>
-            ROPA - {ropa}
+            ROPA
+             {/* - {ropa} */}
           </button>
           <button style={styles.button3}>PROXIMAMENTE</button>
         </div>
