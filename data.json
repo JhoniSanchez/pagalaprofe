@@ -694,7 +694,7 @@
     "producto": "ROLOS ELECTRICOS",
     "categoria": "ELECTRODOMESTICO",
     "COD": "C366",
-    "precio": 400,
+    "precio": 250,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -754,7 +754,7 @@
     "producto": "JUEGO DE ROLOS PEINE",
     "categoria": "COCINA",
     "COD": "C372",
-    "precio": 500,
+    "precio": 300,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1482,7 +1482,7 @@
     "producto": "JUEGO DE ROLOS ROJOS CON ESPONJA DIFF TAMAÑOS",
     "categoria": "PERSONAL",
     "COD": "C3139",
-    "precio": 500,
+    "precio": 300,
     "ubicacion": "C3",
     "mostrar": 1
   },
@@ -1938,8 +1938,11 @@
     "COD": "C4183",
     "precio": 1000,
     "ubicacion": "C4",
-    "mostrar": 1,
-    "actualizado": "blasina"
+    "mostrar": 0,
+    "actualizado": "blasina",
+    "fecha": 45996,
+    "estado": "CREDITO",
+    "cliente": "yesica"
   },
   {
     "id": 184,
@@ -2113,7 +2116,7 @@
     "producto": "MAQUINA DE CECAR ROLOS",
     "categoria": "ELECTRODOMESTICO",
     "COD": "C4200",
-    "precio": 500,
+    "precio": 300,
     "ubicacion": "C4",
     "mostrar": 1
   },
@@ -2554,8 +2557,8 @@
     "precio": 150,
     "ubicacion": "C5",
     "mostrar": 0,
-    "fecha": 45932,
-    "estado": "CREDITO",
+    "fecha": 45994,
+    "estado": "SALDO",
     "cliente": "MARIELYS"
   },
   {
@@ -4791,7 +4794,7 @@
     "producto": "TENIS NEGRO FRYE 8.5 USA",
     "categoria": "CALZADO",
     "COD": "CZ456",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4801,7 +4804,7 @@
     "producto": "TENIS ABIERTOS EASYsPIRIT 8.5 USA",
     "categoria": "CALZADO",
     "COD": "CZ457",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4822,7 +4825,7 @@
     "producto": "ZAPATOS NEGRO DE VESTIR CLIFFS 9M",
     "categoria": "CALZADO",
     "COD": "CZ459",
-    "precio": 1300,
+    "precio": 700,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4832,7 +4835,7 @@
     "producto": "ZAPATOS NEGROS PAUL GREEN 8",
     "categoria": "CALZADO",
     "COD": "CZ460",
-    "precio": 600,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4842,7 +4845,7 @@
     "producto": "ZAPATOS MARRON ROJIZO GUCCI 7",
     "categoria": "CALZADO",
     "COD": "CZ461",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4853,7 +4856,7 @@
     "producto": "BOTAS DE FRIO MARRON METOO 8",
     "categoria": "CALZADO",
     "COD": "CZ462",
-    "precio": 800,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4873,7 +4876,7 @@
     "producto": "ZAPATOS NEGRO DR SCHOLLS 8.5 USA",
     "categoria": "CALZADO",
     "COD": "CZ464",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4884,7 +4887,7 @@
     "producto": "TACOS NEGROS WILD DIVA 8",
     "categoria": "CALZADO",
     "COD": "CZ465",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4894,7 +4897,7 @@
     "producto": "TENIS AZUL NIKE NIÑOS 3.5 USA",
     "categoria": "CALZADO",
     "COD": "CZ466",
-    "precio": 800,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4905,7 +4908,7 @@
     "producto": "BOTAS NEGRAS SONOMA 9 ",
     "categoria": "CALZADO",
     "COD": "CZ467",
-    "precio": 800,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4916,7 +4919,7 @@
     "producto": "SANDALIAS MARON CLARO NAUTICA 9 USA",
     "categoria": "CALZADO",
     "COD": "CZ468",
-    "precio": 1200,
+    "precio": 600,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4926,7 +4929,7 @@
     "producto": "ZAPATOS VERDE CLARO SPERRY 9.5",
     "categoria": "CALZADO",
     "COD": "CZ469",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4947,7 +4950,7 @@
     "producto": "TENIS AZULES CLARO NIKE 7.5 USA",
     "categoria": "CALZADO",
     "COD": "CZ471",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4958,7 +4961,7 @@
     "producto": "BOTAS MARRON GOMA Y CUERO COUDWALKEWA 10W",
     "categoria": "CALZADO",
     "COD": "CZ472",
-    "precio": 1000,
+    "precio": 600,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4968,7 +4971,7 @@
     "producto": "TACOS PLATAFORMA CREMA MADDEN GIRL 6",
     "categoria": "CALZADO",
     "COD": "CZ473",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4978,7 +4981,7 @@
     "producto": "ZAPATOS NEGROSSTACEY ADAMS 11M",
     "categoria": "CALZADO",
     "COD": "CZ474",
-    "precio": 800,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -4989,7 +4992,7 @@
     "producto": "BOTAS DE FRIO CRUERO MARRON BRAZIL 8B",
     "categoria": "CALZADO",
     "COD": "CZ475",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5000,7 +5003,7 @@
     "producto": "BOTAS DE FRIO EN CUERO MARRON CLARO  HIDRO SHIELD 7.5",
     "categoria": "CALZADO",
     "COD": "CZ476",
-    "precio": 1300,
+    "precio": 700,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5011,7 +5014,7 @@
     "producto": "SANDALIAS NEGRAS AEROTHOTIC 40",
     "categoria": "CALZADO",
     "COD": "CZ477",
-    "precio": 600,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5021,7 +5024,7 @@
     "producto": "TENIS NEGROS NEW BALANCE 12 USA",
     "categoria": "CALZADO",
     "COD": "CZ478",
-    "precio": 1100,
+    "precio": 600,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5031,7 +5034,7 @@
     "producto": "TENIS NEGRO GRUEOSS CON METAL POR DENTRO PARA OBREROS ROEBRUCK 9 USA",
     "categoria": "CALZADO",
     "COD": "CZ479",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5062,7 +5065,7 @@
     "producto": "ZAPATOS MARRON DE VESTIR CLIFFS 9M",
     "categoria": "CALZADO",
     "COD": "CZ482",
-    "precio": 1300,
+    "precio": 700,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5072,7 +5075,7 @@
     "producto": "TENIS BRACH NEGROS 7.5",
     "categoria": "CALZADO",
     "COD": "CZ483",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5093,7 +5096,7 @@
     "producto": "ZAPATOS MARRON ESTY 8",
     "categoria": "CALZADO",
     "COD": "CZ485",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5104,7 +5107,7 @@
     "producto": "TACOS AZULES PRADA 36",
     "categoria": "CALZADO",
     "COD": "CZ486",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5114,7 +5117,7 @@
     "producto": "TENIS AZUL MAMEI NIÑOS GOMA STRIDE RITE 13 USA",
     "categoria": "CALZADO",
     "COD": "CZ487",
-    "precio": 1100,
+    "precio": 600,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5135,7 +5138,7 @@
     "producto": "TENIS VERDE CLAROS FRYE 10M",
     "categoria": "CALZADO",
     "COD": "CZ489",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5145,7 +5148,7 @@
     "producto": "TENIS BLANCO Y NEGRO ADIDAS WEIGHTLIFT 11.5 USA",
     "categoria": "CALZADO",
     "COD": "CZ490",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5155,7 +5158,7 @@
     "producto": "ZAPATOS MARRON COLTOE 7.5",
     "categoria": "CALZADO",
     "COD": "CZ491",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -5186,7 +5189,7 @@
     "producto": "110 - CARTERA CREMA RACHELZOE MEDIO GRANDE EN PIEL Y TELA",
     "categoria": "MUJER",
     "COD": "CC494",
-    "precio": 800,
+    "precio": 550,
     "ubicacion": "CC-2",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5197,7 +5200,7 @@
     "producto": "116 - MOCHILA ZARA BASIC PEQUEÑA EN TELA GRUESA TIPO TEJIDO",
     "categoria": "MUJER",
     "COD": "CC495",
-    "precio": 750,
+    "precio": 500,
     "ubicacion": "CC-3",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5230,7 +5233,7 @@
     "producto": "124 - BULTO CREMA GENERICO MEDIO PEQUEÑO EN TELA GRUESA",
     "categoria": "MUJER",
     "COD": "CC498",
-    "precio": 500,
+    "precio": 450,
     "ubicacion": "CC-4",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS",
@@ -5244,8 +5247,11 @@
     "COD": "CC499",
     "precio": 200,
     "ubicacion": "CC-7",
-    "mostrar": 1,
-    "actualizado": "ZZZCARTERAS"
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "contado",
+    "cliente": "yesica"
   },
   {
     "id": 500,
@@ -5275,7 +5281,7 @@
     "producto": "113 - CARTERA MAMEI BCBG MEDIO GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC502",
-    "precio": 800,
+    "precio": 550,
     "ubicacion": "CC-2",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5297,7 +5303,7 @@
     "producto": "128 - CARTERA MARRON ESTAMPADO EN FLORES MEDIANA EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC504",
-    "precio": 500,
+    "precio": 400,
     "ubicacion": "CC-5",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5319,7 +5325,7 @@
     "producto": "120 - CARTERA AMARILLA DOONEY BOURKE MEDIO GRANDE EN TEL A Y PIEL",
     "categoria": "MUJER",
     "COD": "CC506",
-    "precio": 650,
+    "precio": 500,
     "ubicacion": "CC-3",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5341,7 +5347,7 @@
     "producto": "100 - CARTERA MORADA ENZO AMGIDIM GRANDE EN PIEL DE PELO BRILLANTE",
     "categoria": "MUJER",
     "COD": "CC508",
-    "precio": 1000,
+    "precio": 650,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5352,7 +5358,7 @@
     "producto": "117 - CARTERA MARRON GENERICA GRANDE EN TELA",
     "categoria": "MUJER",
     "COD": "CC509",
-    "precio": 750,
+    "precio": 500,
     "ubicacion": "CC-3",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5387,8 +5393,11 @@
     "COD": "CC512",
     "precio": 300,
     "ubicacion": "CC-6",
-    "mostrar": 1,
-    "actualizado": "ZZZCARTERAS"
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "contado",
+    "cliente": "yesica"
   },
   {
     "id": 513,
@@ -5396,7 +5405,7 @@
     "producto": "125 - CARTERA NEGRA SMART BAGS MEDIANA EN TELA",
     "categoria": "MUJER",
     "COD": "CC513",
-    "precio": 500,
+    "precio": 450,
     "ubicacion": "CC-4",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5407,7 +5416,7 @@
     "producto": "111 - CARTERA NEGRA VINCE CAMEITO GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC514",
-    "precio": 800,
+    "precio": 550,
     "ubicacion": "CC-2",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5418,7 +5427,7 @@
     "producto": "121 - CARTERA MARRO ESTAMPADO COACH GRANDE EN TELA",
     "categoria": "MUJER",
     "COD": "CC515",
-    "precio": 650,
+    "precio": 500,
     "ubicacion": "CC-3",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5429,7 +5438,7 @@
     "producto": "105 - CARTERA AZUL ROSETTI MEDIANA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC516",
-    "precio": 900,
+    "precio": 600,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5451,7 +5460,7 @@
     "producto": "126 - CARTERA GRIS VERDOSO SARNE MEDIANA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC518",
-    "precio": 500,
+    "precio": 450,
     "ubicacion": "CC-4",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5462,7 +5471,7 @@
     "producto": "101 - CARTERA AZUL CALVIN KLEIN PIEL GRANDE",
     "categoria": "MUJER",
     "COD": "CC519",
-    "precio": 1000,
+    "precio": 700,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5473,7 +5482,7 @@
     "producto": "114 - CARTERA BLANCO Y NEGRO ATP GRANDE EN PIEL",
     "categoria": "MUJER",
     "COD": "CC520",
-    "precio": 800,
+    "precio": 550,
     "ubicacion": "CC-2",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5484,7 +5493,7 @@
     "producto": "108 - CARTERA NEGRA COACH 1941 EN PIEL GRANDE",
     "categoria": "MUJER",
     "COD": "CC521",
-    "precio": 850,
+    "precio": 550,
     "ubicacion": "CC-2",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5495,7 +5504,7 @@
     "producto": "102 - CARTERA NEGRA TIGNANELO MEDIANA GRUESA PIEL",
     "categoria": "MUJER",
     "COD": "CC522",
-    "precio": 1000,
+    "precio": 700,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5518,7 +5527,7 @@
     "producto": "122 - BULTO AZUL HAUTE SHORE MEDIANO",
     "categoria": "MUJER",
     "COD": "CC524",
-    "precio": 600,
+    "precio": 450,
     "ubicacion": "CC-4",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5542,8 +5551,11 @@
     "COD": "CC526",
     "precio": 200,
     "ubicacion": "CC-7",
-    "mostrar": 1,
-    "actualizado": "ZZZCARTERAS"
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "contado",
+    "cliente": "yesica"
   },
   {
     "id": 527,
@@ -5562,7 +5574,7 @@
     "producto": "123 - CARTERA CREMA COACH 1941 MEDIANA EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC528",
-    "precio": 500,
+    "precio": 450,
     "ubicacion": "CC-4",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5573,7 +5585,7 @@
     "producto": "106 - CARTERA CREMA OSCURO LAUREN MEDIO GRANDE PIEL",
     "categoria": "MUJER",
     "COD": "CC529",
-    "precio": 900,
+    "precio": 600,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5584,7 +5596,7 @@
     "producto": "103 - CARTERA ROSADA Y CREMA COACH MEDIANA EN TELA PIEL",
     "categoria": "MUJER",
     "COD": "CC530",
-    "precio": 1000,
+    "precio": 700,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5595,7 +5607,7 @@
     "producto": "107 - MOCHILA MARRON AMARILLENTO GENERICA MEDIANA EN PIEL",
     "categoria": "MUJER",
     "COD": "CC531",
-    "precio": 900,
+    "precio": 600,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5606,7 +5618,7 @@
     "producto": "115 - CARTERA NEGRA SERGIO VALENTE GRANDE EN CUERO",
     "categoria": "MUJER",
     "COD": "CC532",
-    "precio": 800,
+    "precio": 550,
     "ubicacion": "CC-3",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5617,7 +5629,7 @@
     "producto": "109 - CARTERA GRIS OSCURO DSW GRANDE EN TELA Y PIEL",
     "categoria": "MUJER",
     "COD": "CC533",
-    "precio": 850,
+    "precio": 550,
     "ubicacion": "CC-2",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5630,8 +5642,11 @@
     "COD": "CC534",
     "precio": 300,
     "ubicacion": "CC-6",
-    "mostrar": 1,
-    "actualizado": "ZZZCARTERAS"
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "contado",
+    "cliente": "maria disla"
   },
   {
     "id": 535,
@@ -5650,7 +5665,7 @@
     "producto": "104 - CARTERA GRIS OSCURO YANI MEDIO GRANDE",
     "categoria": "MUJER",
     "COD": "CC536",
-    "precio": 1000,
+    "precio": 700,
     "ubicacion": "CC-1",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5661,7 +5676,7 @@
     "producto": "118 - CARTERA NEGRA MIZTIGNER MEDIO GRANDE",
     "categoria": "MUJER",
     "COD": "CC537",
-    "precio": 750,
+    "precio": 500,
     "ubicacion": "CC-3",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5672,7 +5687,7 @@
     "producto": "119 - CARTERA ROJA GENERICA EN CUERO Y TELA",
     "categoria": "MUJER",
     "COD": "CC538",
-    "precio": 700,
+    "precio": 500,
     "ubicacion": "CC-3",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5694,7 +5709,7 @@
     "producto": "127 - CARTERA ROSADA COACH MEDIANA EN CUERO Y PIEL",
     "categoria": "MUJER",
     "COD": "CC540",
-    "precio": 500,
+    "precio": 400,
     "ubicacion": "CC-5",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -5707,8 +5722,11 @@
     "COD": "CC541",
     "precio": 300,
     "ubicacion": "CC-7",
-    "mostrar": 1,
-    "actualizado": "ZZZCARTERAS"
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "contado",
+    "cliente": "yesica"
   },
   {
     "id": 542,
@@ -5718,8 +5736,11 @@
     "COD": "CC542",
     "precio": 350,
     "ubicacion": "CC-7",
-    "mostrar": 1,
-    "actualizado": "ZZZCARTERAS"
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "CREDITO",
+    "cliente": "ESTEFANI"
   },
   {
     "id": 543,
@@ -5753,8 +5774,11 @@
     "COD": "CC545",
     "precio": 300,
     "ubicacion": "CC-7",
-    "mostrar": 1,
-    "actualizado": "ZZZCARTERAS"
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "contado",
+    "cliente": "yesica"
   },
   {
     "id": 546,
@@ -5787,7 +5811,7 @@
     "producto": "112 - CARTERA U BULTICO 2 EN 1 ROSADO AMARILLO OLIVIA MILLIER",
     "categoria": "MUJER",
     "COD": "CC548",
-    "precio": 800,
+    "precio": 550,
     "ubicacion": "CC-2",
     "mostrar": 1,
     "actualizado": "ZZZCARTERAS"
@@ -7557,7 +7581,7 @@
     "producto": "TENIS NIÑOS GRIS Y BLANCO US 12M SPERRY SINCE 1935 EXCELENTE CONDICION",
     "categoria": "CALZADO",
     "COD": "CZ720",
-    "precio": 1500,
+    "precio": 700,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -7567,7 +7591,7 @@
     "producto": "TENIS NIÑOS ROJOS US 9K ADDIDAS",
     "categoria": "CALZADO",
     "COD": "CZ721",
-    "precio": 900,
+    "precio": 500,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -7577,7 +7601,7 @@
     "producto": "ZAPATOS PLATEADO BRILLANTE 71/2 QUILID",
     "categoria": "CALZADO",
     "COD": "CZ722",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CZ",
     "mostrar": 1
   },
@@ -10648,7 +10672,7 @@
     "img": 1495,
     "producto": "100 ALFOMBRAS DE AUTO FRONT4 UNI 68*44 REAR 44*33 CM OXGORD.COM",
     "categoria": "ROPA",
-    "precio": 1000,
+    "precio": 600,
     "ubicacion": "CT2",
     "mostrar": 1
   },
@@ -10829,7 +10853,7 @@
     "img": 1498,
     "producto": "116 CAPUCHA DE BRUJA DE HARRI POTER NUEVA",
     "categoria": "ROPA",
-    "precio": 800,
+    "precio": 500,
     "ubicacion": "CT2-0",
     "mostrar": 1
   },
@@ -10910,7 +10934,7 @@
     "img": 1812,
     "producto": "124 TRAJE MARVEL NINJA L 10-12",
     "categoria": "ROPA",
-    "precio": 800,
+    "precio": 500,
     "ubicacion": "CT2-0",
     "mostrar": 1
   },
@@ -11288,7 +11312,7 @@
     "img": 1744,
     "producto": "168 PANTALON JEANS AZUL CAMAPANA TRUE RELIGION 24",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 400,
     "ubicacion": "CT2-10",
     "mostrar": 1
   },
@@ -11324,7 +11348,7 @@
     "img": 1746,
     "producto": "176 PANTALON JEANS AZUL ROCK REVIDAL 25",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 400,
     "ubicacion": "CT2-10",
     "mostrar": 1
   },
@@ -11333,7 +11357,7 @@
     "img": 1732,
     "producto": "177 PANTALON JEANS AZUL ROCK REVISAL 25",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 400,
     "ubicacion": "CT2-10",
     "mostrar": 1
   },
@@ -11920,7 +11944,7 @@
     "img": 1862,
     "producto": "242 CAMISA MANGAS LARGAS DE CUADROS RALLADOS ROJISOS Y AMAR Y AZUL SO M",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 400,
     "ubicacion": "CT2-12",
     "mostrar": 1
   },
@@ -12015,8 +12039,8 @@
     "precio": 600,
     "ubicacion": "C2",
     "mostrar": 0,
-    "fecha": 45904,
-    "estado": "CREDITO",
+    "fecha": 45994,
+    "estado": "SALDO",
     "cliente": "MARIELYS",
     "comentario": "REF CASITA. CAMBIO DE IMAGEN"
   },
@@ -12270,9 +12294,10 @@
     "categoria": "CRISTALES",
     "precio": 200,
     "mostrar": 0,
-    "fecha": 45931,
-    "estado": "CREDITO",
-    "cliente": "yesica"
+    "fecha": 45994,
+    "estado": "SALDO",
+    "cliente": "yesica",
+    "comentario": "AL 3-12-25 PAGO 900, SE SALDANM ESTOS 200 Y LE QUEDAN 700 A FAVOR"
   },
   {
     "id": 1260,
@@ -12304,7 +12329,11 @@
     "producto": "SOPERA GRANDE CUADRADA ROJA SUIZA",
     "categoria": "CRISTALES",
     "precio": 600,
-    "mostrar": 1
+    "mostrar": 0,
+    "actualizado": "ZZZCARTERAS",
+    "fecha": 45993,
+    "estado": "CREDITO",
+    "cliente": "yesica"
   },
   {
     "id": 1264,
@@ -13688,7 +13717,7 @@
     "img": 1431,
     "producto": "288 VESTIDO Y BLUSA EN CONJUNTO CREMA POLLY US 2",
     "categoria": "ROPA",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CT2-4",
     "mostrar": 1
   },
@@ -13868,7 +13897,7 @@
     "img": 1547,
     "producto": "278 CONJUNTO BLANCO BLUSA Y FALDA MENSI S",
     "categoria": "ROPA",
-    "precio": 600,
+    "precio": 400,
     "ubicacion": "CT2-4",
     "mostrar": 1
   },
@@ -14322,7 +14351,7 @@
     "img": 1462,
     "producto": "351 ABRIGO ZG COLCHADO NEGRO GRUESO LAUREN S",
     "categoria": "ROPA",
-    "precio": 700,
+    "precio": 400,
     "ubicacion": "CT2-77",
     "mostrar": 1
   },
@@ -14919,6 +14948,16 @@
     "cliente": "yesica"
   },
   {
+    "id": 1694,
+    "producto": "BALANCE A FAVOR",
+    "precio": -700,
+    "mostrar": 0,
+    "fecha": 45994,
+    "estado": "CREDITO",
+    "cliente": "yesica",
+    "comentario": "DE 900 QUE ABONO EL DIA 3, SE SALDATRON 200 Y SE LE PUSO CREDITO DE 700"
+  },
+  {
     "id": 1695,
     "producto": "CREDITO A FAVOR, POR PAGO DE 600 Y DEUDA DE 1000",
     "precio": -100,
@@ -14926,6 +14965,14 @@
     "fecha": 45966,
     "estado": "SALDO",
     "cliente": "NICAURIS"
+  },
+  {
+    "producto": "BALANCE A FAVOR",
+    "precio": -700,
+    "fecha": 45992,
+    "estado": "CREDITO",
+    "cliente": "yesica",
+    "comentario": "De 2000 que pago, 1300, que ella creia que eran 1350, los 700 que le sobran se le colocan a ffavor. "
   }
 ]
 }
